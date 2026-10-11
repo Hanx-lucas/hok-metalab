@@ -1,0 +1,11 @@
+{
+  "key": "susu_app_info",
+  "url": "https://api.91m.top/hero/app?type=getAppInfo&lang=zh-CN&ref=&host=pvp.91m.top&gameType=wzry",
+  "method": "POST",
+  "http_status": 200,
+  "retrieved_at": "2026-10-11T08:02:47.112330+00:00",
+  "sha256": "bec413fa8d84f69a1fe722291d242ac14fba3100eeebc72237e34ffd5dfc8c2b",
+  "bytes": 2583,
+  "classification": "third_party_public_aggregate",
+  "credentials_used": false
+}

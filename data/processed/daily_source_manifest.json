@@ -1,0 +1,101 @@
+[
+  {
+    "key": "susu_app_info",
+    "url": "https://api.91m.top/hero/app?type=getAppInfo&lang=zh-CN&ref=&host=pvp.91m.top&gameType=wzry",
+    "method": "POST",
+    "http_status": 200,
+    "retrieved_at": "2026-10-11T08:02:47.112330+00:00",
+    "sha256": "bec413fa8d84f69a1fe722291d242ac14fba3100eeebc72237e34ffd5dfc8c2b",
+    "bytes": 2583,
+    "classification": "third_party_public_aggregate",
+    "credentials_used": false
+  },
+  {
+    "key": "susu_rank_0",
+    "url": "https://api.91m.top/hero/app?type=getRanking&aid=0&bid=0&cid=0&did=0&lang=zh-CN&ref=&host=pvp.91m.top&gameType=wzry",
+    "method": "POST",
+    "http_status": 200,
+    "retrieved_at": "2026-10-11T08:02:48.084534+00:00",
+    "sha256": "43d9dacc8aa91cad691a37730b08a3be3fcfa89670b5abeb2c5ba2b37dea7d25",
+    "bytes": 145938,
+    "classification": "third_party_public_aggregate",
+    "credentials_used": false
+  },
+  {
+    "key": "susu_rank_3",
+    "url": "https://api.91m.top/hero/app?type=getRanking&aid=0&bid=0&cid=0&did=3&lang=zh-CN&ref=&host=pvp.91m.top&gameType=wzry",
+    "method": "POST",
+    "http_status": 200,
+    "retrieved_at": "2026-10-11T08:03:00.955030+00:00",
+    "sha256": "835bb3ad1d7d0885a9ca306d6d64f3c54a56e49a891d65b2a7db6cce795006fa",
+    "bytes": 48293,
+    "classification": "third_party_public_aggregate",
+    "credentials_used": false
+  },
+  {
+    "key": "susu_rank_4",
+    "url": "https://api.91m.top/hero/app?type=getRanking&aid=0&bid=0&cid=0&did=4&lang=zh-CN&ref=&host=pvp.91m.top&gameType=wzry",
+    "method": "POST",
+    "http_status": 200,
+    "retrieved_at": "2026-10-11T08:02:58.210809+00:00",
+    "sha256": "cc7687133bfdc4827a3854fe46e53b6d23c8b25ee769057f9c9a75da239a4711",
+    "bytes": 48325,
+    "classification": "third_party_public_aggregate",
+    "credentials_used": false
+  },
+  {
+    "key": "susu_rank_5",
+    "url": "https://api.91m.top/hero/app?type=getRanking&aid=0&bid=0&cid=0&did=5&lang=zh-CN&ref=&host=pvp.91m.top&gameType=wzry",
+    "method": "POST",
+    "http_status": 200,
+    "retrieved_at": "2026-10-11T08:02:55.196651+00:00",
+    "sha256": "14ccdf8d50a320432d9795837f18c69b342244cb81e1bcb0da25459a69bb12fa",
+    "bytes": 48304,
+    "classification": "third_party_public_aggregate",
+    "credentials_used": false
+  },
+  {
+    "key": "susu_history_107",
+    "url": "https://api.91m.top/hero/app?type=getHeroChartsLog&aid=0&bid=0&cid=0&did=0&id=107&gameType=wzry",
+    "method": "POST",
+    "http_status": 200,
+    "retrieved_at": "2026-10-11T08:05:04.400125+00:00",
+    "sha256": "b957eee3b7a5c8b58f77ef7c7183d7c8c9328265d1d218859c6206cf77afde78",
+    "bytes": 1075137,
+    "classification": "third_party_public_aggregate",
+    "credentials_used": false
+  },
+  {
+    "key": "susu_history_140",
+    "url": "https://api.91m.top/hero/app?type=getHeroChartsLog&aid=0&bid=0&cid=0&did=0&id=140&gameType=wzry",
+    "method": "POST",
+    "http_status": 200,
+    "retrieved_at": "2026-10-11T08:05:05.867697+00:00",
+    "sha256": "a6bc2e8221560901ad01886571f65cc7a5001b2951cd7f5e5fedd488ce858a14",
+    "bytes": 1083195,
+    "classification": "third_party_public_aggregate",
+    "credentials_used": false
+  },
+  {
+    "key": "susu_history_525",
+    "url": "https://api.91m.top/hero/app?type=getHeroChartsLog&aid=0&bid=0&cid=0&did=0&id=525&gameType=wzry",
+    "method": "POST",
+    "http_status": 200,
+    "retrieved_at": "2026-10-11T08:05:07.332981+00:00",
+    "sha256": "78c6da0b03859f341933323972d7b1ca8691d7f8f01a448bad3217208a402e1f",
+    "bytes": 1058953,
+    "classification": "third_party_public_aggregate",
+    "credentials_used": false
+  },
+  {
+    "key": "susu_history_527",
+    "url": "https://api.91m.top/hero/app?type=getHeroChartsLog&aid=0&bid=0&cid=0&did=0&id=527&lang=zh-CN&ref=&host=pvp.91m.top&gameType=wzry",
+    "method": "POST",
+    "http_status": 200,
+    "retrieved_at": "2026-10-11T08:03:04.666434+00:00",
+    "sha256": "7312f88754181ae7d1d3950ed1588a81786e885ed29ec6e58982aadeaea96862",
+    "bytes": 981104,
+    "classification": "third_party_public_aggregate",
+    "credentials_used": false
+  }
+]

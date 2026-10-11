@@ -1,0 +1,49 @@
+:root {
+  color-scheme: light dark;
+  --adaptive-theme: 1;
+  --font-sans-default: -apple-system-body, ui-sans-serif, -apple-system, system-ui, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol";
+  --font-sans: "Bahnschrift", "Microsoft YaHei UI", "Microsoft YaHei", sans-serif;
+  --background: light-dark(#f0f1eb, #141b1a);
+  --surface: light-dark(#ffffff, #1d2724);
+  --surface-raised: light-dark(#ffffff, #25332c);
+  --muted: light-dark(#e7ebe3, #25332c);
+  --control: var(--surface);
+  --control-hover: light-dark(#f0eee4, #34453a);
+  --interaction-hover: var(--muted);
+  --interaction-active: var(--control-hover);
+  --text: light-dark(#263a31, #f0eee4);
+  --secondary: light-dark(#6a756a, #b3bdb1);
+  --border: light-dark(#d5ddd2, #394a3d);
+  --border-strong: light-dark(#b9c5b5, #50604f);
+  --accent: var(--chart-1);
+  --positive: var(--color-text-success, light-dark(#00a240, #40c977));
+  --negative: var(--color-text-error, light-dark(#e02e2a, #ff6764));
+  --chart-1: light-dark(#8a692f, #dcc28e);
+  --chart-2: light-dark(#a64135, #dd9582);
+  --chart-3: light-dark(#37674f, #83b39b);
+  --chart-4: light-dark(#62736b, #a1b8aa);
+  --chart-5: light-dark(#826844, #c4b088);
+  --chart-6: light-dark(#a64135, #dd9582);
+  --chart-7: light-dark(#fa423e, #ff6764);
+  --chart-8: light-dark(#8f8f8f, #afafaf);
+  --chart-neutral-fill: color-mix(in srgb, var(--text) 3%, var(--surface));
+  --ranked-list-fill: color-mix(in srgb, var(--chart-1) 16%, var(--surface));
+  --ranked-list-fill-hover: color-mix(in srgb, var(--chart-1) 24%, var(--surface));
+  --movement-positive: color-mix(in srgb, var(--positive) 75%, var(--text));
+  --movement-negative: color-mix(in srgb, var(--negative) 75%, var(--text));
+  --movement-total: var(--secondary);
+  --card-radius: 12px;
+  --data-card-radius: 14px;
+  --data-card-background: var(--surface);
+  --control-radius: 8px;
+  --mark-radius: 8;
+  --card-shadow: 0 4px 12px rgb(0 0 0 / 1%);
+  --shadow: 0 8px 16px -4px rgb(0 0 0 / 12%);
+  --data-app-chrome-background: var(--surface);
+  --data-app-chrome-text: var(--text);
+}
+
+:root:not([data-app-theme]),
+:root:is([data-app-theme="original"], [data-app-theme="codex-classic"]) {
+  --dashboard-background: light-dark(color-mix(in srgb, var(--background) 98.6%, var(--text)), var(--background));
+}

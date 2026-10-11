@@ -1,0 +1,2 @@
+﻿current_rows,current_complete,current_heroes,segments,observation_date,history_heroes,history_rows,history_complete,history_first,history_last,exact_duplicate_days_removed,reconciliation_rows,endpoints_disagree,officially_reconciled,sample_sizes_available,season_mapping_available
+538,485,135,"['巅峰千强', '顶端排位', '巅峰赛1350+', '全分段']",2026-10-10,4,39344,33805,2019-09-28,2026-10-10,1,16,12,False,False,False

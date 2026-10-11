@@ -1,0 +1,2012 @@
+[
+  {
+    "key": "portrait-105",
+    "url": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/105/105.jpg",
+    "source_page": "https://pvp.qq.com/web201605/herodetail/105.shtml",
+    "provider": "Tencent / 王者荣耀官方美术",
+    "retrieved_at": "2026-10-11T10:02:04.196822+00:00",
+    "http_status": 200,
+    "original_sha256": "7be0d515f800f6c134afca232b72b7254bd65679e9597f9af562e748abc75d44",
+    "asset_sha256": "7ac3ba3eb5438fb8490046719bb616aa4b1694d5215f4b0937d7f2cbc4c8061b",
+    "dimensions": [
+      100,
+      100
+    ],
+    "bytes": 4742
+  },
+  {
+    "key": "portrait-106",
+    "url": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/106/106.jpg",
+    "source_page": "https://pvp.qq.com/web201605/herodetail/106.shtml",
+    "provider": "Tencent / 王者荣耀官方美术",
+    "retrieved_at": "2026-10-11T10:02:04.358344+00:00",
+    "http_status": 200,
+    "original_sha256": "7e6d0df820ce05a8a96e28954d1dca18ab7af8b556ec7c3543d8005cec44f520",
+    "asset_sha256": "458e201a1bdbdf2c80ac82f6b8d963eb72da08ebf311b0e78a11fdfe6fc280e4",
+    "dimensions": [
+      100,
+      100
+    ],
+    "bytes": 4646
+  },
+  {
+    "key": "portrait-107",
+    "url": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/107/107.jpg",
+    "source_page": "https://pvp.qq.com/web201605/herodetail/107.shtml",
+    "provider": "Tencent / 王者荣耀官方美术",
+    "retrieved_at": "2026-10-11T10:02:04.514884+00:00",
+    "http_status": 200,
+    "original_sha256": "483183ce47bdcc602bf08754ae07d6a3f183cfcbdb5fb685693abb5225e379fb",
+    "asset_sha256": "e469ee88c893b79a97549ea5431d22457e8d7e9246ca85f64598a8ee6af6c918",
+    "dimensions": [
+      100,
+      100
+    ],
+    "bytes": 4378
+  },
+  {
+    "key": "portrait-108",
+    "url": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/108/108.jpg",
+    "source_page": "https://pvp.qq.com/web201605/herodetail/108.shtml",
+    "provider": "Tencent / 王者荣耀官方美术",
+    "retrieved_at": "2026-10-11T10:02:04.679469+00:00",
+    "http_status": 200,
+    "original_sha256": "98ba992b3d00bc8c343dcb761adf38cfd9b718db7cf3435a3d3d8772abf18dfa",
+    "asset_sha256": "c2f95b96e89623da1b880318fbaf78458b08bdd23b77d7f6ceeb2b32dc26d2cd",
+    "dimensions": [
+      100,
+      100
+    ],
+    "bytes": 3592
+  },
+  {
+    "key": "portrait-109",
+    "url": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/109/109.jpg",
+    "source_page": "https://pvp.qq.com/web201605/herodetail/109.shtml",
+    "provider": "Tencent / 王者荣耀官方美术",
+    "retrieved_at": "2026-10-11T10:02:04.843229+00:00",
+    "http_status": 200,
+    "original_sha256": "69f1f5def18b1b11fc1ed8e342d46ccf247837c936c7c7fc9b53ab49ba4f3a4d",
+    "asset_sha256": "b9d1e611fc72e58ffdc0d9324efe2d57549d2a7a27caea6633d4fd2d9bae6804",
+    "dimensions": [
+      100,
+      100
+    ],
+    "bytes": 4884
+  },
+  {
+    "key": "portrait-110",
+    "url": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/110/110.jpg",
+    "source_page": "https://pvp.qq.com/web201605/herodetail/110.shtml",
+    "provider": "Tencent / 王者荣耀官方美术",
+    "retrieved_at": "2026-10-11T10:02:04.985224+00:00",
+    "http_status": 200,
+    "original_sha256": "33e785c2dce955b518a77bebbdf2747abd71f64ea5c364c21a0815afd7f03e9c",
+    "asset_sha256": "abf542f6114e5d2bf6612dd791bfccf3809880b635e38d7aa253dce987096851",
+    "dimensions": [
+      100,
+      100
+    ],
+    "bytes": 4524
+  },
+  {
+    "key": "portrait-111",
+    "url": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/111/111.jpg",
+    "source_page": "https://pvp.qq.com/web201605/herodetail/111.shtml",
+    "provider": "Tencent / 王者荣耀官方美术",
+    "retrieved_at": "2026-10-11T10:02:05.130708+00:00",
+    "http_status": 200,
+    "original_sha256": "17525a5df5ea595566dcd67688919e866bdab1169412204ea25095294014e847",
+    "asset_sha256": "c4923b810426c04217068f87491498ddda02ec4418dfac4c8b0dfc57fd1e804d",
+    "dimensions": [
+      100,
+      100
+    ],
+    "bytes": 4192
+  },
+  {
+    "key": "portrait-112",
+    "url": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/112/112.jpg",
+    "source_page": "https://pvp.qq.com/web201605/herodetail/112.shtml",
+    "provider": "Tencent / 王者荣耀官方美术",
+    "retrieved_at": "2026-10-11T10:02:05.284470+00:00",
+    "http_status": 200,
+    "original_sha256": "633d4e9507870dca8526d7d71ffdb77c62ce805f78ed167a63a7b4b24dc4d0a1",
+    "asset_sha256": "7a3876bafd9637681ad1d5ede50b15b391823bcc3d542f701722d5f580f3defd",
+    "dimensions": [
+      100,
+      100
+    ],
+    "bytes": 5058
+  },
+  {
+    "key": "portrait-113",
+    "url": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/113/113.jpg",
+    "source_page": "https://pvp.qq.com/web201605/herodetail/113.shtml",
+    "provider": "Tencent / 王者荣耀官方美术",
+    "retrieved_at": "2026-10-11T10:02:05.440699+00:00",
+    "http_status": 200,
+    "original_sha256": "19af012e184c4c63325e4cf2c8636675d1ec99b59195aa0f64895bb8463a54a9",
+    "asset_sha256": "e0bbb24190de7e08f8c028c4eb9f078429aaab35d5408d8465ea928156b3978b",
+    "dimensions": [
+      100,
+      100
+    ],
+    "bytes": 4492
+  },
+  {
+    "key": "portrait-114",
+    "url": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/114/114.jpg",
+    "source_page": "https://pvp.qq.com/web201605/herodetail/114.shtml",
+    "provider": "Tencent / 王者荣耀官方美术",
+    "retrieved_at": "2026-10-11T10:02:05.640538+00:00",
+    "http_status": 200,
+    "original_sha256": "d00658bf6d0e03cc71de04b4a923cc37146fea081989ecbc814c037f2400db21",
+    "asset_sha256": "bc0a5e4aac0655747e7894d3b5416411f95ccdbd5820a1d04828e6aced6dfaf0",
+    "dimensions": [
+      100,
+      100
+    ],
+    "bytes": 4138
+  },
+  {
+    "key": "portrait-115",
+    "url": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/115/115.jpg",
+    "source_page": "https://pvp.qq.com/web201605/herodetail/115.shtml",
+    "provider": "Tencent / 王者荣耀官方美术",
+    "retrieved_at": "2026-10-11T10:02:05.808141+00:00",
+    "http_status": 200,
+    "original_sha256": "84b4a2ded7575a86d5a6ca89a4faf7a19da6eb9f9bffb226c95a07263ae5c812",
+    "asset_sha256": "3622f5f29e8dab00522737496d1d0f3833a8db02de8c5661ac2644584ca5128e",
+    "dimensions": [
+      100,
+      100
+    ],
+    "bytes": 5600
+  },
+  {
+    "key": "portrait-116",
+    "url": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/116/116.jpg",
+    "source_page": "https://pvp.qq.com/web201605/herodetail/116.shtml",
+    "provider": "Tencent / 王者荣耀官方美术",
+    "retrieved_at": "2026-10-11T10:02:05.954974+00:00",
+    "http_status": 200,
+    "original_sha256": "6600d0c876da0de2b58e4b7c0917788c77f020be443b5b46157b79e41caa6d5f",
+    "asset_sha256": "5d7f048e1109d4282490d66d7d3a877a9c8a8ab1018f0505ad9c2ee30bbbd37c",
+    "dimensions": [
+      100,
+      100
+    ],
+    "bytes": 4936
+  },
+  {
+    "key": "portrait-117",
+    "url": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/117/117.jpg",
+    "source_page": "https://pvp.qq.com/web201605/herodetail/117.shtml",
+    "provider": "Tencent / 王者荣耀官方美术",
+    "retrieved_at": "2026-10-11T10:02:06.099842+00:00",
+    "http_status": 200,
+    "original_sha256": "00ad3cf0cc0ab505100a7c5090943994341d26777a2090b1c33e4705f3475cb9",
+    "asset_sha256": "247a551ed3ba0c7644dd1dade455353f97f29921ee4ebe328cc8ecb402977339",
+    "dimensions": [
+      100,
+      100
+    ],
+    "bytes": 5106
+  },
+  {
+    "key": "portrait-118",
+    "url": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/118/118.jpg",
+    "source_page": "https://pvp.qq.com/web201605/herodetail/118.shtml",
+    "provider": "Tencent / 王者荣耀官方美术",
+    "retrieved_at": "2026-10-11T10:02:06.244941+00:00",
+    "http_status": 200,
+    "original_sha256": "f70efed0a460aa8c7b96828b597756b21994fc405e1c4965d43aa8140524b06a",
+    "asset_sha256": "57bfe43749ca8c4bf74e52716d8ac2a195b776c4ecba65e29d6eaf2543db6673",
+    "dimensions": [
+      100,
+      100
+    ],
+    "bytes": 5522
+  },
+  {
+    "key": "portrait-119",
+    "url": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/119/119.jpg",
+    "source_page": "https://pvp.qq.com/web201605/herodetail/119.shtml",
+    "provider": "Tencent / 王者荣耀官方美术",
+    "retrieved_at": "2026-10-11T10:02:06.410419+00:00",
+    "http_status": 200,
+    "original_sha256": "2371dc7cadff37fe9f690d1456b8b616e2d97d7d844f9fb177cc3934a10f23a5",
+    "asset_sha256": "3db412f5357b55c2e6833766bf42abca5bd5549ec3aeed98e6ff82443980afbe",
+    "dimensions": [
+      90,
+      90
+    ],
+    "bytes": 2640
+  },
+  {
+    "key": "portrait-167",
+    "url": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/167/167.jpg",
+    "source_page": "https://pvp.qq.com/web201605/herodetail/167.shtml",
+    "provider": "Tencent / 王者荣耀官方美术",
+    "retrieved_at": "2026-10-11T10:02:06.569759+00:00",
+    "http_status": 200,
+    "original_sha256": "5822ef74828d1d9146678cd88896742661e6024503dbaf853e3fc8c6f1d51f4e",
+    "asset_sha256": "63266c069d67669d3b13634eb9386e08ba1877c81d08f2438f212cbc31e49c8c",
+    "dimensions": [
+      90,
+      90
+    ],
+    "bytes": 5074
+  },
+  {
+    "key": "portrait-549",
+    "url": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/549/549.jpg",
+    "source_page": "https://pvp.qq.com/web201605/herodetail/549.shtml",
+    "provider": "Tencent / 王者荣耀官方美术",
+    "retrieved_at": "2026-10-11T10:02:06.728560+00:00",
+    "http_status": 200,
+    "original_sha256": "48c361bd7c86f5774ec3c62ccbf915eb27210fcc7a4caee130eb3257ceb22fb6",
+    "asset_sha256": "0121d6eab38b115e3fe1263c5dd6faf0ce9d80915b3a788e6f4f076add3073db",
+    "dimensions": [
+      100,
+      100
+    ],
+    "bytes": 3786
+  },
+  {
+    "key": "portrait-120",
+    "url": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/120/120.jpg",
+    "source_page": "https://pvp.qq.com/web201605/herodetail/120.shtml",
+    "provider": "Tencent / 王者荣耀官方美术",
+    "retrieved_at": "2026-10-11T10:02:06.899814+00:00",
+    "http_status": 200,
+    "original_sha256": "ba48f74625a251f304e8b1926fa7f508ef1f40c09d4b31a1285cfee62812b80f",
+    "asset_sha256": "b102fe457583089533f31283245eef15e6867f093fa440b2d1c98eac04d5736d",
+    "dimensions": [
+      100,
+      100
+    ],
+    "bytes": 4286
+  },
+  {
+    "key": "portrait-121",
+    "url": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/121/121.jpg",
+    "source_page": "https://pvp.qq.com/web201605/herodetail/121.shtml",
+    "provider": "Tencent / 王者荣耀官方美术",
+    "retrieved_at": "2026-10-11T10:02:07.069742+00:00",
+    "http_status": 200,
+    "original_sha256": "bf1d322f94bf432bb4e45d5721c584723bde3cf3671add5b442d17d9656d8c9a",
+    "asset_sha256": "1f89847c79ff41e10eaa53a01693380b7d60db68953e6f479d1d12f2c31b3940",
+    "dimensions": [
+      100,
+      100
+    ],
+    "bytes": 4692
+  },
+  {
+    "key": "portrait-123",
+    "url": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/123/123.jpg",
+    "source_page": "https://pvp.qq.com/web201605/herodetail/123.shtml",
+    "provider": "Tencent / 王者荣耀官方美术",
+    "retrieved_at": "2026-10-11T10:02:07.302140+00:00",
+    "http_status": 200,
+    "original_sha256": "41348dd312e5f552aa517dc9a3a40a13907bfef154c45c40f1e489e54be10a0c",
+    "asset_sha256": "b0ad93c88663292ce63707923252e071176ab34f027f43b0fabd19baa6647996",
+    "dimensions": [
+      100,
+      100
+    ],
+    "bytes": 3966
+  },
+  {
+    "key": "portrait-124",
+    "url": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/124/124.jpg",
+    "source_page": "https://pvp.qq.com/web201605/herodetail/124.shtml",
+    "provider": "Tencent / 王者荣耀官方美术",
+    "retrieved_at": "2026-10-11T10:02:07.473619+00:00",
+    "http_status": 200,
+    "original_sha256": "a01c12109c53ae971471e66be651d755adf73a9b9f56829c1646c704ffa98866",
+    "asset_sha256": "6bdcf62c369381949bd7aa8071466cdc141c2d16c1771d839d849b1f524f2360",
+    "dimensions": [
+      100,
+      100
+    ],
+    "bytes": 3374
+  },
+  {
+    "key": "portrait-126",
+    "url": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/126/126.jpg",
+    "source_page": "https://pvp.qq.com/web201605/herodetail/126.shtml",
+    "provider": "Tencent / 王者荣耀官方美术",
+    "retrieved_at": "2026-10-11T10:02:07.644261+00:00",
+    "http_status": 200,
+    "original_sha256": "5a2ec9d5e0837fe67d31a739fbbf98d8aa98668a5803b9e295cd9450b769d1c8",
+    "asset_sha256": "3e9ef60dd7c4ac57fa73ca62da030a94ff0466ca48f10622313aa0159f152b23",
+    "dimensions": [
+      100,
+      100
+    ],
+    "bytes": 3672
+  },
+  {
+    "key": "portrait-127",
+    "url": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/127/127.jpg",
+    "source_page": "https://pvp.qq.com/web201605/herodetail/127.shtml",
+    "provider": "Tencent / 王者荣耀官方美术",
+    "retrieved_at": "2026-10-11T10:02:07.789940+00:00",
+    "http_status": 200,
+    "original_sha256": "4f1441da85b4c9e6ef82873646ebba1201a9c2c4b9ff4840d6abef0a55828e20",
+    "asset_sha256": "3c7e0c722588ba0b403d5c9980007d508aa1ccf8653d37a7ea89b9678ba5dbd9",
+    "dimensions": [
+      100,
+      100
+    ],
+    "bytes": 3408
+  },
+  {
+    "key": "portrait-128",
+    "url": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/128/128.jpg",
+    "source_page": "https://pvp.qq.com/web201605/herodetail/128.shtml",
+    "provider": "Tencent / 王者荣耀官方美术",
+    "retrieved_at": "2026-10-11T10:02:07.946439+00:00",
+    "http_status": 200,
+    "original_sha256": "4f7330e9a803df52a9a1c2261f03df25184ad417348fd933ec06856b8af98a1b",
+    "asset_sha256": "3c088618b8cb6d04c72747d583eab2279adf78fb8be6a39c4706783b3df956a9",
+    "dimensions": [
+      100,
+      100
+    ],
+    "bytes": 4998
+  },
+  {
+    "key": "portrait-129",
+    "url": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/129/129.jpg",
+    "source_page": "https://pvp.qq.com/web201605/herodetail/129.shtml",
+    "provider": "Tencent / 王者荣耀官方美术",
+    "retrieved_at": "2026-10-11T10:02:08.101172+00:00",
+    "http_status": 200,
+    "original_sha256": "6377b8d23f3fff7b4720b0d275c5d1b2b350b7e55f6d0b183c9f44a038a456e9",
+    "asset_sha256": "baab62148bd92fbfed5ce78718f2381bd2bc7ab5bbf468121ec8d1aec85ba1a3",
+    "dimensions": [
+      90,
+      90
+    ],
+    "bytes": 3470
+  },
+  {
+    "key": "portrait-130",
+    "url": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/130/130.jpg",
+    "source_page": "https://pvp.qq.com/web201605/herodetail/130.shtml",
+    "provider": "Tencent / 王者荣耀官方美术",
+    "retrieved_at": "2026-10-11T10:02:08.253611+00:00",
+    "http_status": 200,
+    "original_sha256": "ce0bb445e364d94d230435daf7da5976ee72e06000e49d7081c25f91164206e9",
+    "asset_sha256": "b9def70b7ad47dbfe804415bd5f9df4e4d3defcadcb545e880ea53171fdca46a",
+    "dimensions": [
+      100,
+      100
+    ],
+    "bytes": 4148
+  },
+  {
+    "key": "portrait-131",
+    "url": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/131/131.jpg",
+    "source_page": "https://pvp.qq.com/web201605/herodetail/131.shtml",
+    "provider": "Tencent / 王者荣耀官方美术",
+    "retrieved_at": "2026-10-11T10:02:08.433069+00:00",
+    "http_status": 200,
+    "original_sha256": "44ce0ee910f4a076d8766e99523dd16bc95ccdfe993fc90e6373ca446da05fb9",
+    "asset_sha256": "e388d71af57c1e742b0178706aaa5292e7b04ed351f2fe5799c81ca123c007ef",
+    "dimensions": [
+      90,
+      90
+    ],
+    "bytes": 3638
+  },
+  {
+    "key": "portrait-132",
+    "url": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/132/132.jpg",
+    "source_page": "https://pvp.qq.com/web201605/herodetail/132.shtml",
+    "provider": "Tencent / 王者荣耀官方美术",
+    "retrieved_at": "2026-10-11T10:02:08.574409+00:00",
+    "http_status": 200,
+    "original_sha256": "3ed3bfc8e73870da2811b05d355a7d467310d177075248e43258e138df05e7b5",
+    "asset_sha256": "858b32025e0f1b45b8d2fd86835704f122c444d91b45b6db17e6cc5849d7fc32",
+    "dimensions": [
+      90,
+      90
+    ],
+    "bytes": 4278
+  },
+  {
+    "key": "portrait-133",
+    "url": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/133/133.jpg",
+    "source_page": "https://pvp.qq.com/web201605/herodetail/133.shtml",
+    "provider": "Tencent / 王者荣耀官方美术",
+    "retrieved_at": "2026-10-11T10:02:08.721584+00:00",
+    "http_status": 200,
+    "original_sha256": "e1d7a405112d9dfe20a270b1901ea4e7a6d5d9519a1ea8bef8531d085b415333",
+    "asset_sha256": "096802866eb2c8aa16fcdc7e72916c76c44a7a3af08d973f2783d956ed201ea7",
+    "dimensions": [
+      90,
+      90
+    ],
+    "bytes": 3068
+  },
+  {
+    "key": "portrait-134",
+    "url": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/134/134.jpg",
+    "source_page": "https://pvp.qq.com/web201605/herodetail/134.shtml",
+    "provider": "Tencent / 王者荣耀官方美术",
+    "retrieved_at": "2026-10-11T10:02:08.893941+00:00",
+    "http_status": 200,
+    "original_sha256": "ed6b3160ce16017ae30bfaeb68c4fd987e95d8d5cff8b438def4146e26892f2a",
+    "asset_sha256": "2b9be277e6e4727591c4f6ee60bf2959a47e78fc20a11ef6d2c18a49269a1eaa",
+    "dimensions": [
+      90,
+      90
+    ],
+    "bytes": 2936
+  },
+  {
+    "key": "portrait-135",
+    "url": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/135/135.jpg",
+    "source_page": "https://pvp.qq.com/web201605/herodetail/135.shtml",
+    "provider": "Tencent / 王者荣耀官方美术",
+    "retrieved_at": "2026-10-11T10:02:09.039307+00:00",
+    "http_status": 200,
+    "original_sha256": "b1676c3b1e35651c6c10a24f809d2b8f16e49e8929433ad9e580bec58eacf2af",
+    "asset_sha256": "6ce5e1769cd14bbb5c14b2f0df4f080b5cec9ac6694dfdaae974311033c204c4",
+    "dimensions": [
+      90,
+      90
+    ],
+    "bytes": 4252
+  },
+  {
+    "key": "portrait-136",
+    "url": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/136/136.jpg",
+    "source_page": "https://pvp.qq.com/web201605/herodetail/136.shtml",
+    "provider": "Tencent / 王者荣耀官方美术",
+    "retrieved_at": "2026-10-11T10:02:09.184921+00:00",
+    "http_status": 200,
+    "original_sha256": "4d1713b550206bbcce726a52a1e377df5fc055122e12d23ed2d55d31ba0b05f5",
+    "asset_sha256": "8b2bfead4e61da87c8f3d84ae93774cd7b26d97a721abf579831a0f83a510a2b",
+    "dimensions": [
+      90,
+      90
+    ],
+    "bytes": 3964
+  },
+  {
+    "key": "portrait-139",
+    "url": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/139/139.jpg",
+    "source_page": "https://pvp.qq.com/web201605/herodetail/139.shtml",
+    "provider": "Tencent / 王者荣耀官方美术",
+    "retrieved_at": "2026-10-11T10:02:09.346116+00:00",
+    "http_status": 200,
+    "original_sha256": "ea59286678a634e3babd342412f0e8ead5b61e6eced4d0f97d214194a811ae16",
+    "asset_sha256": "990f360128aa12f216e289b78e3a1c9cfd5883794bc2f18ecd6ac550eea0eb1c",
+    "dimensions": [
+      90,
+      90
+    ],
+    "bytes": 3696
+  },
+  {
+    "key": "portrait-140",
+    "url": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/140/140.jpg",
+    "source_page": "https://pvp.qq.com/web201605/herodetail/140.shtml",
+    "provider": "Tencent / 王者荣耀官方美术",
+    "retrieved_at": "2026-10-11T10:02:09.536401+00:00",
+    "http_status": 200,
+    "original_sha256": "8e81da829979278e82146d2e7c6a4da811691e8c8932b5024cd436b3bc3cb4a1",
+    "asset_sha256": "5345bfec210e8b8e4ee2ae97059e4d797990b99ad820150ee7713ebf0613f3db",
+    "dimensions": [
+      90,
+      90
+    ],
+    "bytes": 4084
+  },
+  {
+    "key": "portrait-141",
+    "url": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/141/141.jpg",
+    "source_page": "https://pvp.qq.com/web201605/herodetail/141.shtml",
+    "provider": "Tencent / 王者荣耀官方美术",
+    "retrieved_at": "2026-10-11T10:02:09.710583+00:00",
+    "http_status": 200,
+    "original_sha256": "5abd61eed93c2d4691901c8861937113bc0270963937980c418d8813dbb62db5",
+    "asset_sha256": "e63307e9df19bd29170526761aa014e37f2482d9cd5739256c48dd5d61fbeb6f",
+    "dimensions": [
+      100,
+      100
+    ],
+    "bytes": 3610
+  },
+  {
+    "key": "portrait-142",
+    "url": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/142/142.jpg",
+    "source_page": "https://pvp.qq.com/web201605/herodetail/142.shtml",
+    "provider": "Tencent / 王者荣耀官方美术",
+    "retrieved_at": "2026-10-11T10:02:09.888669+00:00",
+    "http_status": 200,
+    "original_sha256": "98b8cb341c7628daa2fabec84af6e8dc67425ee932fe90e9ff31a3f9f5dc00e0",
+    "asset_sha256": "a923672a39cb7f7639b6f8dc1ee0330f7ceaa08317bfa1b5eeaecc37f7e081f9",
+    "dimensions": [
+      90,
+      90
+    ],
+    "bytes": 4676
+  },
+  {
+    "key": "portrait-144",
+    "url": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/144/144.jpg",
+    "source_page": "https://pvp.qq.com/web201605/herodetail/144.shtml",
+    "provider": "Tencent / 王者荣耀官方美术",
+    "retrieved_at": "2026-10-11T10:02:10.071312+00:00",
+    "http_status": 200,
+    "original_sha256": "fd06cabfffce158cd44b76aa1215c44cd62edeeaef84c6e156e59909405e489a",
+    "asset_sha256": "8abb7428bec0dadc634b340079cf9b0fd0aa64d0b6c96568855495fd73045a22",
+    "dimensions": [
+      90,
+      90
+    ],
+    "bytes": 3572
+  },
+  {
+    "key": "portrait-146",
+    "url": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/146/146.jpg",
+    "source_page": "https://pvp.qq.com/web201605/herodetail/146.shtml",
+    "provider": "Tencent / 王者荣耀官方美术",
+    "retrieved_at": "2026-10-11T10:02:10.245489+00:00",
+    "http_status": 200,
+    "original_sha256": "b11f3ec6017bb65fb1f0256fc70f66890cc08161d050d907db1538a151e297ab",
+    "asset_sha256": "4e01ec9f10d72ce0768c4c0bd61db32382ad0b21f6047733915e7222e7e173de",
+    "dimensions": [
+      90,
+      90
+    ],
+    "bytes": 4110
+  },
+  {
+    "key": "portrait-148",
+    "url": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/148/148.jpg",
+    "source_page": "https://pvp.qq.com/web201605/herodetail/148.shtml",
+    "provider": "Tencent / 王者荣耀官方美术",
+    "retrieved_at": "2026-10-11T10:02:10.387637+00:00",
+    "http_status": 200,
+    "original_sha256": "df85bd85d05f25dcfe7febb837f9e6a358e1e839305852f8325cba971b53897e",
+    "asset_sha256": "5ed73db39a53e3410926b426ce309174f9591a8e31f5f56300b26df9c1669500",
+    "dimensions": [
+      100,
+      100
+    ],
+    "bytes": 4504
+  },
+  {
+    "key": "portrait-149",
+    "url": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/149/149.jpg",
+    "source_page": "https://pvp.qq.com/web201605/herodetail/149.shtml",
+    "provider": "Tencent / 王者荣耀官方美术",
+    "retrieved_at": "2026-10-11T10:02:10.551867+00:00",
+    "http_status": 200,
+    "original_sha256": "f600e2abf23fc70634965d3b26811cf9e25ad553bd4d59b4e4c48467d8f7e83e",
+    "asset_sha256": "32b4649c795ba3f2b40fb711fd29b31b9e67c3d78f4f4cb46a596ca5bc7d7492",
+    "dimensions": [
+      90,
+      90
+    ],
+    "bytes": 3630
+  },
+  {
+    "key": "portrait-150",
+    "url": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/150/150.jpg",
+    "source_page": "https://pvp.qq.com/web201605/herodetail/150.shtml",
+    "provider": "Tencent / 王者荣耀官方美术",
+    "retrieved_at": "2026-10-11T10:02:10.707732+00:00",
+    "http_status": 200,
+    "original_sha256": "0751f21fe419e8180943f2c494256ad078459d41d05ebfdf302106f1f13cf654",
+    "asset_sha256": "be0f0ad69a4cee95bd3ca175e80414f19016ef4253b8f9f5d4868448f8d38130",
+    "dimensions": [
+      90,
+      90
+    ],
+    "bytes": 3186
+  },
+  {
+    "key": "portrait-152",
+    "url": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/152/152.jpg",
+    "source_page": "https://pvp.qq.com/web201605/herodetail/152.shtml",
+    "provider": "Tencent / 王者荣耀官方美术",
+    "retrieved_at": "2026-10-11T10:02:10.858095+00:00",
+    "http_status": 200,
+    "original_sha256": "927d4f5208ac7ae7ed21b5f5a0c04ea7a85e45d1382b809031ecbbf0488cd204",
+    "asset_sha256": "abfb7bfca0a50853fcc875a3b219c0b31a4a45b968939b70ebac8eca1ba241ad",
+    "dimensions": [
+      90,
+      90
+    ],
+    "bytes": 3886
+  },
+  {
+    "key": "portrait-153",
+    "url": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/153/153.jpg",
+    "source_page": "https://pvp.qq.com/web201605/herodetail/153.shtml",
+    "provider": "Tencent / 王者荣耀官方美术",
+    "retrieved_at": "2026-10-11T10:02:11.013265+00:00",
+    "http_status": 200,
+    "original_sha256": "fccedfce56d0c8d021b020fb26ca391139419aa751e0ebfa83c72b88fcdaa3b2",
+    "asset_sha256": "4c63c05b6aa913dd4ed19b6e54aa556aa628172899de0f1cf5cb56cc19982783",
+    "dimensions": [
+      90,
+      90
+    ],
+    "bytes": 3414
+  },
+  {
+    "key": "portrait-154",
+    "url": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/154/154.jpg",
+    "source_page": "https://pvp.qq.com/web201605/herodetail/154.shtml",
+    "provider": "Tencent / 王者荣耀官方美术",
+    "retrieved_at": "2026-10-11T10:02:11.195446+00:00",
+    "http_status": 200,
+    "original_sha256": "7ccea63ee8b18a117202b400a473457a1618a7a559a48929ea06581027bdbc6c",
+    "asset_sha256": "3bb70c54a7229fad45341da27413fdc71c7fe2ede5f09ab22737ad8898bf4985",
+    "dimensions": [
+      90,
+      90
+    ],
+    "bytes": 3306
+  },
+  {
+    "key": "portrait-156",
+    "url": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/156/156.jpg",
+    "source_page": "https://pvp.qq.com/web201605/herodetail/156.shtml",
+    "provider": "Tencent / 王者荣耀官方美术",
+    "retrieved_at": "2026-10-11T10:02:11.350281+00:00",
+    "http_status": 200,
+    "original_sha256": "1334fc530a2f45e1a84607d3a85e41a016e3b1fe1ff234a2466fe69fa5289b04",
+    "asset_sha256": "bc28f95416de52ba1938b532c62b8aad5c607fcb95ad69d2cf9eecc14c1cffa6",
+    "dimensions": [
+      90,
+      90
+    ],
+    "bytes": 3910
+  },
+  {
+    "key": "portrait-157",
+    "url": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/157/157.jpg",
+    "source_page": "https://pvp.qq.com/web201605/herodetail/157.shtml",
+    "provider": "Tencent / 王者荣耀官方美术",
+    "retrieved_at": "2026-10-11T10:02:11.507407+00:00",
+    "http_status": 200,
+    "original_sha256": "f706e2d454f70f00bae5c127bdbfd0d1c75e7ab7fc98311b02902077f4669e7b",
+    "asset_sha256": "f9656d514200df235240f70f12f4439459c5b4f8a1443b3d70fdea461e502cca",
+    "dimensions": [
+      90,
+      90
+    ],
+    "bytes": 3178
+  },
+  {
+    "key": "portrait-162",
+    "url": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/162/162.jpg",
+    "source_page": "https://pvp.qq.com/web201605/herodetail/162.shtml",
+    "provider": "Tencent / 王者荣耀官方美术",
+    "retrieved_at": "2026-10-11T10:02:11.702275+00:00",
+    "http_status": 200,
+    "original_sha256": "9f7db2eed2ec982686fe4402cfa87333113efaf15b67c36e0db4d16c4c11a830",
+    "asset_sha256": "87190092e9acc9eeb430d6d92efca5ed07a88c6e199b91d8b79eb7944a982ab2",
+    "dimensions": [
+      90,
+      90
+    ],
+    "bytes": 4138
+  },
+  {
+    "key": "portrait-163",
+    "url": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/163/163.jpg",
+    "source_page": "https://pvp.qq.com/web201605/herodetail/163.shtml",
+    "provider": "Tencent / 王者荣耀官方美术",
+    "retrieved_at": "2026-10-11T10:02:11.862620+00:00",
+    "http_status": 200,
+    "original_sha256": "712c09b94f700ae237344aec621c42f787495948670a6ae081b2e5573873341d",
+    "asset_sha256": "5994aebf73714be5522d535a8304680e7bf139e10f41ef08296ac88a12e0dc21",
+    "dimensions": [
+      90,
+      90
+    ],
+    "bytes": 3404
+  },
+  {
+    "key": "portrait-166",
+    "url": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/166/166.jpg",
+    "source_page": "https://pvp.qq.com/web201605/herodetail/166.shtml",
+    "provider": "Tencent / 王者荣耀官方美术",
+    "retrieved_at": "2026-10-11T10:02:12.003503+00:00",
+    "http_status": 200,
+    "original_sha256": "52c311cbb6f5d0d9dcabd9ef2e68efe372c1d947355b10c43b0a4b9ca2f8f24c",
+    "asset_sha256": "c5c767a8ec43224c35b27d7b0e115a38c0cdb3de5740780dbd5d839608cabc2a",
+    "dimensions": [
+      90,
+      90
+    ],
+    "bytes": 3718
+  },
+  {
+    "key": "portrait-168",
+    "url": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/168/168.jpg",
+    "source_page": "https://pvp.qq.com/web201605/herodetail/168.shtml",
+    "provider": "Tencent / 王者荣耀官方美术",
+    "retrieved_at": "2026-10-11T10:02:12.164762+00:00",
+    "http_status": 200,
+    "original_sha256": "a058cc8c3aafff77aaedd45503774f0e25ad06c8b3e0789c1649f5b2cfcf37c4",
+    "asset_sha256": "0d522ae83eee9d86f5936f67d9205d7eb1f7e3e3950e8ac1f219eb124e03d7e7",
+    "dimensions": [
+      90,
+      90
+    ],
+    "bytes": 3338
+  },
+  {
+    "key": "portrait-169",
+    "url": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/169/169.jpg",
+    "source_page": "https://pvp.qq.com/web201605/herodetail/169.shtml",
+    "provider": "Tencent / 王者荣耀官方美术",
+    "retrieved_at": "2026-10-11T10:02:12.364492+00:00",
+    "http_status": 200,
+    "original_sha256": "9c9da4f726321d27ddba45c34cb930cdc8269dd459e593ed46f2f059ae3f104e",
+    "asset_sha256": "a6fbfafc56822ff4c9afbf5f95b6dd32c6c126ff3c771bffbe02aeedb95c8231",
+    "dimensions": [
+      90,
+      90
+    ],
+    "bytes": 3336
+  },
+  {
+    "key": "portrait-170",
+    "url": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/170/170.jpg",
+    "source_page": "https://pvp.qq.com/web201605/herodetail/170.shtml",
+    "provider": "Tencent / 王者荣耀官方美术",
+    "retrieved_at": "2026-10-11T10:02:12.529283+00:00",
+    "http_status": 200,
+    "original_sha256": "1c997335b71b2fa8352f50612f37fc5b697ccc23d5f5590ff6b3a1fa07e47079",
+    "asset_sha256": "1dfb7ecaf849ffa0221a503d0a1364a58aae25aab173443f3ae1f386579cd706",
+    "dimensions": [
+      90,
+      90
+    ],
+    "bytes": 3924
+  },
+  {
+    "key": "portrait-171",
+    "url": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/171/171.jpg",
+    "source_page": "https://pvp.qq.com/web201605/herodetail/171.shtml",
+    "provider": "Tencent / 王者荣耀官方美术",
+    "retrieved_at": "2026-10-11T10:02:12.687463+00:00",
+    "http_status": 200,
+    "original_sha256": "5ac12d9b41a9ed487afb586f01b11e67a8e03fd89b874eda85f25099f68e73d7",
+    "asset_sha256": "2d72d42544a9ab1dc57fe3ccee28949123384371b1896acc34d29e87d8c5bbe4",
+    "dimensions": [
+      90,
+      90
+    ],
+    "bytes": 4406
+  },
+  {
+    "key": "portrait-173",
+    "url": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/173/173.jpg",
+    "source_page": "https://pvp.qq.com/web201605/herodetail/173.shtml",
+    "provider": "Tencent / 王者荣耀官方美术",
+    "retrieved_at": "2026-10-11T10:02:12.887125+00:00",
+    "http_status": 200,
+    "original_sha256": "884d3740d140be0dbcdea043e65c6202f4add4c288a483b8cce593e9dccdbf44",
+    "asset_sha256": "ae555873e4be36ccb453b1b0bce3e0bcc1511f335972b2faae5742c2a1bdb768",
+    "dimensions": [
+      90,
+      90
+    ],
+    "bytes": 3840
+  },
+  {
+    "key": "portrait-174",
+    "url": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/174/174.jpg",
+    "source_page": "https://pvp.qq.com/web201605/herodetail/174.shtml",
+    "provider": "Tencent / 王者荣耀官方美术",
+    "retrieved_at": "2026-10-11T10:02:13.032765+00:00",
+    "http_status": 200,
+    "original_sha256": "56a66ac4ba6a0710672a6b4606ab93ff0310464faec9aaf60cf8429b267bf730",
+    "asset_sha256": "18d4ecae8bcfb067201127aa242a056ef01ba319215789c2b947f56c91362aad",
+    "dimensions": [
+      90,
+      90
+    ],
+    "bytes": 3618
+  },
+  {
+    "key": "portrait-175",
+    "url": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/175/175.jpg",
+    "source_page": "https://pvp.qq.com/web201605/herodetail/175.shtml",
+    "provider": "Tencent / 王者荣耀官方美术",
+    "retrieved_at": "2026-10-11T10:02:13.199739+00:00",
+    "http_status": 200,
+    "original_sha256": "86a990d68e788ccf0299b987cdefbc9e470142c6fa6f3e11a4cb895262079746",
+    "asset_sha256": "c6ffd9db935acb6077f05b88666ea8d608390015e84c68dcd63fc7f83c7a2322",
+    "dimensions": [
+      90,
+      90
+    ],
+    "bytes": 3698
+  },
+  {
+    "key": "portrait-178",
+    "url": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/178/178.jpg",
+    "source_page": "https://pvp.qq.com/web201605/herodetail/178.shtml",
+    "provider": "Tencent / 王者荣耀官方美术",
+    "retrieved_at": "2026-10-11T10:02:13.345747+00:00",
+    "http_status": 200,
+    "original_sha256": "34bc5ca7a0ba63e81ee5dbf7b4af9bf4ab28b5971af1e223334dfc5a1c4b0bbc",
+    "asset_sha256": "f365e57b30dc1c2593729b87c17bbc9feb394ae60de96d34e37f1b5b45b4f20e",
+    "dimensions": [
+      90,
+      90
+    ],
+    "bytes": 4752
+  },
+  {
+    "key": "portrait-183",
+    "url": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/183/183.jpg",
+    "source_page": "https://pvp.qq.com/web201605/herodetail/183.shtml",
+    "provider": "Tencent / 王者荣耀官方美术",
+    "retrieved_at": "2026-10-11T10:02:13.509661+00:00",
+    "http_status": 200,
+    "original_sha256": "2b2899fc8bc1304e4094a30f0e707195eaa90f78ee9f17fb1f670523c0ca7e56",
+    "asset_sha256": "818e8bff82e881ba1175376c89ed0afb1efd6ffad0f6b7d0fb4c1502e7f19248",
+    "dimensions": [
+      90,
+      90
+    ],
+    "bytes": 4202
+  },
+  {
+    "key": "portrait-184",
+    "url": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/184/184.jpg",
+    "source_page": "https://pvp.qq.com/web201605/herodetail/184.shtml",
+    "provider": "Tencent / 王者荣耀官方美术",
+    "retrieved_at": "2026-10-11T10:02:13.686080+00:00",
+    "http_status": 200,
+    "original_sha256": "c3fce127b598961a6a88730161564305183217fa09fa701982a533f86ae49a2d",
+    "asset_sha256": "774a4defefa0e23335c99b6c3b3e65f48de8359e93a037c7b90e242992515980",
+    "dimensions": [
+      90,
+      90
+    ],
+    "bytes": 4678
+  },
+  {
+    "key": "portrait-186",
+    "url": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/186/186.jpg",
+    "source_page": "https://pvp.qq.com/web201605/herodetail/186.shtml",
+    "provider": "Tencent / 王者荣耀官方美术",
+    "retrieved_at": "2026-10-11T10:02:13.840761+00:00",
+    "http_status": 200,
+    "original_sha256": "d49b0c8bf3901061f6f8b117afd86d6708287d51ac959674cf5cdf0cada93947",
+    "asset_sha256": "92fcd57002979bcb8c07391aa561c923bee9793b5068d103e70c78d77ebeb6e3",
+    "dimensions": [
+      90,
+      90
+    ],
+    "bytes": 4042
+  },
+  {
+    "key": "portrait-180",
+    "url": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/180/180.jpg",
+    "source_page": "https://pvp.qq.com/web201605/herodetail/180.shtml",
+    "provider": "Tencent / 王者荣耀官方美术",
+    "retrieved_at": "2026-10-11T10:02:13.998809+00:00",
+    "http_status": 200,
+    "original_sha256": "f9378fac7968f279db9d64c0d1ad6de86b69da89d29094e903f5be6f10100c51",
+    "asset_sha256": "bee20a1a943f47a38fb259ffbabd25981e8f048103f914bafd3766587a529e39",
+    "dimensions": [
+      90,
+      90
+    ],
+    "bytes": 3896
+  },
+  {
+    "key": "portrait-190",
+    "url": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/190/190.jpg",
+    "source_page": "https://pvp.qq.com/web201605/herodetail/190.shtml",
+    "provider": "Tencent / 王者荣耀官方美术",
+    "retrieved_at": "2026-10-11T10:02:14.155542+00:00",
+    "http_status": 200,
+    "original_sha256": "227fa82d4ae4e3e9fe42d17fe25ba2ef2cc16d0f886a4453c1ce702fee782beb",
+    "asset_sha256": "6f6f02d5c901d9e7dac765ecd1d179627b3f06bce90f35a1db09b3c08c9545ed",
+    "dimensions": [
+      90,
+      90
+    ],
+    "bytes": 3828
+  },
+  {
+    "key": "portrait-192",
+    "url": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/192/192.jpg",
+    "source_page": "https://pvp.qq.com/web201605/herodetail/192.shtml",
+    "provider": "Tencent / 王者荣耀官方美术",
+    "retrieved_at": "2026-10-11T10:02:14.345239+00:00",
+    "http_status": 200,
+    "original_sha256": "93523d197c7c5c829f3ec7a00464730641fb82ec2b0f74bf7b6928671ab46820",
+    "asset_sha256": "884aa7cd7bb862ac0b27f633c00c7ef8397a96db367558e0be4810fa06812e17",
+    "dimensions": [
+      90,
+      90
+    ],
+    "bytes": 4214
+  },
+  {
+    "key": "portrait-191",
+    "url": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/191/191.jpg",
+    "source_page": "https://pvp.qq.com/web201605/herodetail/191.shtml",
+    "provider": "Tencent / 王者荣耀官方美术",
+    "retrieved_at": "2026-10-11T10:02:14.524168+00:00",
+    "http_status": 200,
+    "original_sha256": "d65ebe1ef169414a95df828a975a877d7289b0b76262600bb3c6cad74145ce58",
+    "asset_sha256": "74ca25483522d9d8bd698665baf36db6375d986a92f1edf01b5cc07c359778c7",
+    "dimensions": [
+      90,
+      90
+    ],
+    "bytes": 4156
+  },
+  {
+    "key": "portrait-187",
+    "url": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/187/187.jpg",
+    "source_page": "https://pvp.qq.com/web201605/herodetail/187.shtml",
+    "provider": "Tencent / 王者荣耀官方美术",
+    "retrieved_at": "2026-10-11T10:02:14.684614+00:00",
+    "http_status": 200,
+    "original_sha256": "3b65d123ce65cade08704831692bac2c3a0030d7d34925c0cd8f8ed4655e7623",
+    "asset_sha256": "66cf1312cb306db7864aea089ea3c70fef3d9b8a8b35a3602fbe6a18679e455c",
+    "dimensions": [
+      90,
+      90
+    ],
+    "bytes": 4086
+  },
+  {
+    "key": "portrait-182",
+    "url": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/182/182.jpg",
+    "source_page": "https://pvp.qq.com/web201605/herodetail/182.shtml",
+    "provider": "Tencent / 王者荣耀官方美术",
+    "retrieved_at": "2026-10-11T10:02:14.831718+00:00",
+    "http_status": 200,
+    "original_sha256": "886b3ee75fc9d289be04b2c4d457e413f9845ee5a29759d5133a101da5e970e5",
+    "asset_sha256": "ab5ce113ba6511bfe7bed04d0c60bc5396b7d30e51f158763f2df15cc4bbb23f",
+    "dimensions": [
+      90,
+      90
+    ],
+    "bytes": 3662
+  },
+  {
+    "key": "portrait-189",
+    "url": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/189/189.jpg",
+    "source_page": "https://pvp.qq.com/web201605/herodetail/189.shtml",
+    "provider": "Tencent / 王者荣耀官方美术",
+    "retrieved_at": "2026-10-11T10:02:14.971317+00:00",
+    "http_status": 200,
+    "original_sha256": "91554fcfc1302d66c610f56f46188312060cd333d0ab8bae3604aeb2e4bc0b95",
+    "asset_sha256": "f738042cd3734cdca024e4e0df2493b5f4f59b52092209f09bfad8aa1bff024e",
+    "dimensions": [
+      90,
+      90
+    ],
+    "bytes": 3906
+  },
+  {
+    "key": "portrait-193",
+    "url": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/193/193.jpg",
+    "source_page": "https://pvp.qq.com/web201605/herodetail/193.shtml",
+    "provider": "Tencent / 王者荣耀官方美术",
+    "retrieved_at": "2026-10-11T10:02:15.144626+00:00",
+    "http_status": 200,
+    "original_sha256": "bf3836d32914bd0d849d389a4113d04df168477ceb32be6b2f8e7f7389578191",
+    "asset_sha256": "90a99a0859f01eadd0d90d7fbe9a98680352949515ad91ee79952ac8a7ba423d",
+    "dimensions": [
+      90,
+      90
+    ],
+    "bytes": 3632
+  },
+  {
+    "key": "portrait-196",
+    "url": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/196/196.jpg",
+    "source_page": "https://pvp.qq.com/web201605/herodetail/196.shtml",
+    "provider": "Tencent / 王者荣耀官方美术",
+    "retrieved_at": "2026-10-11T10:02:15.309756+00:00",
+    "http_status": 200,
+    "original_sha256": "922aa70e33adaf0b97a1e31c4c2f58ab1e1c44da071f17739041d835179a2993",
+    "asset_sha256": "6129c2dd52763e2896c91f19e13f5542d0841aa81ea209b210750a4e41868bf4",
+    "dimensions": [
+      90,
+      90
+    ],
+    "bytes": 3504
+  },
+  {
+    "key": "portrait-195",
+    "url": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/195/195.jpg",
+    "source_page": "https://pvp.qq.com/web201605/herodetail/195.shtml",
+    "provider": "Tencent / 王者荣耀官方美术",
+    "retrieved_at": "2026-10-11T10:02:15.459389+00:00",
+    "http_status": 200,
+    "original_sha256": "864dd1c293100ffb71bda3e10dd1156396054659a8300f2e0fde1324fd19c9dd",
+    "asset_sha256": "67a6d64cd48d1b9af9428803cfc7ca3f466d893160fc9150c2c24347957f9807",
+    "dimensions": [
+      90,
+      90
+    ],
+    "bytes": 4632
+  },
+  {
+    "key": "portrait-194",
+    "url": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/194/194.jpg",
+    "source_page": "https://pvp.qq.com/web201605/herodetail/194.shtml",
+    "provider": "Tencent / 王者荣耀官方美术",
+    "retrieved_at": "2026-10-11T10:02:15.605378+00:00",
+    "http_status": 200,
+    "original_sha256": "fc21e26feafe56377bdd470c7f73319a7a5fcdfdc4602f897b01e622b2206a12",
+    "asset_sha256": "53ebccc5e7a43d5d6c956b2160ee3bb1964e93050acbfe02cdac719c2e151625",
+    "dimensions": [
+      90,
+      90
+    ],
+    "bytes": 4302
+  },
+  {
+    "key": "portrait-198",
+    "url": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/198/198.jpg",
+    "source_page": "https://pvp.qq.com/web201605/herodetail/198.shtml",
+    "provider": "Tencent / 王者荣耀官方美术",
+    "retrieved_at": "2026-10-11T10:02:15.769131+00:00",
+    "http_status": 200,
+    "original_sha256": "8b55cf36f4ca29d66e6d389bbbc38f727bdc4517b7245ec797f0fe465832270d",
+    "asset_sha256": "2f7956e3621db13a79ff5115790616dbc4a91289f117ef949e92aa10e81bd711",
+    "dimensions": [
+      100,
+      100
+    ],
+    "bytes": 4200
+  },
+  {
+    "key": "portrait-179",
+    "url": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/179/179.jpg",
+    "source_page": "https://pvp.qq.com/web201605/herodetail/179.shtml",
+    "provider": "Tencent / 王者荣耀官方美术",
+    "retrieved_at": "2026-10-11T10:02:15.914380+00:00",
+    "http_status": 200,
+    "original_sha256": "365886cd13d10eef31c2ba2ad13785ebcba0a55f529a75865e4056b4c3355fbc",
+    "asset_sha256": "dfc25ffc9535e16603de2af73a66e68962128e304970d4ba4e184035608b4bcd",
+    "dimensions": [
+      90,
+      90
+    ],
+    "bytes": 3632
+  },
+  {
+    "key": "portrait-501",
+    "url": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/501/501.jpg",
+    "source_page": "https://pvp.qq.com/web201605/herodetail/501.shtml",
+    "provider": "Tencent / 王者荣耀官方美术",
+    "retrieved_at": "2026-10-11T10:02:16.066144+00:00",
+    "http_status": 200,
+    "original_sha256": "a2bec3458851334c9dfee8ab7d7787bfbe4b3bd48e9b10c3d249b372a7086e5c",
+    "asset_sha256": "7cd241c8e3741beed6f44cf7a5f021806a9ac7e515e21ee54451d7a04e579264",
+    "dimensions": [
+      90,
+      90
+    ],
+    "bytes": 3398
+  },
+  {
+    "key": "portrait-199",
+    "url": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/199/199.jpg",
+    "source_page": "https://pvp.qq.com/web201605/herodetail/199.shtml",
+    "provider": "Tencent / 王者荣耀官方美术",
+    "retrieved_at": "2026-10-11T10:02:16.253693+00:00",
+    "http_status": 200,
+    "original_sha256": "c53aa9f37e1a428f0ff13afb112ff116e6152005c9cb99b201719611dbf6324c",
+    "asset_sha256": "c77d5dce1b7f86c1c31b8e7972c8c95f535f781cac7506e70aa3fd8d74e2ed70",
+    "dimensions": [
+      90,
+      90
+    ],
+    "bytes": 3516
+  },
+  {
+    "key": "portrait-176",
+    "url": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/176/176.jpg",
+    "source_page": "https://pvp.qq.com/web201605/herodetail/176.shtml",
+    "provider": "Tencent / 王者荣耀官方美术",
+    "retrieved_at": "2026-10-11T10:02:16.427044+00:00",
+    "http_status": 200,
+    "original_sha256": "ec383385c35565d59793f9fbba60a8352aa29974819e2ac7b8ef871094dafbbb",
+    "asset_sha256": "8e877f92b39161c4ac81e9423c7353887a5e0321d11629e64f9b9d4790b6b1d2",
+    "dimensions": [
+      90,
+      90
+    ],
+    "bytes": 3922
+  },
+  {
+    "key": "portrait-502",
+    "url": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/502/502.jpg",
+    "source_page": "https://pvp.qq.com/web201605/herodetail/502.shtml",
+    "provider": "Tencent / 王者荣耀官方美术",
+    "retrieved_at": "2026-10-11T10:02:16.592985+00:00",
+    "http_status": 200,
+    "original_sha256": "f91891bab348387ea20dff03dd83694e36914b29d6ff13d44684411a6900d186",
+    "asset_sha256": "d2986e1acd0fe5ae79ae1ffb6be57b0725dc6ff9aac317f9654a5e458da7487e",
+    "dimensions": [
+      90,
+      90
+    ],
+    "bytes": 3486
+  },
+  {
+    "key": "portrait-197",
+    "url": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/197/197.jpg",
+    "source_page": "https://pvp.qq.com/web201605/herodetail/197.shtml",
+    "provider": "Tencent / 王者荣耀官方美术",
+    "retrieved_at": "2026-10-11T10:02:16.770441+00:00",
+    "http_status": 200,
+    "original_sha256": "df31accbd47e49b75a381c9ca737765976ef224a6ca03aea7cc5d65bf57c5807",
+    "asset_sha256": "056b336830b9616d60dcc7465401c95f76dc369937d6678426bb3525803b7bd4",
+    "dimensions": [
+      100,
+      100
+    ],
+    "bytes": 3698
+  },
+  {
+    "key": "portrait-503",
+    "url": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/503/503.jpg",
+    "source_page": "https://pvp.qq.com/web201605/herodetail/503.shtml",
+    "provider": "Tencent / 王者荣耀官方美术",
+    "retrieved_at": "2026-10-11T10:02:16.923809+00:00",
+    "http_status": 200,
+    "original_sha256": "33f0c5aee09475093196b09c8e2eb8e5f9e422bab607733329906a4685306864",
+    "asset_sha256": "cb1ba09acd69f17ad7f7105d0cfc11e249310bb0d19388e2657202f9f2e22fa1",
+    "dimensions": [
+      90,
+      90
+    ],
+    "bytes": 3098
+  },
+  {
+    "key": "portrait-504",
+    "url": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/504/504.jpg",
+    "source_page": "https://pvp.qq.com/web201605/herodetail/504.shtml",
+    "provider": "Tencent / 王者荣耀官方美术",
+    "retrieved_at": "2026-10-11T10:02:17.073953+00:00",
+    "http_status": 200,
+    "original_sha256": "a3ab8fe866255ba1392237ca19c7fb21f64b075b9107276185d2afe2e0256029",
+    "asset_sha256": "89ad9cf871284538bde9983d4db3181189b627d7e9bd1f7e71d4dc6e3fcd9505",
+    "dimensions": [
+      90,
+      90
+    ],
+    "bytes": 3860
+  },
+  {
+    "key": "portrait-125",
+    "url": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/125/125.jpg",
+    "source_page": "https://pvp.qq.com/web201605/herodetail/125.shtml",
+    "provider": "Tencent / 王者荣耀官方美术",
+    "retrieved_at": "2026-10-11T10:02:17.251248+00:00",
+    "http_status": 200,
+    "original_sha256": "fccd62abfaf2b678c3c9419aa6c2d7a195f8ba2f71d9a57c9e152da2b3017642",
+    "asset_sha256": "75723ce115584c7403ad2abefeffa2316cd364553df5ba2e04147cbe98ef5f16",
+    "dimensions": [
+      100,
+      100
+    ],
+    "bytes": 3830
+  },
+  {
+    "key": "portrait-510",
+    "url": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/510/510.jpg",
+    "source_page": "https://pvp.qq.com/web201605/herodetail/510.shtml",
+    "provider": "Tencent / 王者荣耀官方美术",
+    "retrieved_at": "2026-10-11T10:02:17.411296+00:00",
+    "http_status": 200,
+    "original_sha256": "32c9432dd991c87484c4f1efe4bc4ac421169d86db9e6b24775d57354d32cd76",
+    "asset_sha256": "ecf7a58310a2688ec821186ce6f326abc2946eeeb18e5a058ac2afbc7df86a53",
+    "dimensions": [
+      90,
+      90
+    ],
+    "bytes": 3284
+  },
+  {
+    "key": "portrait-137",
+    "url": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/137/137.jpg",
+    "source_page": "https://pvp.qq.com/web201605/herodetail/137.shtml",
+    "provider": "Tencent / 王者荣耀官方美术",
+    "retrieved_at": "2026-10-11T10:02:17.582251+00:00",
+    "http_status": 200,
+    "original_sha256": "e926d95f153f7ca7db2dee8897f12b1eb4edc50642e4d7ff87af7ed4ea5b6dd5",
+    "asset_sha256": "af78ad3b6a2893bbfdabab02cd727157c9ad0cdacdd8fa4545fc072168ce0ab9",
+    "dimensions": [
+      90,
+      90
+    ],
+    "bytes": 2920
+  },
+  {
+    "key": "portrait-509",
+    "url": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/509/509.jpg",
+    "source_page": "https://pvp.qq.com/web201605/herodetail/509.shtml",
+    "provider": "Tencent / 王者荣耀官方美术",
+    "retrieved_at": "2026-10-11T10:02:17.748293+00:00",
+    "http_status": 200,
+    "original_sha256": "21ef80559269e5467cfef160ae56e18630279d03b07acb11ee64e5ed8443f6bc",
+    "asset_sha256": "4da5d68d5c811fe58bc09939246fee82099f898618f1d13ecf82cb881c24e905",
+    "dimensions": [
+      90,
+      90
+    ],
+    "bytes": 3434
+  },
+  {
+    "key": "portrait-508",
+    "url": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/508/508.jpg",
+    "source_page": "https://pvp.qq.com/web201605/herodetail/508.shtml",
+    "provider": "Tencent / 王者荣耀官方美术",
+    "retrieved_at": "2026-10-11T10:02:17.927967+00:00",
+    "http_status": 200,
+    "original_sha256": "e61dc6bd5ece7d8ed1bfbaf9ab04db9c433e1af802c639f896c4ae19b777154c",
+    "asset_sha256": "f83702e7a25ee2f11b8ac8b1aa54785d930f432b6d0845dab5a9dfc9234f0975",
+    "dimensions": [
+      90,
+      90
+    ],
+    "bytes": 3388
+  },
+  {
+    "key": "portrait-312",
+    "url": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/312/312.jpg",
+    "source_page": "https://pvp.qq.com/web201605/herodetail/312.shtml",
+    "provider": "Tencent / 王者荣耀官方美术",
+    "retrieved_at": "2026-10-11T10:02:18.085400+00:00",
+    "http_status": 200,
+    "original_sha256": "f13d5e1b7c168912250430c52aa15e2bdcf37ff88264510c2119344d80f2cf5e",
+    "asset_sha256": "f0d02c7b29957d1b86f7718c5eaf3090c457e42899e5d756ee584392ca9335a3",
+    "dimensions": [
+      90,
+      90
+    ],
+    "bytes": 4618
+  },
+  {
+    "key": "portrait-507",
+    "url": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/507/507.jpg",
+    "source_page": "https://pvp.qq.com/web201605/herodetail/507.shtml",
+    "provider": "Tencent / 王者荣耀官方美术",
+    "retrieved_at": "2026-10-11T10:02:18.275171+00:00",
+    "http_status": 200,
+    "original_sha256": "23bf0e689bc7c5a798292f07650d27d1254a3f8272f155322b48a94ccec73510",
+    "asset_sha256": "70602b2cd6ef9e33eb344e04be1e38c4b6cfb947cf5cea36ddb09308bbaa03db",
+    "dimensions": [
+      90,
+      90
+    ],
+    "bytes": 3718
+  },
+  {
+    "key": "portrait-513",
+    "url": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/513/513.jpg",
+    "source_page": "https://pvp.qq.com/web201605/herodetail/513.shtml",
+    "provider": "Tencent / 王者荣耀官方美术",
+    "retrieved_at": "2026-10-11T10:02:18.477664+00:00",
+    "http_status": 200,
+    "original_sha256": "032e8c7ca1b45cfc33810e01e77647fc916af82e502fed0589628415568dd230",
+    "asset_sha256": "77e4aadbe2f483c134fb6d8f02885d89f4b73db8c2eb9449f5ffb3cf348ba81c",
+    "dimensions": [
+      90,
+      90
+    ],
+    "bytes": 3062
+  },
+  {
+    "key": "portrait-515",
+    "url": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/515/515.jpg",
+    "source_page": "https://pvp.qq.com/web201605/herodetail/515.shtml",
+    "provider": "Tencent / 王者荣耀官方美术",
+    "retrieved_at": "2026-10-11T10:02:18.625350+00:00",
+    "http_status": 200,
+    "original_sha256": "68dbddddeff29f7f8dd7bb23a832851bd7874f78bf61bfffc037bccd42b854c8",
+    "asset_sha256": "bb7c0082f7d400ca012646a20ada0362ca2428a99be7605e3e473a1dec239c6d",
+    "dimensions": [
+      90,
+      90
+    ],
+    "bytes": 2788
+  },
+  {
+    "key": "portrait-511",
+    "url": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/511/511.jpg",
+    "source_page": "https://pvp.qq.com/web201605/herodetail/511.shtml",
+    "provider": "Tencent / 王者荣耀官方美术",
+    "retrieved_at": "2026-10-11T10:02:18.785366+00:00",
+    "http_status": 200,
+    "original_sha256": "27a37f367499f8a528354fee3f1d3e79cd947ce333c533d35d9d0273aac91248",
+    "asset_sha256": "5d3d5e0f143210d910e6e07b2e7437f67cba6b1ccddbada3e0c36a7174d5c8ad",
+    "dimensions": [
+      90,
+      90
+    ],
+    "bytes": 3472
+  },
+  {
+    "key": "portrait-529",
+    "url": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/529/529.jpg",
+    "source_page": "https://pvp.qq.com/web201605/herodetail/529.shtml",
+    "provider": "Tencent / 王者荣耀官方美术",
+    "retrieved_at": "2026-10-11T10:02:18.938693+00:00",
+    "http_status": 200,
+    "original_sha256": "45a0e983cff02896b9090a5accf28ffcd614de106c529d7bafedda8083b44f7e",
+    "asset_sha256": "42ef6273c0766b2c195a4d5ee687db56fa5d12b8ba1ca03ead469eb3575c5d81",
+    "dimensions": [
+      90,
+      90
+    ],
+    "bytes": 3538
+  },
+  {
+    "key": "portrait-505",
+    "url": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/505/505.jpg",
+    "source_page": "https://pvp.qq.com/web201605/herodetail/505.shtml",
+    "provider": "Tencent / 王者荣耀官方美术",
+    "retrieved_at": "2026-10-11T10:02:19.125793+00:00",
+    "http_status": 200,
+    "original_sha256": "de99a49f7435a78c1553b8e7228491228d797acad58717e52d05b0d968509a53",
+    "asset_sha256": "b654a3d226f64d340cf03d4b214f31c61a3c0b9be7d8c4c14d64bc3961d83a36",
+    "dimensions": [
+      90,
+      90
+    ],
+    "bytes": 4134
+  },
+  {
+    "key": "portrait-506",
+    "url": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/506/506.jpg",
+    "source_page": "https://pvp.qq.com/web201605/herodetail/506.shtml",
+    "provider": "Tencent / 王者荣耀官方美术",
+    "retrieved_at": "2026-10-11T10:02:19.294565+00:00",
+    "http_status": 200,
+    "original_sha256": "0dfa6f721ca9b8b449bba5722797fcda25b610299f686fb81d7b560a8f96a3b3",
+    "asset_sha256": "9ca20a11fafbf7d3ecc2dec368629d1f9975e10ac5e7fdc34be382ab0a91d576",
+    "dimensions": [
+      100,
+      100
+    ],
+    "bytes": 3424
+  },
+  {
+    "key": "portrait-522",
+    "url": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/522/522.jpg",
+    "source_page": "https://pvp.qq.com/web201605/herodetail/522.shtml",
+    "provider": "Tencent / 王者荣耀官方美术",
+    "retrieved_at": "2026-10-11T10:02:19.451316+00:00",
+    "http_status": 200,
+    "original_sha256": "f78e235bad4127ca0176ad14a703de12cba46afe92fa7dc3033fd93beed8f676",
+    "asset_sha256": "0cc03bd382fd1dde3eae7b73a91b1adb2b53a8ecd5fa2ca666369e9be371ae16",
+    "dimensions": [
+      90,
+      90
+    ],
+    "bytes": 3272
+  },
+  {
+    "key": "portrait-518",
+    "url": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/518/518.jpg",
+    "source_page": "https://pvp.qq.com/web201605/herodetail/518.shtml",
+    "provider": "Tencent / 王者荣耀官方美术",
+    "retrieved_at": "2026-10-11T10:02:19.601041+00:00",
+    "http_status": 200,
+    "original_sha256": "edd2a8ccf2aca6298c358e0d57e5a2d7c2becc2ded2212e57faf8e6bf9c6e0d9",
+    "asset_sha256": "d944e6432f9b76aa6a0194e125ca4101b1ecee396eaa9cdf4f82b142628cfae6",
+    "dimensions": [
+      90,
+      90
+    ],
+    "bytes": 4016
+  },
+  {
+    "key": "portrait-523",
+    "url": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/523/523.jpg",
+    "source_page": "https://pvp.qq.com/web201605/herodetail/523.shtml",
+    "provider": "Tencent / 王者荣耀官方美术",
+    "retrieved_at": "2026-10-11T10:02:19.748996+00:00",
+    "http_status": 200,
+    "original_sha256": "37894ad7cf2156ab5adb2610dc8f39f73217f47d45aa2460c4d92e9dd17a456a",
+    "asset_sha256": "ef10166b8e4eb0f4e5f35bbe08a528d265facce12b9545ba6423f309ce6745a1",
+    "dimensions": [
+      90,
+      90
+    ],
+    "bytes": 3140
+  },
+  {
+    "key": "portrait-525",
+    "url": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/525/525.jpg",
+    "source_page": "https://pvp.qq.com/web201605/herodetail/525.shtml",
+    "provider": "Tencent / 王者荣耀官方美术",
+    "retrieved_at": "2026-10-11T10:02:19.910127+00:00",
+    "http_status": 200,
+    "original_sha256": "d34a57e211f0d564103111f218ab63214be2eec98a8f92fe14a32239e020b955",
+    "asset_sha256": "99f85b26763bfa3c51e7e22815008744eef11e31321fa3c2029b868013e6e457",
+    "dimensions": [
+      90,
+      90
+    ],
+    "bytes": 3706
+  },
+  {
+    "key": "portrait-524",
+    "url": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/524/524.jpg",
+    "source_page": "https://pvp.qq.com/web201605/herodetail/524.shtml",
+    "provider": "Tencent / 王者荣耀官方美术",
+    "retrieved_at": "2026-10-11T10:02:20.074061+00:00",
+    "http_status": 200,
+    "original_sha256": "993b1c27c0bef26ed5f2b5f05ae340c5430c323936b995117f983c880ec72cc0",
+    "asset_sha256": "7ec2844e81b76d1200f280c43449a89abd4a6cdc73fc4c748d3c135b493e856c",
+    "dimensions": [
+      90,
+      90
+    ],
+    "bytes": 4050
+  },
+  {
+    "key": "portrait-531",
+    "url": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/531/531.jpg",
+    "source_page": "https://pvp.qq.com/web201605/herodetail/531.shtml",
+    "provider": "Tencent / 王者荣耀官方美术",
+    "retrieved_at": "2026-10-11T10:02:20.220000+00:00",
+    "http_status": 200,
+    "original_sha256": "e5641baa94f552a0221f39dd3012e45e6a97f03d5a321f70beb2a12e3912be5f",
+    "asset_sha256": "8d574ad99f983bc5ba9169a4ca4e1739d73fee09af6e4ea29891362c08ac5fc3",
+    "dimensions": [
+      90,
+      90
+    ],
+    "bytes": 3016
+  },
+  {
+    "key": "portrait-527",
+    "url": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/527/527.jpg",
+    "source_page": "https://pvp.qq.com/web201605/herodetail/527.shtml",
+    "provider": "Tencent / 王者荣耀官方美术",
+    "retrieved_at": "2026-10-11T10:02:20.364798+00:00",
+    "http_status": 200,
+    "original_sha256": "60db02d1730b4662dcde592195797fb89a780df763c59b2f9a9fa6d4ebbfd6e4",
+    "asset_sha256": "cfbcab3c282e99f526d648e21915f5cfc6704746e70afe6002943d36207285b1",
+    "dimensions": [
+      90,
+      90
+    ],
+    "bytes": 3870
+  },
+  {
+    "key": "portrait-533",
+    "url": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/533/533.jpg",
+    "source_page": "https://pvp.qq.com/web201605/herodetail/533.shtml",
+    "provider": "Tencent / 王者荣耀官方美术",
+    "retrieved_at": "2026-10-11T10:02:20.519588+00:00",
+    "http_status": 200,
+    "original_sha256": "80b4aa63cb5cf10f14a9d64bb970023b1d32b2ee9f71a60e6a8d10a7712d012b",
+    "asset_sha256": "417f9ad8dcb1ff742f15084425a6064dc83133ac29d252a3e30038975f205a99",
+    "dimensions": [
+      90,
+      90
+    ],
+    "bytes": 3812
+  },
+  {
+    "key": "portrait-536",
+    "url": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/536/536.jpg",
+    "source_page": "https://pvp.qq.com/web201605/herodetail/536.shtml",
+    "provider": "Tencent / 王者荣耀官方美术",
+    "retrieved_at": "2026-10-11T10:02:20.667349+00:00",
+    "http_status": 200,
+    "original_sha256": "9cf9cf12039eb866dd48c5eb35a3bd96adbfe0be958b90e633b3bfd1c8ad4778",
+    "asset_sha256": "692204eeffe8f97ce7f55f96035681ba3265772bfcd83d43be65b891c2a90dce",
+    "dimensions": [
+      90,
+      90
+    ],
+    "bytes": 3730
+  },
+  {
+    "key": "portrait-528",
+    "url": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/528/528.jpg",
+    "source_page": "https://pvp.qq.com/web201605/herodetail/528.shtml",
+    "provider": "Tencent / 王者荣耀官方美术",
+    "retrieved_at": "2026-10-11T10:02:20.828756+00:00",
+    "http_status": 200,
+    "original_sha256": "7a9d8cf87d04a2ad30a9a76ccb8d2c463b524068d4682ff5adf5da13b47ccbf5",
+    "asset_sha256": "8dc8cb962eccd5690aa236f51ce19cad562e5d9f5f960b123af4f0e2a34765f0",
+    "dimensions": [
+      90,
+      90
+    ],
+    "bytes": 3300
+  },
+  {
+    "key": "portrait-537",
+    "url": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/537/537.jpg",
+    "source_page": "https://pvp.qq.com/web201605/herodetail/537.shtml",
+    "provider": "Tencent / 王者荣耀官方美术",
+    "retrieved_at": "2026-10-11T10:02:20.992111+00:00",
+    "http_status": 200,
+    "original_sha256": "107d43870079bd3a952db96f26b1e1f99e5dcc98367fe7670c79ef69e6bd1e3a",
+    "asset_sha256": "2cf5f3cd5b07a1fd1d9a7a9e78d929c16357bd5d6a6688c76318c8f2f6f429b1",
+    "dimensions": [
+      90,
+      90
+    ],
+    "bytes": 3250
+  },
+  {
+    "key": "portrait-155",
+    "url": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/155/155.jpg",
+    "source_page": "https://pvp.qq.com/web201605/herodetail/155.shtml",
+    "provider": "Tencent / 王者荣耀官方美术",
+    "retrieved_at": "2026-10-11T10:02:21.178042+00:00",
+    "http_status": 200,
+    "original_sha256": "948c9c91e39b3dadac644f5b557f836603fbfd53445d211660a3dc2fe7cef3f2",
+    "asset_sha256": "db206d476fc1a9d2876be6d562c25e2ea99e2f7fcd4e8c542af1b819813d7982",
+    "dimensions": [
+      128,
+      128
+    ],
+    "bytes": 5804
+  },
+  {
+    "key": "portrait-538",
+    "url": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/538/538.jpg",
+    "source_page": "https://pvp.qq.com/web201605/herodetail/538.shtml",
+    "provider": "Tencent / 王者荣耀官方美术",
+    "retrieved_at": "2026-10-11T10:02:21.349012+00:00",
+    "http_status": 200,
+    "original_sha256": "84c3e8aaaa7f4c2b0fd3922792a64e247e9859863cade58b5da9330e50fc4b09",
+    "asset_sha256": "574c3b554d10fec7e0e6b1195e2832dbf8f12127bdbfcfeaaccc40deb239db32",
+    "dimensions": [
+      100,
+      100
+    ],
+    "bytes": 3346
+  },
+  {
+    "key": "portrait-540",
+    "url": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/540/540.jpg",
+    "source_page": "https://pvp.qq.com/web201605/herodetail/540.shtml",
+    "provider": "Tencent / 王者荣耀官方美术",
+    "retrieved_at": "2026-10-11T10:02:21.538943+00:00",
+    "http_status": 200,
+    "original_sha256": "237fcdeb4dbb817cc044a2250d909c72745800dae0af07b9822316cf4f404893",
+    "asset_sha256": "c4a5169f0ba6cce7b4d3bdb9516e871e124e752d774e793a5ca9c36092358f3d",
+    "dimensions": [
+      100,
+      100
+    ],
+    "bytes": 2636
+  },
+  {
+    "key": "portrait-542",
+    "url": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/542/542.jpg",
+    "source_page": "https://pvp.qq.com/web201605/herodetail/542.shtml",
+    "provider": "Tencent / 王者荣耀官方美术",
+    "retrieved_at": "2026-10-11T10:02:21.699563+00:00",
+    "http_status": 200,
+    "original_sha256": "f5468772395e0c35876e62f5d044a17943ef09334ca7af2b9d61a41b5d65d8db",
+    "asset_sha256": "d083e5cbe190945c79d6630ff0719f22011fab34cf4716f20013666ab4a25c72",
+    "dimensions": [
+      100,
+      100
+    ],
+    "bytes": 3772
+  },
+  {
+    "key": "portrait-534",
+    "url": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/534/534.jpg",
+    "source_page": "https://pvp.qq.com/web201605/herodetail/534.shtml",
+    "provider": "Tencent / 王者荣耀官方美术",
+    "retrieved_at": "2026-10-11T10:02:21.876685+00:00",
+    "http_status": 200,
+    "original_sha256": "e1e248d94343ed42d24de6fc5a6a73990d17d335078cf0ec499799e688badfe2",
+    "asset_sha256": "b3584d40b7bc55fbe8e57006e3ca53a7bb8815ed644948b091ed01601f1a1865",
+    "dimensions": [
+      100,
+      100
+    ],
+    "bytes": 4524
+  },
+  {
+    "key": "portrait-548",
+    "url": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/548/548.jpg",
+    "source_page": "https://pvp.qq.com/web201605/herodetail/548.shtml",
+    "provider": "Tencent / 王者荣耀官方美术",
+    "retrieved_at": "2026-10-11T10:02:22.021604+00:00",
+    "http_status": 200,
+    "original_sha256": "183f6c55b2e188518b6ab5f998c778b3c37eed79bd5f0168ae9c8cde3c70c591",
+    "asset_sha256": "7e38e0612e217aa674b0bbc01bc2261126e1d4d3700a0c6e84ae2e066bae9fa3",
+    "dimensions": [
+      100,
+      100
+    ],
+    "bytes": 4300
+  },
+  {
+    "key": "portrait-521",
+    "url": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/521/521.jpg",
+    "source_page": "https://pvp.qq.com/web201605/herodetail/521.shtml",
+    "provider": "Tencent / 王者荣耀官方美术",
+    "retrieved_at": "2026-10-11T10:02:22.170712+00:00",
+    "http_status": 200,
+    "original_sha256": "8a7534f8b12cd61b0bd1dfa249998527b21c18970f61d5d014cdbbe0735071b8",
+    "asset_sha256": "dc5193765ebf5fa78cdb66b477f4cd40b9588ee91efcce05dcececa7be909e7d",
+    "dimensions": [
+      100,
+      100
+    ],
+    "bytes": 3942
+  },
+  {
+    "key": "portrait-544",
+    "url": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/544/544.jpg",
+    "source_page": "https://pvp.qq.com/web201605/herodetail/544.shtml",
+    "provider": "Tencent / 王者荣耀官方美术",
+    "retrieved_at": "2026-10-11T10:02:22.350046+00:00",
+    "http_status": 200,
+    "original_sha256": "eacd7020144aa38e24ff8ddb5834f9f2755adb27dedad8f66c4f8bfde811618c",
+    "asset_sha256": "3cb5d6409fd2bc160fb5f42c7170b763a5040a56d49479a5236f38e81f72bc1f",
+    "dimensions": [
+      100,
+      100
+    ],
+    "bytes": 4498
+  },
+  {
+    "key": "portrait-545",
+    "url": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/545/545.jpg",
+    "source_page": "https://pvp.qq.com/web201605/herodetail/545.shtml",
+    "provider": "Tencent / 王者荣耀官方美术",
+    "retrieved_at": "2026-10-11T10:02:22.505847+00:00",
+    "http_status": 200,
+    "original_sha256": "a441d5bec08cc1238e674e845009066c3dd551cf0a50fd725af5455b0b8393ba",
+    "asset_sha256": "1a985aa7b6d8fef24c080f392e235240f2f0e73262a902d8dfe59f89ecbfbce9",
+    "dimensions": [
+      128,
+      128
+    ],
+    "bytes": 6088
+  },
+  {
+    "key": "portrait-564",
+    "url": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/564/564.jpg",
+    "source_page": "https://pvp.qq.com/web201605/herodetail/564.shtml",
+    "provider": "Tencent / 王者荣耀官方美术",
+    "retrieved_at": "2026-10-11T10:02:22.682089+00:00",
+    "http_status": 200,
+    "original_sha256": "8abf02dcf5b7a0668703185382878aacc1bf943ba5b1a381e9a970c0220ebf99",
+    "asset_sha256": "f61ce8a7aa68b82d1bb6f1dc259ac05994da3a93d8a6796bd38d398ac47ccb96",
+    "dimensions": [
+      128,
+      128
+    ],
+    "bytes": 5444
+  },
+  {
+    "key": "portrait-514",
+    "url": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/514/514.jpg",
+    "source_page": "https://pvp.qq.com/web201605/herodetail/514.shtml",
+    "provider": "Tencent / 王者荣耀官方美术",
+    "retrieved_at": "2026-10-11T10:02:22.870186+00:00",
+    "http_status": 200,
+    "original_sha256": "f7e1b54afd863a3c29ffb4ac75f4248b4e2aabb2957ff79067e8425a51023dab",
+    "asset_sha256": "0548dab1c07404e3da03ed6ae676ce2b4582fa919c47721fc833936e8c35e8f9",
+    "dimensions": [
+      128,
+      128
+    ],
+    "bytes": 5842
+  },
+  {
+    "key": "portrait-159",
+    "url": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/159/159.jpg",
+    "source_page": "https://pvp.qq.com/web201605/herodetail/159.shtml",
+    "provider": "Tencent / 王者荣耀官方美术",
+    "retrieved_at": "2026-10-11T10:02:23.042189+00:00",
+    "http_status": 200,
+    "original_sha256": "977bb6f012140bd9e046efe6ec3fb767213fd134be9cb3f71438119de08bd0e0",
+    "asset_sha256": "e607ad9dc5efaf0b7d44e7cd3751e5128bfede6d22baa892b4e775b44d16b4d4",
+    "dimensions": [
+      128,
+      128
+    ],
+    "bytes": 5920
+  },
+  {
+    "key": "portrait-563",
+    "url": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/563/563.jpg",
+    "source_page": "https://pvp.qq.com/web201605/herodetail/563.shtml",
+    "provider": "Tencent / 王者荣耀官方美术",
+    "retrieved_at": "2026-10-11T10:02:23.192235+00:00",
+    "http_status": 200,
+    "original_sha256": "94d32258c2917714b992c62f2424fa19b2ad0e1f566ed80e57bfa096cfc5af00",
+    "asset_sha256": "aeba3eb2f408bb8d7cef4ad0798778561c473f0db666879be778f98cf0029bd2",
+    "dimensions": [
+      128,
+      128
+    ],
+    "bytes": 5844
+  },
+  {
+    "key": "portrait-519",
+    "url": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/519/519.jpg",
+    "source_page": "https://pvp.qq.com/web201605/herodetail/519.shtml",
+    "provider": "Tencent / 王者荣耀官方美术",
+    "retrieved_at": "2026-10-11T10:02:23.354676+00:00",
+    "http_status": 200,
+    "original_sha256": "b14fcb4b6e40b58fc43f1db67a0fd6aea08900106adc030383ccfca8e6eef3c0",
+    "asset_sha256": "9c3fdd03e14aad59ded9405fd151e6de6614bf68589e2129a1db8b460eb8d92b",
+    "dimensions": [
+      128,
+      128
+    ],
+    "bytes": 4620
+  },
+  {
+    "key": "portrait-517",
+    "url": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/517/517.jpg",
+    "source_page": "https://pvp.qq.com/web201605/herodetail/517.shtml",
+    "provider": "Tencent / 王者荣耀官方美术",
+    "retrieved_at": "2026-10-11T10:02:23.499297+00:00",
+    "http_status": 200,
+    "original_sha256": "32e16b68ac071336d264d3891b9681695741c939f786a7b70d079738cab08915",
+    "asset_sha256": "224d09b478dafc952ccb3cab81d5b05652b7f4585ee3814be0512f89e7713f4e",
+    "dimensions": [
+      128,
+      128
+    ],
+    "bytes": 6998
+  },
+  {
+    "key": "portrait-582",
+    "url": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/582/582.jpg",
+    "source_page": "https://pvp.qq.com/web201605/herodetail/582.shtml",
+    "provider": "Tencent / 王者荣耀官方美术",
+    "retrieved_at": "2026-10-11T10:02:23.664219+00:00",
+    "http_status": 200,
+    "original_sha256": "19d1f0ab910d250ba05b6ae8836725ba33df7ca1e14288b4403dbc5d0a4cecd5",
+    "asset_sha256": "b5c19b7b6a98e94fa832e10bbe926da18d844767cf9a3d6d52c2cf54f2f61f76",
+    "dimensions": [
+      100,
+      100
+    ],
+    "bytes": 3402
+  },
+  {
+    "key": "portrait-581",
+    "url": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/581/581.jpg",
+    "source_page": "https://pvp.qq.com/web201605/herodetail/581.shtml",
+    "provider": "Tencent / 王者荣耀官方美术",
+    "retrieved_at": "2026-10-11T10:02:23.816500+00:00",
+    "http_status": 200,
+    "original_sha256": "24e402d727cd7c66894acd673f339d43751da1b7399df34707747017b804ada3",
+    "asset_sha256": "1a34508d3e5e2654900fab492f5ec03c251a8628bd7c3778ebb57cef8baf3c77",
+    "dimensions": [
+      100,
+      100
+    ],
+    "bytes": 3512
+  },
+  {
+    "key": "portrait-577",
+    "url": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/577/577.jpg",
+    "source_page": "https://pvp.qq.com/web201605/herodetail/577.shtml",
+    "provider": "Tencent / 王者荣耀官方美术",
+    "retrieved_at": "2026-10-11T10:02:24.008930+00:00",
+    "http_status": 200,
+    "original_sha256": "5222fad9e6b7acf017c2e740717e9171dbdfbfceab5b850c35680ec646bd42ee",
+    "asset_sha256": "9158cd3f1bc0e9f05400bc71d580366b43ea7e8a6a401e8d32fd3821ec995dae",
+    "dimensions": [
+      100,
+      100
+    ],
+    "bytes": 3842
+  },
+  {
+    "key": "portrait-558",
+    "url": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/558/558.jpg",
+    "source_page": "https://pvp.qq.com/web201605/herodetail/558.shtml",
+    "provider": "Tencent / 王者荣耀官方美术",
+    "retrieved_at": "2026-10-11T10:02:24.191845+00:00",
+    "http_status": 200,
+    "original_sha256": "11e140742c0a282fab4ee4b3237f0119abdd9f6077dc24fb6ef6c6801f51ca6f",
+    "asset_sha256": "46c8d19410bd81d2d14ff6794dcc114a76b73c7ae6e5ca735af50a71b93f1ae9",
+    "dimensions": [
+      140,
+      140
+    ],
+    "bytes": 6250
+  },
+  {
+    "key": "portrait-177",
+    "url": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/177/177.jpg",
+    "source_page": "https://pvp.qq.com/web201605/herodetail/177.shtml",
+    "provider": "Tencent / 王者荣耀官方美术",
+    "retrieved_at": "2026-10-11T10:02:24.366092+00:00",
+    "http_status": 200,
+    "original_sha256": "2e64b93774f7b0a4fe6ef869a7a4604cb096813244b8c5e663e9a3d345bb28c4",
+    "asset_sha256": "a6d42f5da9c0d107381b41fbef8f03ea5fde93601cf7695daa76a23e704bfad5",
+    "dimensions": [
+      90,
+      90
+    ],
+    "bytes": 2942
+  },
+  {
+    "key": "portrait-550",
+    "url": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/550/550.jpg",
+    "source_page": "https://pvp.qq.com/web201605/herodetail/550.shtml",
+    "provider": "Tencent / 王者荣耀官方美术",
+    "retrieved_at": "2026-10-11T10:02:24.517354+00:00",
+    "http_status": 200,
+    "original_sha256": "85e9677bd73d80409aaa7983cf643c208bd7c555c7b06b10701774b42774218d",
+    "asset_sha256": "f4303f3cf68bf89f959082a22fcb28c5ced5c6e1ea057951135b73be72396d1c",
+    "dimensions": [
+      100,
+      100
+    ],
+    "bytes": 2682
+  },
+  {
+    "key": "portrait-584",
+    "url": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/584/584.jpg",
+    "source_page": "https://pvp.qq.com/web201605/herodetail/584.shtml",
+    "provider": "Tencent / 王者荣耀官方美术",
+    "retrieved_at": "2026-10-11T10:02:24.691705+00:00",
+    "http_status": 200,
+    "original_sha256": "2f4d8b2b1489c6a06f35031f760d1eeca8e142465f056f31ca7bfb3d311f5141",
+    "asset_sha256": "0d67fb878a854c8c045832535ccc90d215fa9afb23ead74f1b7c9d1ca8370611",
+    "dimensions": [
+      160,
+      160
+    ],
+    "bytes": 5176
+  },
+  {
+    "key": "portrait-151",
+    "url": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/151/151.jpg",
+    "source_page": "https://pvp.qq.com/web201605/herodetail/151.shtml",
+    "provider": "Tencent / 王者荣耀官方美术",
+    "retrieved_at": "2026-10-11T10:02:24.858966+00:00",
+    "http_status": 200,
+    "original_sha256": "367902b26f55f2b95cc53efc16026195444b73bfe50d7a11adbe3204f047c5f7",
+    "asset_sha256": "1b83f1f90652615ba4b8ec812a70e71d60b15c2333ac63ab3cdb4640b2bb3a65",
+    "dimensions": [
+      100,
+      100
+    ],
+    "bytes": 3718
+  },
+  {
+    "key": "portrait-172",
+    "url": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/172/172.jpg",
+    "source_page": "https://pvp.qq.com/web201605/herodetail/172.shtml",
+    "provider": "Tencent / 王者荣耀官方美术",
+    "retrieved_at": "2026-10-11T10:02:25.006400+00:00",
+    "http_status": 200,
+    "original_sha256": "1db38f6baa510a1099f344120e1807eacc8287a3fae2b8dbf4b24aa41eee4e9b",
+    "asset_sha256": "94b82b442c477c817cec5d2794077b2a862aeb6e7de54bd645455625ae96ecbe",
+    "dimensions": [
+      100,
+      100
+    ],
+    "bytes": 3616
+  },
+  {
+    "key": "portrait-585",
+    "url": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/585/585.jpg",
+    "source_page": "https://pvp.qq.com/web201605/herodetail/585.shtml",
+    "provider": "Tencent / 王者荣耀官方美术",
+    "retrieved_at": "2026-10-11T10:02:25.166149+00:00",
+    "http_status": 200,
+    "original_sha256": "daf0763bd26ce9d814a82e72b0168d23c4941b8fd5fc535de65069491b06f435",
+    "asset_sha256": "a214296f8c3fc8839eee13a308223b8d26a3804ca467e4f3ae9c99dd83d7d156",
+    "dimensions": [
+      140,
+      140
+    ],
+    "bytes": 4944
+  },
+  {
+    "key": "portrait-188",
+    "url": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/188/188.jpg",
+    "source_page": "https://pvp.qq.com/web201605/herodetail/188.shtml",
+    "provider": "Tencent / 王者荣耀官方美术",
+    "retrieved_at": "2026-10-11T10:02:25.333235+00:00",
+    "http_status": 200,
+    "original_sha256": "0a062a8b1992d3670190218b276c4ebd44308d8f16228df721d438b1a9f74a14",
+    "asset_sha256": "59d21f6eeb0c98e4365b3b7c2128ed12c40a2b37122a3b57018e508a4f201aea",
+    "dimensions": [
+      100,
+      100
+    ],
+    "bytes": 3006
+  },
+  {
+    "key": "portrait-583",
+    "url": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/583/583.jpg",
+    "source_page": "https://pvp.qq.com/web201605/herodetail/583.shtml",
+    "provider": "Tencent / 王者荣耀官方美术",
+    "retrieved_at": "2026-10-11T10:02:25.495170+00:00",
+    "http_status": 200,
+    "original_sha256": "e18845d10022630163d4def13d77e6a2fa176fbc0abf2b8030505323100974a3",
+    "asset_sha256": "94cd048aa3290634dc0c2a8394fd9f2809968a5a45b49e2a7a7741cc702c98c6",
+    "dimensions": [
+      100,
+      100
+    ],
+    "bytes": 2996
+  },
+  {
+    "key": "portrait-547",
+    "url": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/547/547.jpg",
+    "source_page": "https://pvp.qq.com/web201605/herodetail/547.shtml",
+    "provider": "Tencent / 王者荣耀官方美术",
+    "retrieved_at": "2026-10-11T10:02:25.664181+00:00",
+    "http_status": 200,
+    "original_sha256": "8bd229f3347fc412de51576660e74f850bad30f978b797cad08f5468ea90167b",
+    "asset_sha256": "50d03e3fa94a8ea7093ea0293c51301a0bf88667d8bda8438dec63f9cbad472c",
+    "dimensions": [
+      90,
+      90
+    ],
+    "bytes": 2790
+  },
+  {
+    "key": "portrait-138",
+    "url": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/138/138.jpg",
+    "source_page": "https://pvp.qq.com/web201605/herodetail/138.shtml",
+    "provider": "Tencent / 王者荣耀官方美术",
+    "retrieved_at": "2026-10-11T10:02:25.827967+00:00",
+    "http_status": 200,
+    "original_sha256": "09d5643d183c207831ad24c06c693c9abe641cdd5c05215c325dfa5047d96e69",
+    "asset_sha256": "3afb8261abf9f88484dd2882c54eb3ba9d00e8cd9e30e4ad33f7d03139d21bae",
+    "dimensions": [
+      100,
+      100
+    ],
+    "bytes": 3152
+  },
+  {
+    "key": "splash-107",
+    "url": "https://game.gtimg.cn/images/yxzj/img201606/skin/hero-info/107/107-bigskin-1.jpg",
+    "source_page": "https://pvp.qq.com/web201605/herodetail/107.shtml",
+    "provider": "Tencent / 王者荣耀官方美术",
+    "retrieved_at": "2026-10-11T10:02:26.411063+00:00",
+    "http_status": 200,
+    "original_sha256": "3104991802034468fadb80b0f2d688d8f008c72aa5fce5642c116d013401e62f",
+    "asset_sha256": "bcbb68e0b10dae328a5a3a458cd09546b9f087a108e83eab00955c8ca3e79d7e",
+    "dimensions": [
+      1440,
+      662
+    ],
+    "bytes": 112492
+  }
+]

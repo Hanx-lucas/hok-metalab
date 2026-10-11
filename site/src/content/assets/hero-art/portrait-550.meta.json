@@ -1,0 +1,15 @@
+{
+  "key": "portrait-550",
+  "url": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/550/550.jpg",
+  "source_page": "https://pvp.qq.com/web201605/herodetail/550.shtml",
+  "provider": "Tencent / 王者荣耀官方美术",
+  "retrieved_at": "2026-10-11T10:02:24.517354+00:00",
+  "http_status": 200,
+  "original_sha256": "85e9677bd73d80409aaa7983cf643c208bd7c555c7b06b10701774b42774218d",
+  "asset_sha256": "f4303f3cf68bf89f959082a22fcb28c5ced5c6e1ea057951135b73be72396d1c",
+  "dimensions": [
+    100,
+    100
+  ],
+  "bytes": 2682
+}

@@ -1,0 +1,185 @@
+{
+  "official_events": 33,
+  "official_rows": 2754,
+  "official_heroes": 132,
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "hero_appearances": 110675,
+  "quality_issue_count": 750,
+  "incoherent_rows": 20,
+  "legacy_rows": 127,
+  "camp_rows": 0,
+  "latest_completed_league": "20260003",
+  "latest_completed_event": "2026年KPL夏季赛",
+  "top_heroes": [
+    {
+      "hero": "赵云",
+      "score": 94.57070707070707,
+      "posteriorRate": 0.5898876404494382,
+      "winRate": 0.6013,
+      "pickRate": 0.2776,
+      "banRate": 0.2295,
+      "battles": 158,
+      "lowerRate": 0.5169678109519527,
+      "upperRate": 0.6608937966453019,
+      "top10WeightShare": 1.0
+    },
+    {
+      "hero": "关羽",
+      "score": 93.91414141414141,
+      "posteriorRate": 0.5828220858895705,
+      "winRate": 0.5944,
+      "pickRate": 0.2509,
+      "banRate": 0.4502,
+      "battles": 143,
+      "lowerRate": 0.5064959755725025,
+      "upperRate": 0.6572226270193562,
+      "top10WeightShare": 1.0
+    },
+    {
+      "hero": "鲁班大师",
+      "score": 88.48484848484848,
+      "posteriorRate": 0.5566037735849056,
+      "winRate": 0.5698,
+      "pickRate": 0.1512,
+      "banRate": 0.8363,
+      "battles": 86,
+      "lowerRate": 0.4616571400209204,
+      "upperRate": 0.6495264028811905,
+      "top10WeightShare": 0.998
+    },
+    {
+      "hero": "张飞",
+      "score": 85.93434343434343,
+      "posteriorRate": 0.5511363636363636,
+      "winRate": 0.5577,
+      "pickRate": 0.2776,
+      "banRate": 0.0854,
+      "battles": 156,
+      "lowerRate": 0.477402343561624,
+      "upperRate": 0.6237692942677759,
+      "top10WeightShare": 0.999
+    },
+    {
+      "hero": "戈娅",
+      "score": 85.53030303030303,
+      "posteriorRate": 0.5321100917431193,
+      "winRate": 0.5354,
+      "pickRate": 0.3523,
+      "banRate": 0.153,
+      "battles": 198,
+      "lowerRate": 0.4658115252220933,
+      "upperRate": 0.5978504812344165,
+      "top10WeightShare": 0.942
+    },
+    {
+      "hero": "盾山",
+      "score": 85.50505050505049,
+      "posteriorRate": 0.5323741007194245,
+      "winRate": 0.5378,
+      "pickRate": 0.2117,
+      "banRate": 0.6495,
+      "battles": 119,
+      "lowerRate": 0.4494109299399271,
+      "upperRate": 0.6144545504973684,
+      "top10WeightShare": 0.973
+    },
+    {
+      "hero": "曹操",
+      "score": 83.66161616161615,
+      "posteriorRate": 0.5592105263157895,
+      "winRate": 0.5682,
+      "pickRate": 0.2349,
+      "banRate": 0.0374,
+      "battles": 132,
+      "lowerRate": 0.4799160611729011,
+      "upperRate": 0.6370286892942162,
+      "top10WeightShare": 0.877
+    },
+    {
+      "hero": "大司命",
+      "score": 82.57575757575758,
+      "posteriorRate": 0.5284552845528455,
+      "winRate": 0.534,
+      "pickRate": 0.1833,
+      "banRate": 0.3167,
+      "battles": 103,
+      "lowerRate": 0.440308357219387,
+      "upperRate": 0.615725377863521,
+      "top10WeightShare": 0.766
+    },
+    {
+      "hero": "橘右京",
+      "score": 80.63131313131312,
+      "posteriorRate": 0.5416666666666666,
+      "winRate": 0.5526,
+      "pickRate": 0.1352,
+      "banRate": 0.1299,
+      "battles": 76,
+      "lowerRate": 0.441912954918931,
+      "upperRate": 0.6397751977489377,
+      "top10WeightShare": 0.647
+    },
+    {
+      "hero": "钟馗",
+      "score": 80.2020202020202,
+      "posteriorRate": 0.5263157894736842,
+      "winRate": 0.5319,
+      "pickRate": 0.1637,
+      "banRate": 0.2331,
+      "battles": 94,
+      "lowerRate": 0.4347936889763753,
+      "upperRate": 0.6169629390023113,
+      "top10WeightShare": 0.474
+    }
+  ],
+  "backtest_summaries": [
+    {
+      "model": "50%基线",
+      "maePP": 10.51871513370687,
+      "weightedMaePP": 4.827482998326773,
+      "brier": 0.25
+    },
+    {
+      "model": "上一届平滑胜率",
+      "maePP": 11.206740202979566,
+      "weightedMaePP": 5.831406329803404,
+      "brier": 0.25138065162795364
+    },
+    {
+      "model": "岭回归",
+      "maePP": 10.543881832622418,
+      "weightedMaePP": 4.9540629360178965,
+      "brier": 0.25005724149645453
+    },
+    {
+      "model": "近三届合并平滑",
+      "maePP": 11.074652625350387,
+      "weightedMaePP": 5.531332460980682,
+      "brier": 0.2509499046854099
+    }
+  ],
+  "prior": 20,
+  "weight_scenarios": 1000,
+  "random_seed": 241098181,
+  "backtest_event_count": 9,
+  "backtest_excluded_transitions": [
+    {
+      "previous_league_id": "20250001",
+      "previous_event": "2025年KPL春季赛",
+      "previous_catalog_end": "2025-06-06",
+      "target_league_id": "20250002",
+      "target_event": "2025年KPL夏季赛",
+      "target_catalog_start": "2025-06-04",
+      "reason": "previous_catalog_window_not_closed_by_target_start"
+    }
+  ]
+}

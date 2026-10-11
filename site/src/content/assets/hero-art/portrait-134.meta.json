@@ -1,0 +1,15 @@
+{
+  "key": "portrait-134",
+  "url": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/134/134.jpg",
+  "source_page": "https://pvp.qq.com/web201605/herodetail/134.shtml",
+  "provider": "Tencent / 王者荣耀官方美术",
+  "retrieved_at": "2026-10-11T10:02:08.893941+00:00",
+  "http_status": 200,
+  "original_sha256": "ed6b3160ce16017ae30bfaeb68c4fd987e95d8d5cff8b438def4146e26892f2a",
+  "asset_sha256": "2b9be277e6e4727591c4f6ee60bf2959a47e78fc20a11ef6d2c18a49269a1eaa",
+  "dimensions": [
+    90,
+    90
+  ],
+  "bytes": 2936
+}

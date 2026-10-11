@@ -1,0 +1,10 @@
+.venv/
+.deps/
+__pycache__/
+*.pyc
+private/
+.env*
+output/
+**/.data-app-offline/
+node_modules/
+*.log

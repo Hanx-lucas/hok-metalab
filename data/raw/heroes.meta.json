@@ -1,0 +1,10 @@
+{
+  "key": "heroes",
+  "url": "https://pvp.qq.com/web201605/js/herolist.json",
+  "retrieved_at": "2026-10-10T17:24:17.909671+00:00",
+  "sha256": "b64ad4ea3c86c83b2540b9b433854218a60d07cc912a62aeaf1d40b95b2959a2",
+  "http_status": 200,
+  "request_body": null,
+  "bytes": 43153,
+  "provider": "Tencent public aggregate"
+}

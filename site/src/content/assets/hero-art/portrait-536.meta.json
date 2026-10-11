@@ -1,0 +1,15 @@
+{
+  "key": "portrait-536",
+  "url": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/536/536.jpg",
+  "source_page": "https://pvp.qq.com/web201605/herodetail/536.shtml",
+  "provider": "Tencent / 王者荣耀官方美术",
+  "retrieved_at": "2026-10-11T10:02:20.667349+00:00",
+  "http_status": 200,
+  "original_sha256": "9cf9cf12039eb866dd48c5eb35a3bd96adbfe0be958b90e633b3bfd1c8ad4778",
+  "asset_sha256": "692204eeffe8f97ce7f55f96035681ba3265772bfcd83d43be65b891c2a90dce",
+  "dimensions": [
+    90,
+    90
+  ],
+  "bytes": 3730
+}

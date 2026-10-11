@@ -1,0 +1,11 @@
+{
+  "key": "susu_rank_3",
+  "url": "https://api.91m.top/hero/app?type=getRanking&aid=0&bid=0&cid=0&did=3&lang=zh-CN&ref=&host=pvp.91m.top&gameType=wzry",
+  "method": "POST",
+  "http_status": 200,
+  "retrieved_at": "2026-10-11T08:03:00.955030+00:00",
+  "sha256": "835bb3ad1d7d0885a9ca306d6d64f3c54a56e49a891d65b2a7db6cce795006fa",
+  "bytes": 48293,
+  "classification": "third_party_public_aggregate",
+  "credentials_used": false
+}

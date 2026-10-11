@@ -1,0 +1,15 @@
+{
+  "key": "portrait-177",
+  "url": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/177/177.jpg",
+  "source_page": "https://pvp.qq.com/web201605/herodetail/177.shtml",
+  "provider": "Tencent / 王者荣耀官方美术",
+  "retrieved_at": "2026-10-11T10:02:24.366092+00:00",
+  "http_status": 200,
+  "original_sha256": "2e64b93774f7b0a4fe6ef869a7a4604cb096813244b8c5e663e9a3d345bb28c4",
+  "asset_sha256": "a6d42f5da9c0d107381b41fbef8f03ea5fde93601cf7695daa76a23e704bfad5",
+  "dimensions": [
+    90,
+    90
+  ],
+  "bytes": 2942
+}

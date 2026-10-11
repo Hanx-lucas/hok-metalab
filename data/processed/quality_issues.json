@@ -1,0 +1,4502 @@
+[
+  {
+    "league_id": "20190001",
+    "hero_id": 110,
+    "hero": "嬴政",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190001",
+    "hero_id": 156,
+    "hero": "张良",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190001",
+    "hero_id": 149,
+    "hero": "刘邦",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190001",
+    "hero_id": 193,
+    "hero": "铠",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190001",
+    "hero_id": 124,
+    "hero": "周瑜",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190001",
+    "hero_id": 111,
+    "hero": "孙尚香",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190001",
+    "hero_id": 163,
+    "hero": "橘右京",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190001",
+    "hero_id": 121,
+    "hero": "芈月",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190001",
+    "hero_id": 168,
+    "hero": "牛魔",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190001",
+    "hero_id": 166,
+    "hero": "亚瑟",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190001",
+    "hero_id": 134,
+    "hero": "达摩",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190001",
+    "hero_id": 189,
+    "hero": "鬼谷子",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190001",
+    "hero_id": 112,
+    "hero": "鲁班七号",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190001",
+    "hero_id": 157,
+    "hero": "不知火舞",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190001",
+    "hero_id": 119,
+    "hero": "扁鹊",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190001",
+    "hero_id": 503,
+    "hero": "狂铁",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190001",
+    "hero_id": 133,
+    "hero": "狄仁杰",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190001",
+    "hero_id": 137,
+    "hero": "司马懿",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190001",
+    "hero_id": 192,
+    "hero": "黄忠",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190001",
+    "hero_id": 179,
+    "hero": "女娲",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190001",
+    "hero_id": 187,
+    "hero": "东皇太一",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190001",
+    "hero_id": 186,
+    "hero": "太乙真人",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190001",
+    "hero_id": 125,
+    "hero": "元歌",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190001",
+    "hero_id": 170,
+    "hero": "刘备",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190001",
+    "hero_id": 139,
+    "hero": "老夫子",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190001",
+    "hero_id": 141,
+    "hero": "貂蝉",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190001",
+    "hero_id": 184,
+    "hero": "蔡文姬",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190001",
+    "hero_id": 312,
+    "hero": "沈梦溪",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190001",
+    "hero_id": 190,
+    "hero": "诸葛亮",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190001",
+    "hero_id": 113,
+    "hero": "庄周",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190001",
+    "hero_id": 126,
+    "hero": "夏侯惇",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190001",
+    "hero_id": 191,
+    "hero": "大乔",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190001",
+    "hero_id": 502,
+    "hero": "裴擒虎",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190001",
+    "hero_id": 198,
+    "hero": "梦奇",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190001",
+    "hero_id": 115,
+    "hero": "高渐离",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190001",
+    "hero_id": 169,
+    "hero": "后羿",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190001",
+    "hero_id": 180,
+    "hero": "哪吒",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190001",
+    "hero_id": 509,
+    "hero": "盾山",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190001",
+    "hero_id": 135,
+    "hero": "项羽",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190001",
+    "hero_id": 182,
+    "hero": "干将莫邪",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190001",
+    "hero_id": 196,
+    "hero": "百里守约",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190001",
+    "hero_id": 120,
+    "hero": "白起",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190001",
+    "hero_id": 127,
+    "hero": "甄姬",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190001",
+    "hero_id": 194,
+    "hero": "苏烈",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190001",
+    "hero_id": 136,
+    "hero": "武则天",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190001",
+    "hero_id": 505,
+    "hero": "瑶",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190001",
+    "hero_id": 144,
+    "hero": "程咬金",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190001",
+    "hero_id": 510,
+    "hero": "孙策",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190001",
+    "hero_id": 513,
+    "hero": "上官婉儿",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190001",
+    "hero_id": 106,
+    "hero": "小乔",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190001",
+    "hero_id": 130,
+    "hero": "宫本武藏",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190001",
+    "hero_id": 167,
+    "hero": "孙悟空",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190001",
+    "hero_id": 173,
+    "hero": "李元芳",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190001",
+    "hero_id": 511,
+    "hero": "猪八戒",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190001",
+    "hero_id": 148,
+    "hero": "姜子牙",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190001",
+    "hero_id": 507,
+    "hero": "李信",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190001",
+    "hero_id": 508,
+    "hero": "伽罗",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190001",
+    "hero_id": 129,
+    "hero": "典韦",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190001",
+    "hero_id": 152,
+    "hero": "王昭君",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190001",
+    "hero_id": 199,
+    "hero": "公孙离",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190001",
+    "hero_id": 529,
+    "hero": "盘古",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190001",
+    "hero_id": 174,
+    "hero": "虞姬",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190001",
+    "hero_id": 183,
+    "hero": "雅典娜",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190001",
+    "hero_id": 123,
+    "hero": "吕布",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190001",
+    "hero_id": 154,
+    "hero": "花木兰",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190001",
+    "hero_id": 108,
+    "hero": "墨子",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190001",
+    "hero_id": 504,
+    "hero": "米莱狄",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190001",
+    "hero_id": 153,
+    "hero": "兰陵王",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190001",
+    "hero_id": 131,
+    "hero": "李白",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190001",
+    "hero_id": 506,
+    "hero": "云中君",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190001",
+    "hero_id": 140,
+    "hero": "关羽",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190001",
+    "hero_id": 132,
+    "hero": "马可波罗",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190001",
+    "hero_id": 195,
+    "hero": "百里玄策",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190001",
+    "hero_id": 105,
+    "hero": "廉颇",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190001",
+    "hero_id": 515,
+    "hero": "嫦娥",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190001",
+    "hero_id": 107,
+    "hero": "赵云",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190001",
+    "hero_id": 176,
+    "hero": "杨玉环",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190001",
+    "hero_id": 178,
+    "hero": "杨戬",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190001",
+    "hero_id": 128,
+    "hero": "曹操",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190001",
+    "hero_id": 150,
+    "hero": "韩信",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190001",
+    "hero_id": 171,
+    "hero": "张飞",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190001",
+    "hero_id": 162,
+    "hero": "娜可露露",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190001",
+    "hero_id": 118,
+    "hero": "孙膑",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190002",
+    "hero_id": 195,
+    "hero": "百里玄策",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190002",
+    "hero_id": 173,
+    "hero": "李元芳",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190002",
+    "hero_id": 141,
+    "hero": "貂蝉",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190002",
+    "hero_id": 108,
+    "hero": "墨子",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190002",
+    "hero_id": 506,
+    "hero": "云中君",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190002",
+    "hero_id": 124,
+    "hero": "周瑜",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190002",
+    "hero_id": 107,
+    "hero": "赵云",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190002",
+    "hero_id": 513,
+    "hero": "上官婉儿",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190002",
+    "hero_id": 171,
+    "hero": "张飞",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190002",
+    "hero_id": 121,
+    "hero": "芈月",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190002",
+    "hero_id": 191,
+    "hero": "大乔",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190002",
+    "hero_id": 154,
+    "hero": "花木兰",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190002",
+    "hero_id": 112,
+    "hero": "鲁班七号",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190002",
+    "hero_id": 134,
+    "hero": "达摩",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190002",
+    "hero_id": 139,
+    "hero": "老夫子",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190002",
+    "hero_id": 106,
+    "hero": "小乔",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190002",
+    "hero_id": 184,
+    "hero": "蔡文姬",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190002",
+    "hero_id": 168,
+    "hero": "牛魔",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190002",
+    "hero_id": 163,
+    "hero": "橘右京",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190002",
+    "hero_id": 156,
+    "hero": "张良",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190002",
+    "hero_id": 136,
+    "hero": "武则天",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190002",
+    "hero_id": 176,
+    "hero": "杨玉环",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190002",
+    "hero_id": 131,
+    "hero": "李白",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190002",
+    "hero_id": 148,
+    "hero": "姜子牙",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190002",
+    "hero_id": 198,
+    "hero": "梦奇",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190002",
+    "hero_id": 174,
+    "hero": "虞姬",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190002",
+    "hero_id": 120,
+    "hero": "白起",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190002",
+    "hero_id": 133,
+    "hero": "狄仁杰",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190002",
+    "hero_id": 510,
+    "hero": "孙策",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190002",
+    "hero_id": 105,
+    "hero": "廉颇",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190002",
+    "hero_id": 196,
+    "hero": "百里守约",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190002",
+    "hero_id": 193,
+    "hero": "铠",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190002",
+    "hero_id": 178,
+    "hero": "杨戬",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190002",
+    "hero_id": 118,
+    "hero": "孙膑",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190002",
+    "hero_id": 507,
+    "hero": "李信",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190002",
+    "hero_id": 153,
+    "hero": "兰陵王",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190002",
+    "hero_id": 157,
+    "hero": "不知火舞",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190002",
+    "hero_id": 110,
+    "hero": "嬴政",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190002",
+    "hero_id": 125,
+    "hero": "元歌",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190002",
+    "hero_id": 312,
+    "hero": "沈梦溪",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190002",
+    "hero_id": 511,
+    "hero": "猪八戒",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190002",
+    "hero_id": 194,
+    "hero": "苏烈",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190002",
+    "hero_id": 529,
+    "hero": "盘古",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190002",
+    "hero_id": 187,
+    "hero": "东皇太一",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190002",
+    "hero_id": 144,
+    "hero": "程咬金",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190002",
+    "hero_id": 162,
+    "hero": "娜可露露",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190002",
+    "hero_id": 128,
+    "hero": "曹操",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190002",
+    "hero_id": 123,
+    "hero": "吕布",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190002",
+    "hero_id": 132,
+    "hero": "马可波罗",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190002",
+    "hero_id": 515,
+    "hero": "嫦娥",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190002",
+    "hero_id": 113,
+    "hero": "庄周",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190002",
+    "hero_id": 199,
+    "hero": "公孙离",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190002",
+    "hero_id": 135,
+    "hero": "项羽",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190002",
+    "hero_id": 509,
+    "hero": "盾山",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190002",
+    "hero_id": 119,
+    "hero": "扁鹊",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190002",
+    "hero_id": 130,
+    "hero": "宫本武藏",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190002",
+    "hero_id": 189,
+    "hero": "鬼谷子",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190002",
+    "hero_id": 508,
+    "hero": "伽罗",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190002",
+    "hero_id": 152,
+    "hero": "王昭君",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190002",
+    "hero_id": 192,
+    "hero": "黄忠",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190002",
+    "hero_id": 140,
+    "hero": "关羽",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190002",
+    "hero_id": 126,
+    "hero": "夏侯惇",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190002",
+    "hero_id": 502,
+    "hero": "裴擒虎",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190002",
+    "hero_id": 503,
+    "hero": "狂铁",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190002",
+    "hero_id": 111,
+    "hero": "孙尚香",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190002",
+    "hero_id": 186,
+    "hero": "太乙真人",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190002",
+    "hero_id": 182,
+    "hero": "干将莫邪",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190003",
+    "hero_id": 312,
+    "hero": "沈梦溪",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190003",
+    "hero_id": 193,
+    "hero": "铠",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190003",
+    "hero_id": 168,
+    "hero": "牛魔",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190003",
+    "hero_id": 149,
+    "hero": "刘邦",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190003",
+    "hero_id": 136,
+    "hero": "武则天",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190003",
+    "hero_id": 199,
+    "hero": "公孙离",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190003",
+    "hero_id": 502,
+    "hero": "裴擒虎",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190003",
+    "hero_id": 135,
+    "hero": "项羽",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190003",
+    "hero_id": 124,
+    "hero": "周瑜",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190003",
+    "hero_id": 108,
+    "hero": "墨子",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190003",
+    "hero_id": 187,
+    "hero": "东皇太一",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190003",
+    "hero_id": 110,
+    "hero": "嬴政",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190003",
+    "hero_id": 129,
+    "hero": "典韦",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190003",
+    "hero_id": 173,
+    "hero": "李元芳",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190003",
+    "hero_id": 529,
+    "hero": "盘古",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190003",
+    "hero_id": 144,
+    "hero": "程咬金",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190003",
+    "hero_id": 123,
+    "hero": "吕布",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190003",
+    "hero_id": 196,
+    "hero": "百里守约",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190003",
+    "hero_id": 156,
+    "hero": "张良",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190003",
+    "hero_id": 510,
+    "hero": "孙策",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190003",
+    "hero_id": 107,
+    "hero": "赵云",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190003",
+    "hero_id": 178,
+    "hero": "杨戬",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190003",
+    "hero_id": 113,
+    "hero": "庄周",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190003",
+    "hero_id": 140,
+    "hero": "关羽",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190003",
+    "hero_id": 171,
+    "hero": "张飞",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190003",
+    "hero_id": 128,
+    "hero": "曹操",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190003",
+    "hero_id": 191,
+    "hero": "大乔",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190003",
+    "hero_id": 182,
+    "hero": "干将莫邪",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190003",
+    "hero_id": 513,
+    "hero": "上官婉儿",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190003",
+    "hero_id": 184,
+    "hero": "蔡文姬",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190003",
+    "hero_id": 127,
+    "hero": "甄姬",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190003",
+    "hero_id": 152,
+    "hero": "王昭君",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190003",
+    "hero_id": 121,
+    "hero": "芈月",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190003",
+    "hero_id": 190,
+    "hero": "诸葛亮",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190003",
+    "hero_id": 176,
+    "hero": "杨玉环",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190003",
+    "hero_id": 105,
+    "hero": "廉颇",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190003",
+    "hero_id": 506,
+    "hero": "云中君",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190003",
+    "hero_id": 131,
+    "hero": "李白",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190003",
+    "hero_id": 186,
+    "hero": "太乙真人",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190003",
+    "hero_id": 503,
+    "hero": "狂铁",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190003",
+    "hero_id": 509,
+    "hero": "盾山",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190003",
+    "hero_id": 174,
+    "hero": "虞姬",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190003",
+    "hero_id": 183,
+    "hero": "雅典娜",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190003",
+    "hero_id": 511,
+    "hero": "猪八戒",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190003",
+    "hero_id": 163,
+    "hero": "橘右京",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190003",
+    "hero_id": 134,
+    "hero": "达摩",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190003",
+    "hero_id": 115,
+    "hero": "高渐离",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190003",
+    "hero_id": 132,
+    "hero": "马可波罗",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190003",
+    "hero_id": 118,
+    "hero": "孙膑",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190003",
+    "hero_id": 507,
+    "hero": "李信",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190003",
+    "hero_id": 126,
+    "hero": "夏侯惇",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190003",
+    "hero_id": 515,
+    "hero": "嫦娥",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190003",
+    "hero_id": 141,
+    "hero": "貂蝉",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190003",
+    "hero_id": 189,
+    "hero": "鬼谷子",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190003",
+    "hero_id": 148,
+    "hero": "姜子牙",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190003",
+    "hero_id": 153,
+    "hero": "兰陵王",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190003",
+    "hero_id": 106,
+    "hero": "小乔",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190003",
+    "hero_id": 154,
+    "hero": "花木兰",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190003",
+    "hero_id": 139,
+    "hero": "老夫子",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190003",
+    "hero_id": 146,
+    "hero": "露娜",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190003",
+    "hero_id": 120,
+    "hero": "白起",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190003",
+    "hero_id": 166,
+    "hero": "亚瑟",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190003",
+    "hero_id": 195,
+    "hero": "百里玄策",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190003",
+    "hero_id": 522,
+    "hero": "曜",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190003",
+    "hero_id": 169,
+    "hero": "后羿",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190003",
+    "hero_id": 111,
+    "hero": "孙尚香",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190003",
+    "hero_id": 197,
+    "hero": "弈星",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190003",
+    "hero_id": 137,
+    "hero": "司马懿",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190003",
+    "hero_id": 508,
+    "hero": "伽罗",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190003",
+    "hero_id": 162,
+    "hero": "娜可露露",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190003",
+    "hero_id": 177,
+    "hero": "苍",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190003",
+    "hero_id": 119,
+    "hero": "扁鹊",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190003",
+    "hero_id": 194,
+    "hero": "苏烈",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190003",
+    "hero_id": 125,
+    "hero": "元歌",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190003",
+    "hero_id": 133,
+    "hero": "狄仁杰",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190003",
+    "hero_id": 198,
+    "hero": "梦奇",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190003",
+    "hero_id": 157,
+    "hero": "不知火舞",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190004",
+    "hero_id": 187,
+    "hero": "东皇太一",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190004",
+    "hero_id": 113,
+    "hero": "庄周",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190004",
+    "hero_id": 176,
+    "hero": "杨玉环",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190004",
+    "hero_id": 120,
+    "hero": "白起",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190004",
+    "hero_id": 144,
+    "hero": "程咬金",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190004",
+    "hero_id": 194,
+    "hero": "苏烈",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190004",
+    "hero_id": 142,
+    "hero": "安琪拉",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190004",
+    "hero_id": 171,
+    "hero": "张飞",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190004",
+    "hero_id": 523,
+    "hero": "西施",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190004",
+    "hero_id": 505,
+    "hero": "瑶",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190004",
+    "hero_id": 134,
+    "hero": "达摩",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190004",
+    "hero_id": 507,
+    "hero": "李信",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190004",
+    "hero_id": 135,
+    "hero": "项羽",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190004",
+    "hero_id": 173,
+    "hero": "李元芳",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190004",
+    "hero_id": 136,
+    "hero": "武则天",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190004",
+    "hero_id": 199,
+    "hero": "公孙离",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190004",
+    "hero_id": 529,
+    "hero": "盘古",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190004",
+    "hero_id": 118,
+    "hero": "孙膑",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190004",
+    "hero_id": 178,
+    "hero": "杨戬",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190004",
+    "hero_id": 137,
+    "hero": "司马懿",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190004",
+    "hero_id": 508,
+    "hero": "伽罗",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190004",
+    "hero_id": 162,
+    "hero": "娜可露露",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190004",
+    "hero_id": 191,
+    "hero": "大乔",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190004",
+    "hero_id": 130,
+    "hero": "宫本武藏",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190004",
+    "hero_id": 513,
+    "hero": "上官婉儿",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190004",
+    "hero_id": 174,
+    "hero": "虞姬",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190004",
+    "hero_id": 198,
+    "hero": "梦奇",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190004",
+    "hero_id": 119,
+    "hero": "扁鹊",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190004",
+    "hero_id": 109,
+    "hero": "妲己",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190004",
+    "hero_id": 140,
+    "hero": "关羽",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190004",
+    "hero_id": 510,
+    "hero": "孙策",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190004",
+    "hero_id": 149,
+    "hero": "刘邦",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190004",
+    "hero_id": 501,
+    "hero": "明世隐",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190004",
+    "hero_id": 169,
+    "hero": "后羿",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190004",
+    "hero_id": 129,
+    "hero": "典韦",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190004",
+    "hero_id": 112,
+    "hero": "鲁班七号",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190004",
+    "hero_id": 110,
+    "hero": "嬴政",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190004",
+    "hero_id": 186,
+    "hero": "太乙真人",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190004",
+    "hero_id": 163,
+    "hero": "橘右京",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190004",
+    "hero_id": 141,
+    "hero": "貂蝉",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190004",
+    "hero_id": 105,
+    "hero": "廉颇",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190004",
+    "hero_id": 518,
+    "hero": "马超",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190004",
+    "hero_id": 522,
+    "hero": "曜",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190004",
+    "hero_id": 132,
+    "hero": "马可波罗",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190004",
+    "hero_id": 153,
+    "hero": "兰陵王",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190004",
+    "hero_id": 152,
+    "hero": "王昭君",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190004",
+    "hero_id": 502,
+    "hero": "裴擒虎",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190004",
+    "hero_id": 168,
+    "hero": "牛魔",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190004",
+    "hero_id": 175,
+    "hero": "钟馗",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190004",
+    "hero_id": 193,
+    "hero": "铠",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190004",
+    "hero_id": 503,
+    "hero": "狂铁",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190004",
+    "hero_id": 504,
+    "hero": "米莱狄",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190004",
+    "hero_id": 192,
+    "hero": "黄忠",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190004",
+    "hero_id": 154,
+    "hero": "花木兰",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190004",
+    "hero_id": 180,
+    "hero": "哪吒",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190004",
+    "hero_id": 195,
+    "hero": "百里玄策",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190004",
+    "hero_id": 511,
+    "hero": "猪八戒",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190004",
+    "hero_id": 177,
+    "hero": "苍",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190004",
+    "hero_id": 106,
+    "hero": "小乔",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190004",
+    "hero_id": 148,
+    "hero": "姜子牙",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190004",
+    "hero_id": 131,
+    "hero": "李白",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190004",
+    "hero_id": 107,
+    "hero": "赵云",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190004",
+    "hero_id": 312,
+    "hero": "沈梦溪",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190004",
+    "hero_id": 182,
+    "hero": "干将莫邪",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190004",
+    "hero_id": 123,
+    "hero": "吕布",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190004",
+    "hero_id": 156,
+    "hero": "张良",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190004",
+    "hero_id": 184,
+    "hero": "蔡文姬",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190004",
+    "hero_id": 121,
+    "hero": "芈月",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190004",
+    "hero_id": 124,
+    "hero": "周瑜",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190004",
+    "hero_id": 139,
+    "hero": "老夫子",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190004",
+    "hero_id": 108,
+    "hero": "墨子",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190004",
+    "hero_id": 189,
+    "hero": "鬼谷子",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190004",
+    "hero_id": 196,
+    "hero": "百里守约",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190004",
+    "hero_id": 125,
+    "hero": "元歌",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190004",
+    "hero_id": 146,
+    "hero": "露娜",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190004",
+    "hero_id": 111,
+    "hero": "孙尚香",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190004",
+    "hero_id": 506,
+    "hero": "云中君",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190004",
+    "hero_id": 128,
+    "hero": "曹操",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190004",
+    "hero_id": 509,
+    "hero": "盾山",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190004",
+    "hero_id": 157,
+    "hero": "不知火舞",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190004",
+    "hero_id": 133,
+    "hero": "狄仁杰",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190004",
+    "hero_id": 197,
+    "hero": "弈星",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190004",
+    "hero_id": 117,
+    "hero": "钟无艳",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190004",
+    "hero_id": 190,
+    "hero": "诸葛亮",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190004",
+    "hero_id": 515,
+    "hero": "嫦娥",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190004",
+    "hero_id": 126,
+    "hero": "夏侯惇",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190006",
+    "hero_id": 177,
+    "hero": "苍",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190006",
+    "hero_id": 511,
+    "hero": "猪八戒",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190006",
+    "hero_id": 137,
+    "hero": "司马懿",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190006",
+    "hero_id": 176,
+    "hero": "杨玉环",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190006",
+    "hero_id": 142,
+    "hero": "安琪拉",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190006",
+    "hero_id": 111,
+    "hero": "孙尚香",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190006",
+    "hero_id": 312,
+    "hero": "沈梦溪",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190006",
+    "hero_id": 193,
+    "hero": "铠",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190006",
+    "hero_id": 133,
+    "hero": "狄仁杰",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190006",
+    "hero_id": 163,
+    "hero": "橘右京",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190006",
+    "hero_id": 112,
+    "hero": "鲁班七号",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190006",
+    "hero_id": 182,
+    "hero": "干将莫邪",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190006",
+    "hero_id": 132,
+    "hero": "马可波罗",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190006",
+    "hero_id": 113,
+    "hero": "庄周",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190006",
+    "hero_id": 144,
+    "hero": "程咬金",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190006",
+    "hero_id": 529,
+    "hero": "盘古",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190006",
+    "hero_id": 168,
+    "hero": "牛魔",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190006",
+    "hero_id": 125,
+    "hero": "元歌",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190006",
+    "hero_id": 106,
+    "hero": "小乔",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190006",
+    "hero_id": 515,
+    "hero": "嫦娥",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190006",
+    "hero_id": 153,
+    "hero": "兰陵王",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190006",
+    "hero_id": 191,
+    "hero": "大乔",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190006",
+    "hero_id": 107,
+    "hero": "赵云",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190006",
+    "hero_id": 156,
+    "hero": "张良",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190006",
+    "hero_id": 140,
+    "hero": "关羽",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190006",
+    "hero_id": 196,
+    "hero": "百里守约",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190006",
+    "hero_id": 134,
+    "hero": "达摩",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190006",
+    "hero_id": 195,
+    "hero": "百里玄策",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190006",
+    "hero_id": 123,
+    "hero": "吕布",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190006",
+    "hero_id": 508,
+    "hero": "伽罗",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190006",
+    "hero_id": 174,
+    "hero": "虞姬",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190006",
+    "hero_id": 173,
+    "hero": "李元芳",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190006",
+    "hero_id": 118,
+    "hero": "孙膑",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190006",
+    "hero_id": 105,
+    "hero": "廉颇",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190006",
+    "hero_id": 146,
+    "hero": "露娜",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190006",
+    "hero_id": 509,
+    "hero": "盾山",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190006",
+    "hero_id": 131,
+    "hero": "李白",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190006",
+    "hero_id": 110,
+    "hero": "嬴政",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190006",
+    "hero_id": 152,
+    "hero": "王昭君",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190006",
+    "hero_id": 189,
+    "hero": "鬼谷子",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190006",
+    "hero_id": 505,
+    "hero": "瑶",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190006",
+    "hero_id": 525,
+    "hero": "鲁班大师",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190006",
+    "hero_id": 141,
+    "hero": "貂蝉",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190006",
+    "hero_id": 506,
+    "hero": "云中君",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190006",
+    "hero_id": 503,
+    "hero": "狂铁",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190006",
+    "hero_id": 199,
+    "hero": "公孙离",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190006",
+    "hero_id": 510,
+    "hero": "孙策",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190006",
+    "hero_id": 157,
+    "hero": "不知火舞",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190006",
+    "hero_id": 139,
+    "hero": "老夫子",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190006",
+    "hero_id": 194,
+    "hero": "苏烈",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190006",
+    "hero_id": 184,
+    "hero": "蔡文姬",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190006",
+    "hero_id": 124,
+    "hero": "周瑜",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190006",
+    "hero_id": 186,
+    "hero": "太乙真人",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190006",
+    "hero_id": 178,
+    "hero": "杨戬",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190006",
+    "hero_id": 171,
+    "hero": "张飞",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190006",
+    "hero_id": 162,
+    "hero": "娜可露露",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190006",
+    "hero_id": 501,
+    "hero": "明世隐",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190006",
+    "hero_id": 130,
+    "hero": "宫本武藏",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190006",
+    "hero_id": 117,
+    "hero": "钟无艳",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190006",
+    "hero_id": 523,
+    "hero": "西施",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190006",
+    "hero_id": 518,
+    "hero": "马超",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190006",
+    "hero_id": 149,
+    "hero": "刘邦",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190006",
+    "hero_id": 513,
+    "hero": "上官婉儿",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190006",
+    "hero_id": 128,
+    "hero": "曹操",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190006",
+    "hero_id": 148,
+    "hero": "姜子牙",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190006",
+    "hero_id": 502,
+    "hero": "裴擒虎",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190006",
+    "hero_id": 175,
+    "hero": "钟馗",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190006",
+    "hero_id": 136,
+    "hero": "武则天",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190006",
+    "hero_id": 522,
+    "hero": "曜",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190006",
+    "hero_id": 154,
+    "hero": "花木兰",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190006",
+    "hero_id": 507,
+    "hero": "李信",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20190006",
+    "hero_id": 135,
+    "hero": "项羽",
+    "issue": "bp_not_recorded_all_zero_block"
+  },
+  {
+    "league_id": "20200001",
+    "hero_id": 511,
+    "hero": "猪八戒",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20200001",
+    "hero_id": 199,
+    "hero": "公孙离",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20200001",
+    "hero_id": 518,
+    "hero": "马超",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20200001",
+    "hero_id": 139,
+    "hero": "老夫子",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20200001",
+    "hero_id": 123,
+    "hero": "吕布",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20200001",
+    "hero_id": 191,
+    "hero": "大乔",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20200001",
+    "hero_id": 509,
+    "hero": "盾山",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20200001",
+    "hero_id": 153,
+    "hero": "兰陵王",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20200001",
+    "hero_id": 132,
+    "hero": "马可波罗",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20200001",
+    "hero_id": 502,
+    "hero": "裴擒虎",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20200001",
+    "hero_id": 148,
+    "hero": "姜子牙",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20200001",
+    "hero_id": 118,
+    "hero": "孙膑",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20200001",
+    "hero_id": 152,
+    "hero": "王昭君",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20200001",
+    "hero_id": 107,
+    "hero": "赵云",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20200001",
+    "hero_id": 156,
+    "hero": "张良",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20200002",
+    "hero_id": 111,
+    "hero": "孙尚香",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20200002",
+    "hero_id": 149,
+    "hero": "刘邦",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20200002",
+    "hero_id": 152,
+    "hero": "王昭君",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20200002",
+    "hero_id": 199,
+    "hero": "公孙离",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20200002",
+    "hero_id": 511,
+    "hero": "猪八戒",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20200002",
+    "hero_id": 148,
+    "hero": "姜子牙",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20200002",
+    "hero_id": 191,
+    "hero": "大乔",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20200002",
+    "hero_id": 527,
+    "hero": "蒙恬",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20200002",
+    "hero_id": 525,
+    "hero": "鲁班大师",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20200002",
+    "hero_id": 120,
+    "hero": "白起",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20200002",
+    "hero_id": 531,
+    "hero": "镜",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20200003",
+    "hero_id": 118,
+    "hero": "孙膑",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20200003",
+    "hero_id": 156,
+    "hero": "张良",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20200003",
+    "hero_id": 123,
+    "hero": "吕布",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20200003",
+    "hero_id": 132,
+    "hero": "马可波罗",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20200003",
+    "hero_id": 191,
+    "hero": "大乔",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20200003",
+    "hero_id": 149,
+    "hero": "刘邦",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20200003",
+    "hero_id": 312,
+    "hero": "沈梦溪",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20200003",
+    "hero_id": 105,
+    "hero": "廉颇",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20200003",
+    "hero_id": 148,
+    "hero": "姜子牙",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20200003",
+    "hero_id": 111,
+    "hero": "孙尚香",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20200003",
+    "hero_id": 146,
+    "hero": "露娜",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20200003",
+    "hero_id": 163,
+    "hero": "橘右京",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20200003",
+    "hero_id": 511,
+    "hero": "猪八戒",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20200003",
+    "hero_id": 525,
+    "hero": "鲁班大师",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20200003",
+    "hero_id": 509,
+    "hero": "盾山",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20200003",
+    "hero_id": 518,
+    "hero": "马超",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20200003",
+    "hero_id": 531,
+    "hero": "镜",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20200003",
+    "hero_id": 196,
+    "hero": "百里守约",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20200003",
+    "hero_id": 162,
+    "hero": "娜可露露",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20200003",
+    "hero_id": 107,
+    "hero": "赵云",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20200003",
+    "hero_id": 199,
+    "hero": "公孙离",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20200004",
+    "hero_id": 132,
+    "hero": "马可波罗",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20200004",
+    "hero_id": 111,
+    "hero": "孙尚香",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20200004",
+    "hero_id": 529,
+    "hero": "盘古",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20200004",
+    "hero_id": 525,
+    "hero": "鲁班大师",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20200004",
+    "hero_id": 312,
+    "hero": "沈梦溪",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20200004",
+    "hero_id": 511,
+    "hero": "猪八戒",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20200004",
+    "hero_id": 192,
+    "hero": "黄忠",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20200004",
+    "hero_id": 133,
+    "hero": "狄仁杰",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20200004",
+    "hero_id": 186,
+    "hero": "太乙真人",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20200004",
+    "hero_id": 157,
+    "hero": "不知火舞",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20200004",
+    "hero_id": 194,
+    "hero": "苏烈",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20200004",
+    "hero_id": 156,
+    "hero": "张良",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20200004",
+    "hero_id": 509,
+    "hero": "盾山",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20200004",
+    "hero_id": 523,
+    "hero": "西施",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20200004",
+    "hero_id": 140,
+    "hero": "关羽",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20200004",
+    "hero_id": 531,
+    "hero": "镜",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20200004",
+    "hero_id": 522,
+    "hero": "曜",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "202100201",
+    "hero_id": 157,
+    "hero": "不知火舞",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "202100201",
+    "hero_id": 153,
+    "hero": "兰陵王",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "202100201",
+    "hero_id": 124,
+    "hero": "周瑜",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "202100201",
+    "hero_id": 198,
+    "hero": "梦奇",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "202100201",
+    "hero_id": 528,
+    "hero": "澜",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "202100201",
+    "hero_id": 105,
+    "hero": "廉颇",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "202100201",
+    "hero_id": 123,
+    "hero": "吕布",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "202100201",
+    "hero_id": 191,
+    "hero": "大乔",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "202100201",
+    "hero_id": 199,
+    "hero": "公孙离",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "202100201",
+    "hero_id": 531,
+    "hero": "镜",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "202100201",
+    "hero_id": 186,
+    "hero": "太乙真人",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20210003",
+    "hero_id": 105,
+    "hero": "廉颇",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20210003",
+    "hero_id": 199,
+    "hero": "公孙离",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20210003",
+    "hero_id": 531,
+    "hero": "镜",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20210003",
+    "hero_id": 528,
+    "hero": "澜",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20210003",
+    "hero_id": 133,
+    "hero": "狄仁杰",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20210003",
+    "hero_id": 153,
+    "hero": "兰陵王",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20210003",
+    "hero_id": 112,
+    "hero": "鲁班七号",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20210003",
+    "hero_id": 509,
+    "hero": "盾山",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20210003",
+    "hero_id": 191,
+    "hero": "大乔",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20210003",
+    "hero_id": 157,
+    "hero": "不知火舞",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20210003",
+    "hero_id": 525,
+    "hero": "鲁班大师",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20210003",
+    "hero_id": 515,
+    "hero": "嫦娥",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20210003",
+    "hero_id": 124,
+    "hero": "周瑜",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20210003",
+    "hero_id": 140,
+    "hero": "关羽",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20210003",
+    "hero_id": 511,
+    "hero": "猪八戒",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20210004",
+    "hero_id": 503,
+    "hero": "狂铁",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20210004",
+    "hero_id": 524,
+    "hero": "蒙犽",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20210004",
+    "hero_id": 523,
+    "hero": "西施",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20210004",
+    "hero_id": 105,
+    "hero": "廉颇",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20210004",
+    "hero_id": 528,
+    "hero": "澜",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20210004",
+    "hero_id": 123,
+    "hero": "吕布",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20210004",
+    "hero_id": 509,
+    "hero": "盾山",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20210004",
+    "hero_id": 196,
+    "hero": "百里守约",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20210004",
+    "hero_id": 124,
+    "hero": "周瑜",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20210004",
+    "hero_id": 199,
+    "hero": "公孙离",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20210004",
+    "hero_id": 177,
+    "hero": "苍",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20210004",
+    "hero_id": 191,
+    "hero": "大乔",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20210004",
+    "hero_id": 157,
+    "hero": "不知火舞",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20210004",
+    "hero_id": 153,
+    "hero": "兰陵王",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20210004",
+    "hero_id": 125,
+    "hero": "元歌",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20210004",
+    "hero_id": 538,
+    "hero": "云缨",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20210004",
+    "hero_id": 525,
+    "hero": "鲁班大师",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20210004",
+    "hero_id": 531,
+    "hero": "镜",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20210004",
+    "hero_id": 513,
+    "hero": "上官婉儿",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20210004",
+    "hero_id": 126,
+    "hero": "夏侯惇",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20210004",
+    "hero_id": 163,
+    "hero": "橘右京",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20210005",
+    "hero_id": 199,
+    "hero": "公孙离",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20210005",
+    "hero_id": 157,
+    "hero": "不知火舞",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20210005",
+    "hero_id": 191,
+    "hero": "大乔",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20210005",
+    "hero_id": 528,
+    "hero": "澜",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20210005",
+    "hero_id": 105,
+    "hero": "廉颇",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20220001",
+    "hero_id": 199,
+    "hero": "公孙离",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20220001",
+    "hero_id": 123,
+    "hero": "吕布",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20220001",
+    "hero_id": 191,
+    "hero": "大乔",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20220001",
+    "hero_id": 157,
+    "hero": "不知火舞",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20220001",
+    "hero_id": 193,
+    "hero": "铠",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20220001",
+    "hero_id": 528,
+    "hero": "澜",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20220001",
+    "hero_id": 124,
+    "hero": "周瑜",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20220002",
+    "hero_id": 533,
+    "hero": "阿古朵",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20220002",
+    "hero_id": 111,
+    "hero": "孙尚香",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20220002",
+    "hero_id": 187,
+    "hero": "东皇太一",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20220002",
+    "hero_id": 126,
+    "hero": "夏侯惇",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20220002",
+    "hero_id": 199,
+    "hero": "公孙离",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20220002",
+    "hero_id": 523,
+    "hero": "西施",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20220002",
+    "hero_id": 193,
+    "hero": "铠",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20220002",
+    "hero_id": 509,
+    "hero": "盾山",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20220002",
+    "hero_id": 140,
+    "hero": "关羽",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20220002",
+    "hero_id": 531,
+    "hero": "镜",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20220002",
+    "hero_id": 518,
+    "hero": "马超",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20220002",
+    "hero_id": 527,
+    "hero": "蒙恬",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20220002",
+    "hero_id": 534,
+    "hero": "桑启",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20220002",
+    "hero_id": 157,
+    "hero": "不知火舞",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20220002",
+    "hero_id": 130,
+    "hero": "宫本武藏",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20220002",
+    "hero_id": 135,
+    "hero": "项羽",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20220002",
+    "hero_id": 110,
+    "hero": "嬴政",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20220002",
+    "hero_id": 171,
+    "hero": "张飞",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20220002",
+    "hero_id": 528,
+    "hero": "澜",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20220002",
+    "hero_id": 173,
+    "hero": "李元芳",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20220002",
+    "hero_id": 501,
+    "hero": "明世隐",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20220002",
+    "hero_id": 124,
+    "hero": "周瑜",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20220002",
+    "hero_id": 186,
+    "hero": "太乙真人",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20220002",
+    "hero_id": 162,
+    "hero": "娜可露露",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20220003",
+    "hero_id": 531,
+    "hero": "镜",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20220003",
+    "hero_id": 157,
+    "hero": "不知火舞",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20220003",
+    "hero_id": 527,
+    "hero": "蒙恬",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20220003",
+    "hero_id": 312,
+    "hero": "沈梦溪",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20220003",
+    "hero_id": 174,
+    "hero": "虞姬",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20220003",
+    "hero_id": 187,
+    "hero": "东皇太一",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20220003",
+    "hero_id": 528,
+    "hero": "澜",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20220003",
+    "hero_id": 123,
+    "hero": "吕布",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20220003",
+    "hero_id": 199,
+    "hero": "公孙离",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20220003",
+    "hero_id": 501,
+    "hero": "明世隐",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20230001",
+    "hero_id": 511,
+    "hero": "猪八戒",
+    "issue": "outcome_counts_inconsistent"
+  },
+  {
+    "league_id": "20230001",
+    "hero_id": 511,
+    "hero": "猪八戒",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20230001",
+    "hero_id": 198,
+    "hero": "梦奇",
+    "issue": "outcome_counts_inconsistent"
+  },
+  {
+    "league_id": "20230001",
+    "hero_id": 198,
+    "hero": "梦奇",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20230001",
+    "hero_id": 126,
+    "hero": "夏侯惇",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20230001",
+    "hero_id": 118,
+    "hero": "孙膑",
+    "issue": "outcome_counts_inconsistent"
+  },
+  {
+    "league_id": "20230001",
+    "hero_id": 118,
+    "hero": "孙膑",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20230001",
+    "hero_id": 544,
+    "hero": "赵怀真",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20230001",
+    "hero_id": 168,
+    "hero": "牛魔",
+    "issue": "outcome_counts_inconsistent"
+  },
+  {
+    "league_id": "20230001",
+    "hero_id": 168,
+    "hero": "牛魔",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20230001",
+    "hero_id": 152,
+    "hero": "王昭君",
+    "issue": "outcome_counts_inconsistent"
+  },
+  {
+    "league_id": "20230001",
+    "hero_id": 152,
+    "hero": "王昭君",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20230001",
+    "hero_id": 531,
+    "hero": "镜",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20230001",
+    "hero_id": 135,
+    "hero": "项羽",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20230001",
+    "hero_id": 536,
+    "hero": "夏洛特",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20230001",
+    "hero_id": 149,
+    "hero": "刘邦",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20230001",
+    "hero_id": 191,
+    "hero": "大乔",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20230001",
+    "hero_id": 197,
+    "hero": "弈星",
+    "issue": "outcome_counts_inconsistent"
+  },
+  {
+    "league_id": "20230001",
+    "hero_id": 197,
+    "hero": "弈星",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20230001",
+    "hero_id": 533,
+    "hero": "阿古朵",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20230001",
+    "hero_id": 174,
+    "hero": "虞姬",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20230001",
+    "hero_id": 515,
+    "hero": "嫦娥",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20230001",
+    "hero_id": 548,
+    "hero": "戈娅",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20230001",
+    "hero_id": 186,
+    "hero": "太乙真人",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20230001",
+    "hero_id": 123,
+    "hero": "吕布",
+    "issue": "outcome_counts_inconsistent"
+  },
+  {
+    "league_id": "20230001",
+    "hero_id": 123,
+    "hero": "吕布",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20230001",
+    "hero_id": 140,
+    "hero": "关羽",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20230001",
+    "hero_id": 193,
+    "hero": "铠",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20230001",
+    "hero_id": 527,
+    "hero": "蒙恬",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20230001",
+    "hero_id": 545,
+    "hero": "莱西奥",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20230001",
+    "hero_id": 111,
+    "hero": "孙尚香",
+    "issue": "outcome_counts_inconsistent"
+  },
+  {
+    "league_id": "20230001",
+    "hero_id": 111,
+    "hero": "孙尚香",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20230001",
+    "hero_id": 130,
+    "hero": "宫本武藏",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20230001",
+    "hero_id": 312,
+    "hero": "沈梦溪",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20230001",
+    "hero_id": 171,
+    "hero": "张飞",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20230001",
+    "hero_id": 157,
+    "hero": "不知火舞",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20230001",
+    "hero_id": 139,
+    "hero": "老夫子",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20230001",
+    "hero_id": 141,
+    "hero": "貂蝉",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20230001",
+    "hero_id": 503,
+    "hero": "狂铁",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20230001",
+    "hero_id": 194,
+    "hero": "苏烈",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20230001",
+    "hero_id": 110,
+    "hero": "嬴政",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20230001",
+    "hero_id": 199,
+    "hero": "公孙离",
+    "issue": "outcome_counts_inconsistent"
+  },
+  {
+    "league_id": "20230001",
+    "hero_id": 199,
+    "hero": "公孙离",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20230001",
+    "hero_id": 528,
+    "hero": "澜",
+    "issue": "outcome_counts_inconsistent"
+  },
+  {
+    "league_id": "20230001",
+    "hero_id": 528,
+    "hero": "澜",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20230002",
+    "hero_id": 193,
+    "hero": "铠",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20230002",
+    "hero_id": 199,
+    "hero": "公孙离",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20230002",
+    "hero_id": 152,
+    "hero": "王昭君",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20230002",
+    "hero_id": 531,
+    "hero": "镜",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20230002",
+    "hero_id": 548,
+    "hero": "戈娅",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20230002",
+    "hero_id": 168,
+    "hero": "牛魔",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20230002",
+    "hero_id": 544,
+    "hero": "赵怀真",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20230002",
+    "hero_id": 191,
+    "hero": "大乔",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20230002",
+    "hero_id": 182,
+    "hero": "干将莫邪",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20230002",
+    "hero_id": 312,
+    "hero": "沈梦溪",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20230002",
+    "hero_id": 156,
+    "hero": "张良",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20230002",
+    "hero_id": 525,
+    "hero": "鲁班大师",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20230002",
+    "hero_id": 527,
+    "hero": "蒙恬",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20230002",
+    "hero_id": 141,
+    "hero": "貂蝉",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20230002",
+    "hero_id": 503,
+    "hero": "狂铁",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20230002",
+    "hero_id": 118,
+    "hero": "孙膑",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20230002",
+    "hero_id": 192,
+    "hero": "黄忠",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20230002",
+    "hero_id": 514,
+    "hero": "亚连",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20230002",
+    "hero_id": 140,
+    "hero": "关羽",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20230002",
+    "hero_id": 545,
+    "hero": "莱西奥",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20230003",
+    "hero_id": 128,
+    "hero": "曹操",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20230003",
+    "hero_id": 139,
+    "hero": "老夫子",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20230003",
+    "hero_id": 514,
+    "hero": "亚连",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20230003",
+    "hero_id": 312,
+    "hero": "沈梦溪",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20230003",
+    "hero_id": 503,
+    "hero": "狂铁",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20230003",
+    "hero_id": 191,
+    "hero": "大乔",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20240001",
+    "hero_id": 168,
+    "hero": "牛魔",
+    "issue": "outcome_counts_inconsistent"
+  },
+  {
+    "league_id": "20240001",
+    "hero_id": 163,
+    "hero": "橘右京",
+    "issue": "outcome_counts_inconsistent"
+  },
+  {
+    "league_id": "20240001",
+    "hero_id": 514,
+    "hero": "亚连",
+    "issue": "outcome_counts_inconsistent"
+  },
+  {
+    "league_id": "20240001",
+    "hero_id": 514,
+    "hero": "亚连",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20240001",
+    "hero_id": 517,
+    "hero": "大司命",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20240001",
+    "hero_id": 548,
+    "hero": "戈娅",
+    "issue": "outcome_counts_inconsistent"
+  },
+  {
+    "league_id": "20240001",
+    "hero_id": 502,
+    "hero": "裴擒虎",
+    "issue": "outcome_counts_inconsistent"
+  },
+  {
+    "league_id": "20240001",
+    "hero_id": 502,
+    "hero": "裴擒虎",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20240001",
+    "hero_id": 157,
+    "hero": "不知火舞",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20240001",
+    "hero_id": 152,
+    "hero": "王昭君",
+    "issue": "outcome_counts_inconsistent"
+  },
+  {
+    "league_id": "20240001",
+    "hero_id": 152,
+    "hero": "王昭君",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20240001",
+    "hero_id": 134,
+    "hero": "达摩",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20240001",
+    "hero_id": 503,
+    "hero": "狂铁",
+    "issue": "outcome_counts_inconsistent"
+  },
+  {
+    "league_id": "20240001",
+    "hero_id": 503,
+    "hero": "狂铁",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20240001",
+    "hero_id": 176,
+    "hero": "杨玉环",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20240001",
+    "hero_id": 171,
+    "hero": "张飞",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20240001",
+    "hero_id": 519,
+    "hero": "敖隐",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20240001",
+    "hero_id": 563,
+    "hero": "海诺",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20240001",
+    "hero_id": 191,
+    "hero": "大乔",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20240001",
+    "hero_id": 159,
+    "hero": "朵莉亚",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20240001",
+    "hero_id": 194,
+    "hero": "苏烈",
+    "issue": "outcome_counts_inconsistent"
+  },
+  {
+    "league_id": "20240001",
+    "hero_id": 194,
+    "hero": "苏烈",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20240001",
+    "hero_id": 564,
+    "hero": "姬小满",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20240001",
+    "hero_id": 523,
+    "hero": "西施",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20240001",
+    "hero_id": 126,
+    "hero": "夏侯惇",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20240001",
+    "hero_id": 111,
+    "hero": "孙尚香",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20240001",
+    "hero_id": 139,
+    "hero": "老夫子",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20240001",
+    "hero_id": 128,
+    "hero": "曹操",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20240001",
+    "hero_id": 542,
+    "hero": "暃",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20240001",
+    "hero_id": 518,
+    "hero": "马超",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20240001",
+    "hero_id": 198,
+    "hero": "梦奇",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20240001",
+    "hero_id": 536,
+    "hero": "夏洛特",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20240001",
+    "hero_id": 186,
+    "hero": "太乙真人",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20240001",
+    "hero_id": 508,
+    "hero": "伽罗",
+    "issue": "outcome_counts_inconsistent"
+  },
+  {
+    "league_id": "20240001",
+    "hero_id": 169,
+    "hero": "后羿",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20240001",
+    "hero_id": 199,
+    "hero": "公孙离",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20240001",
+    "hero_id": 312,
+    "hero": "沈梦溪",
+    "issue": "outcome_counts_inconsistent"
+  },
+  {
+    "league_id": "20240001",
+    "hero_id": 312,
+    "hero": "沈梦溪",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20240001",
+    "hero_id": 124,
+    "hero": "周瑜",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20240002",
+    "hero_id": 525,
+    "hero": "鲁班大师",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20240002",
+    "hero_id": 149,
+    "hero": "刘邦",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20240002",
+    "hero_id": 517,
+    "hero": "大司命",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20240002",
+    "hero_id": 152,
+    "hero": "王昭君",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20240002",
+    "hero_id": 127,
+    "hero": "甄姬",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20240002",
+    "hero_id": 128,
+    "hero": "曹操",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20240002",
+    "hero_id": 199,
+    "hero": "公孙离",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20240002",
+    "hero_id": 157,
+    "hero": "不知火舞",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20240002",
+    "hero_id": 159,
+    "hero": "朵莉亚",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20240002",
+    "hero_id": 130,
+    "hero": "宫本武藏",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20240002",
+    "hero_id": 537,
+    "hero": "司空震",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20240002",
+    "hero_id": 112,
+    "hero": "鲁班七号",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20240002",
+    "hero_id": 126,
+    "hero": "夏侯惇",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20240002",
+    "hero_id": 176,
+    "hero": "杨玉环",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20240002",
+    "hero_id": 548,
+    "hero": "戈娅",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20240002",
+    "hero_id": 518,
+    "hero": "马超",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20240002",
+    "hero_id": 514,
+    "hero": "亚连",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20240003",
+    "hero_id": 128,
+    "hero": "曹操",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20240003",
+    "hero_id": 159,
+    "hero": "朵莉亚",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20240003",
+    "hero_id": 577,
+    "hero": "少司缘",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20240003",
+    "hero_id": 169,
+    "hero": "后羿",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20240003",
+    "hero_id": 180,
+    "hero": "哪吒",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20240003",
+    "hero_id": 525,
+    "hero": "鲁班大师",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20240003",
+    "hero_id": 517,
+    "hero": "大司命",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20240003",
+    "hero_id": 105,
+    "hero": "廉颇",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20240003",
+    "hero_id": 191,
+    "hero": "大乔",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20240003",
+    "hero_id": 527,
+    "hero": "蒙恬",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20240003",
+    "hero_id": 536,
+    "hero": "夏洛特",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20240003",
+    "hero_id": 152,
+    "hero": "王昭君",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20240003",
+    "hero_id": 176,
+    "hero": "杨玉环",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20240003",
+    "hero_id": 139,
+    "hero": "老夫子",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20240003",
+    "hero_id": 112,
+    "hero": "鲁班七号",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20240003",
+    "hero_id": 196,
+    "hero": "百里守约",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20240003",
+    "hero_id": 502,
+    "hero": "裴擒虎",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20240003",
+    "hero_id": 157,
+    "hero": "不知火舞",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20240003",
+    "hero_id": 127,
+    "hero": "甄姬",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20240003",
+    "hero_id": 563,
+    "hero": "海诺",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20240003",
+    "hero_id": 156,
+    "hero": "张良",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20240003",
+    "hero_id": 199,
+    "hero": "公孙离",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20240004",
+    "hero_id": 112,
+    "hero": "鲁班七号",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20240004",
+    "hero_id": 510,
+    "hero": "孙策",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20240004",
+    "hero_id": 186,
+    "hero": "太乙真人",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20240004",
+    "hero_id": 527,
+    "hero": "蒙恬",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20240004",
+    "hero_id": 525,
+    "hero": "鲁班大师",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20240004",
+    "hero_id": 111,
+    "hero": "孙尚香",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20240004",
+    "hero_id": 517,
+    "hero": "大司命",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20240004",
+    "hero_id": 176,
+    "hero": "杨玉环",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20240004",
+    "hero_id": 531,
+    "hero": "镜",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20240004",
+    "hero_id": 501,
+    "hero": "明世隐",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20240004",
+    "hero_id": 521,
+    "hero": "海月",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20240004",
+    "hero_id": 133,
+    "hero": "狄仁杰",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20250001",
+    "hero_id": 199,
+    "hero": "公孙离",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20250001",
+    "hero_id": 577,
+    "hero": "少司缘",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20250001",
+    "hero_id": 171,
+    "hero": "张飞",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20250001",
+    "hero_id": 312,
+    "hero": "沈梦溪",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20250001",
+    "hero_id": 502,
+    "hero": "裴擒虎",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20250001",
+    "hero_id": 193,
+    "hero": "铠",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20250001",
+    "hero_id": 140,
+    "hero": "关羽",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20250001",
+    "hero_id": 533,
+    "hero": "阿古朵",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20250001",
+    "hero_id": 537,
+    "hero": "司空震",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20250001",
+    "hero_id": 186,
+    "hero": "太乙真人",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20250001",
+    "hero_id": 111,
+    "hero": "孙尚香",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20250001",
+    "hero_id": 157,
+    "hero": "不知火舞",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20250001",
+    "hero_id": 503,
+    "hero": "狂铁",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20250002",
+    "hero_id": 525,
+    "hero": "鲁班大师",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20250002",
+    "hero_id": 128,
+    "hero": "曹操",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20250002",
+    "hero_id": 112,
+    "hero": "鲁班七号",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20250002",
+    "hero_id": 581,
+    "hero": "元流之子(坦克)",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20250002",
+    "hero_id": 312,
+    "hero": "沈梦溪",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20250003",
+    "hero_id": 581,
+    "hero": "元流之子(坦克)",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20250003",
+    "hero_id": 112,
+    "hero": "鲁班七号",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20250003",
+    "hero_id": 525,
+    "hero": "鲁班大师",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20250003",
+    "hero_id": 128,
+    "hero": "曹操",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20250003",
+    "hero_id": 312,
+    "hero": "沈梦溪",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20250004",
+    "hero_id": 128,
+    "hero": "曹操",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20250004",
+    "hero_id": 517,
+    "hero": "大司命",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20250004",
+    "hero_id": 199,
+    "hero": "公孙离",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20250004",
+    "hero_id": 509,
+    "hero": "盾山",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20250004",
+    "hero_id": 312,
+    "hero": "沈梦溪",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20260001",
+    "hero_id": 519,
+    "hero": "敖隐",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20260001",
+    "hero_id": 517,
+    "hero": "大司命",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20260001",
+    "hero_id": 312,
+    "hero": "沈梦溪",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20260001",
+    "hero_id": 581,
+    "hero": "元流之子(坦克)",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20260001",
+    "hero_id": 525,
+    "hero": "鲁班大师",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20260002",
+    "hero_id": 519,
+    "hero": "敖隐",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20260002",
+    "hero_id": 312,
+    "hero": "沈梦溪",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20260002",
+    "hero_id": 199,
+    "hero": "公孙离",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20260002",
+    "hero_id": 525,
+    "hero": "鲁班大师",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20260002",
+    "hero_id": 581,
+    "hero": "元流之子(坦克)",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20260002",
+    "hero_id": 509,
+    "hero": "盾山",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20260002",
+    "hero_id": 517,
+    "hero": "大司命",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20260003",
+    "hero_id": 519,
+    "hero": "敖隐",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20260003",
+    "hero_id": 312,
+    "hero": "沈梦溪",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20260003",
+    "hero_id": 525,
+    "hero": "鲁班大师",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20260003",
+    "hero_id": 140,
+    "hero": "关羽",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20260003",
+    "hero_id": 175,
+    "hero": "钟馗",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20260003",
+    "hero_id": 106,
+    "hero": "小乔",
+    "issue": "bp_pick_differs_from_battle_count"
+  },
+  {
+    "league_id": "20260003",
+    "hero_id": 107,
+    "hero": "赵云",
+    "issue": "bp_pick_differs_from_battle_count"
+  }
+]

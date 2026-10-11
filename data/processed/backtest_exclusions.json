@@ -1,0 +1,11 @@
+[
+  {
+    "previous_league_id": "20250001",
+    "previous_event": "2025年KPL春季赛",
+    "previous_catalog_end": "2025-06-06",
+    "target_league_id": "20250002",
+    "target_event": "2025年KPL夏季赛",
+    "target_catalog_start": "2025-06-04",
+    "reason": "previous_catalog_window_not_closed_by_target_start"
+  }
+]

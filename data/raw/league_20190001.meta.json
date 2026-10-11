@@ -1,0 +1,10 @@
+{
+  "key": "league_20190001",
+  "url": "https://prod.comp.smoba.qq.com/leaguesite/league/hero/settle_list/open?league_id=20190001",
+  "retrieved_at": "2026-10-10T17:24:23.247634+00:00",
+  "sha256": "27315bb74e1cd7fc9e250de3f3f33b641fb8b2b700cedd36ec96067f97aa3476",
+  "http_status": 200,
+  "request_body": null,
+  "bytes": 36629,
+  "provider": "Tencent public aggregate"
+}

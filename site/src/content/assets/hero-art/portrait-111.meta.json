@@ -1,0 +1,15 @@
+{
+  "key": "portrait-111",
+  "url": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/111/111.jpg",
+  "source_page": "https://pvp.qq.com/web201605/herodetail/111.shtml",
+  "provider": "Tencent / 王者荣耀官方美术",
+  "retrieved_at": "2026-10-11T10:02:05.130708+00:00",
+  "http_status": 200,
+  "original_sha256": "17525a5df5ea595566dcd67688919e866bdab1169412204ea25095294014e847",
+  "asset_sha256": "c4923b810426c04217068f87491498ddda02ec4418dfac4c8b0dfc57fd1e804d",
+  "dimensions": [
+    100,
+    100
+  ],
+  "bytes": 4192
+}

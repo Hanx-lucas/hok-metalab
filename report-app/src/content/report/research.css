@@ -1,0 +1,13 @@
+.hok-research { --data-app-layout-intent:authored-report; --data-app-content-width:960px; padding-bottom:48px; }
+.hok-research .research-opening { margin:36px 0; }
+.hok-research .research-eyebrow { display:block; font-size:12px; font-weight:600; color:var(--chart-1); margin-bottom:20px; letter-spacing:1px; }
+.hok-research h1 { font-size:clamp(32px,4vw,48px); line-height:1.28; letter-spacing:-1px; max-width:850px; margin:0 0 24px; color:var(--text); }
+.hok-research .research-links { display:flex; flex-wrap:wrap; gap:20px; font-size:13px; margin:22px 0 36px; }
+.hok-research a { color:var(--chart-1); text-underline-offset:4px; }
+.hok-research h2 { margin-top:30px; font-size:24px; line-height:1.45; }
+.hok-research p,.hok-research li { line-height:1.9; }
+.hok-research .research-footer { margin-top:40px; border-top:1px solid var(--border); padding-top:20px; display:flex; justify-content:space-between; flex-wrap:wrap; gap:12px; font-size:12px; color:var(--secondary); }
+@media(max-width:600px) { .hok-research .research-opening { margin-top:22px; } .hok-research h1 { font-size:32px; } }
+
+.hok-research .research-title-line {display:block;}
+@media(max-width:600px){.hok-research h1{font-size:30px;}}

@@ -1,0 +1,15 @@
+{
+  "key": "portrait-513",
+  "url": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/513/513.jpg",
+  "source_page": "https://pvp.qq.com/web201605/herodetail/513.shtml",
+  "provider": "Tencent / 王者荣耀官方美术",
+  "retrieved_at": "2026-10-11T10:02:18.477664+00:00",
+  "http_status": 200,
+  "original_sha256": "032e8c7ca1b45cfc33810e01e77647fc916af82e502fed0589628415568dd230",
+  "asset_sha256": "77e4aadbe2f483c134fb6d8f02885d89f4b73db8c2eb9449f5ffb3cf348ba81c",
+  "dimensions": [
+    90,
+    90
+  ],
+  "bytes": 3062
+}

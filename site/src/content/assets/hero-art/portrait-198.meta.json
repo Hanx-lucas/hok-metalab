@@ -1,0 +1,15 @@
+{
+  "key": "portrait-198",
+  "url": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/198/198.jpg",
+  "source_page": "https://pvp.qq.com/web201605/herodetail/198.shtml",
+  "provider": "Tencent / 王者荣耀官方美术",
+  "retrieved_at": "2026-10-11T10:02:15.769131+00:00",
+  "http_status": 200,
+  "original_sha256": "8b55cf36f4ca29d66e6d389bbbc38f727bdc4517b7245ec797f0fe465832270d",
+  "asset_sha256": "2f7956e3621db13a79ff5115790616dbc4a91289f117ef949e92aa10e81bd711",
+  "dimensions": [
+    100,
+    100
+  ],
+  "bytes": 4200
+}

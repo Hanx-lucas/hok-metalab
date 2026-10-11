@@ -1,0 +1,11 @@
+{
+  "key": "susu_history_140",
+  "url": "https://api.91m.top/hero/app?type=getHeroChartsLog&aid=0&bid=0&cid=0&did=0&id=140&gameType=wzry",
+  "method": "POST",
+  "http_status": 200,
+  "retrieved_at": "2026-10-11T08:05:05.867697+00:00",
+  "sha256": "a6bc2e8221560901ad01886571f65cc7a5001b2951cd7f5e5fedd488ce858a14",
+  "bytes": 1083195,
+  "classification": "third_party_public_aggregate",
+  "credentials_used": false
+}

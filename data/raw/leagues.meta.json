@@ -1,0 +1,10 @@
+{
+  "key": "leagues",
+  "url": "https://prod.comp.smoba.qq.com/leaguesite/leagues/open",
+  "retrieved_at": "2026-10-10T17:24:20.893885+00:00",
+  "sha256": "3f9ff969a7c749efacb8eca05c383242593e6620c5612d1cc4c099c7ccc2b379",
+  "http_status": 200,
+  "request_body": null,
+  "bytes": 12619,
+  "provider": "Tencent public aggregate"
+}
