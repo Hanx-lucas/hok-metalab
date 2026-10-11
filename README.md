@@ -30,7 +30,7 @@ python -m unittest discover -s tests -v
 python -m http.server 4173 --directory docs
 ```
 
-匿名公开原始响应及SHA-256元数据在`data/raw/`。源表缺失不补零、不制造样本数。原课程手工Excel未在此仓库分发，重跑会跳过缺失的原手工表；它们不参与新版强度评分。`run.py --refresh`刷新腾讯数据；`scripts/prepare_daily_sources.py --refresh`刷新已验证的9个公开日常请求，保留原始响应。
+匿名公开原始响应及SHA-256元数据在`data/raw/`。源表缺失不补零、不制造样本数。原课程手工Excel未在此仓库分发，标准化手工表仅作为未核验历史样本留档，不参与新版强度评分；重跑会跳过缺失的原手工Excel。`run.py --refresh`刷新腾讯数据；`scripts/prepare_daily_sources.py --refresh`刷新已验证的9个公开日常请求，保留原始响应。
 
 `site/src/content/`和`report-app/src/content/`保留作者页面内容及主题源码。共享运行时不是本项目从零研发，网页重建需要安装Codex Data Analytics插件的官方构建工具；当前仓库不复制其受保护源码。`docs/`内完整构建成果可以直接托管。报告绘图及PDF重建需要中文字体；当前配置Windows微软雅黑。
 

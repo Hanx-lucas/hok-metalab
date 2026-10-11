@@ -41,7 +41,7 @@ export function SeasonStrength({queries,prefix='season',report=false}){
   <div className="strength-map-scroll"><div className="strength-map-wide">
    <EvidenceChart id={`${prefix}-heatmap`} title="逐赛季相对强度变化：颜色越深，同届综合表现越靠前" variant="card" queryId="strength_history" rows={matrix} sourceRows={matrix} height={535}
     spec={{type:'heatmap',x:'seasonLabel',y:'score',yLabel:'英雄',series:'hero',categoryOrder:categories,seriesOrder:heroes,colorDomain:[0,100],showValues:true,valueDecimals:1,reverseRows:true,rowHeight:32,markRadius:4,missingValues:'gap',showLegend:false,
-     colorBands:[{max:60,color:'#e7edf8',label:'<60'},{max:75,color:'#aec6ed',label:'60–75'},{max:85,color:'#739cde',label:'75–85'},{max:95,color:'#2057d6',label:'85–95'},{color:'#173554',label:'95–100'}],
+     colorBands:[{max:60,color:'#e6ede4',label:'<60'},{max:75,color:'#b4c7b2',label:'60–75'},{max:85,color:'#7da381',label:'75–85'},{max:95,color:'#497857',label:'85–95'},{color:'#274d36',label:'95–100'}],
      tooltipFields:[{field:'event',label:'赛事'},{field:'battles',label:'场次'},{field:'rank',label:'同届全部有效英雄名次'},{field:'posteriorRate',label:'平滑胜率'}]}}/>
   </div></div>
   <p className="strength-footnote">空白表示缺失或少于30场；手机端可左右滑动查看完整赛季。</p>

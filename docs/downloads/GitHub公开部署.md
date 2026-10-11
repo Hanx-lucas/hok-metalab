@@ -1,6 +1,11 @@
 # GitHub Pages公开部署
 
-项目发布为公开GitHub仓库中的静态网站。页面不依赖本机4173端口；完成部署后，读者可直接用公开HTTPS链接访问。
+项目已发布为公开GitHub仓库中的静态网站。页面不依赖本机4173端口，读者可直接用公开HTTPS链接访问。
+
+- 公开网站：[HoK MetaLab](https://hanx-lucas.github.io/hok-metalab/)
+- 仓库：[Hanx-lucas/hok-metalab](https://github.com/Hanx-lucas/hok-metalab)
+- 赛事报告：[逐届赛事变化与模型验证](https://hanx-lucas.github.io/hok-metalab/reports/index.html)
+- 首次上线：2026-10-11；GitHub Pages已返回built状态。后续推送main分支将重新发布，可能需要短暂等待。
 
 ## 发布内容
 

@@ -13,6 +13,8 @@ def copy(source,target):
 
 def app(source,target):
     manifest=json.loads((source/'data-app-build.json').read_text(encoding='utf-8'))
+    snapshot=json.loads((source/manifest['snapshot']['path']).read_text(encoding='utf-8'))
+    assert snapshot.get('buildStatus')=='complete','Publish only completed app builds'
     for key in ['html','snapshot']:
         entry=manifest[key];filename=entry['path']
         assert Path(filename).name==filename,'Unexpected nonlocal build reference'
@@ -39,14 +41,14 @@ for folder in ['hoklab','tests']:
     for p in (ROOT/folder).glob('*.py'):copy(p,p.relative_to(ROOT))
 for name in ['run.py','requirements.txt','requirements-lock.txt']:
     copy(ROOT/name,name)
-for name in ['prepare_daily_sources.py','prepare_hero_art.py','stage_github_pages.py','build_web.py','serve_portfolio.ps1','strength_board_qa.cjs']:
+for name in ['prepare_daily_sources.py','configure_camp.py','prepare_hero_art.py','stage_github_pages.py','build_web.py','serve_portfolio.ps1','strength_board_qa.cjs']:
     copy(ROOT/'scripts'/name,Path('scripts')/name)
 for p in (ROOT/'data/raw').glob('*.json'):
     if p.name.startswith(('heroes.','leagues.','league_')):copy(p,p.relative_to(ROOT))
 for p in (ROOT/'data/raw/alternative').glob('susu_*.json'):copy(p,p.relative_to(ROOT))
 copy(ROOT/'data/reviewed_snapshot.json','data/reviewed_snapshot.json')
 for p in (ROOT/'data/processed').glob('*'):
-    if p.is_file() and p.suffix in ['.csv','.json','.sqlite'] and not p.name.startswith(('camp','legacy')):
+    if p.is_file() and p.suffix in ['.csv','.json','.sqlite'] and not p.name.startswith('camp'):
         copy(p,p.relative_to(ROOT))
 for folder in ['site','report-app']:
     for p in (ROOT/folder/'src/content').rglob('*'):
@@ -56,6 +58,7 @@ for folder in ['site','report-app']:
 for name in ['frontend_design_skill.txt','frontend_design_license.txt','frontend_skill_repo.json']:
     copy(ROOT/'research'/name,Path('research')/name)
 copy(ROOT/'output/qa/strength-board-desktop.png','assets/preview.png')
+(OUT/'.gitattributes').write_text('* -text\n',encoding='utf-8')
 (OUT/'.gitignore').write_text('.venv/\n.deps/\n__pycache__/\n*.pyc\nprivate/\n.env*\noutput/\n**/.data-app-offline/\nnode_modules/\n*.log\n',encoding='utf-8')
 (OUT/'README.md').write_text("""# HoK MetaLab · 王者荣耀英雄强度分析
 
@@ -89,7 +92,7 @@ python -m unittest discover -s tests -v
 python -m http.server 4173 --directory docs
 ```
 
-匿名公开原始响应及SHA-256元数据在`data/raw/`。源表缺失不补零、不制造样本数。原课程手工Excel未在此仓库分发，重跑会跳过缺失的原手工表；它们不参与新版强度评分。`run.py --refresh`刷新腾讯数据；`scripts/prepare_daily_sources.py --refresh`刷新已验证的9个公开日常请求，保留原始响应。
+匿名公开原始响应及SHA-256元数据在`data/raw/`。源表缺失不补零、不制造样本数。原课程手工Excel未在此仓库分发，标准化手工表仅作为未核验历史样本留档，不参与新版强度评分；重跑会跳过缺失的原手工Excel。`run.py --refresh`刷新腾讯数据；`scripts/prepare_daily_sources.py --refresh`刷新已验证的9个公开日常请求，保留原始响应。
 
 `site/src/content/`和`report-app/src/content/`保留作者页面内容及主题源码。共享运行时不是本项目从零研发，网页重建需要安装Codex Data Analytics插件的官方构建工具；当前仓库不复制其受保护源码。`docs/`内完整构建成果可以直接托管。报告绘图及PDF重建需要中文字体；当前配置Windows微软雅黑。
 
@@ -102,7 +105,7 @@ GitHub Pages配置：main分支、`/docs`目录。刷新并检查数据、重建
 赛事及英雄目录来自腾讯公开接口；日常来自[苏苏助手](https://pvp.91m.top/ranking)。英雄头像与赵云原画版权归腾讯《王者荣耀》，用于非商业作品集展示，来源与hash见[美术清单](docs/downloads/hero_art_manifest.json)。前端设计参考Anthropic的frontend-design技能，原文本与许可证位于`research/`。页面公共运行时与依赖属于其各自作者；[技能与开源参考](docs/downloads/技能与开源参考.md)保留归属说明。
 """,encoding='utf-8')
 # Check what will be committed, not the user's unrelated original project folder.
-files=[p for p in OUT.rglob('*') if p.is_file() and '.git' not in p.relative_to(OUT).parts]
+files=[p for p in OUT.rglob('*') if p.is_file() and not any(x in ['.git','__pycache__','.venv','.deps'] for x in p.relative_to(OUT).parts)]
 for p in files:
     assert p.stat().st_size<95_000_000,p.name
     assert not any(x.lower() in ['private','.env','camp_headers.json'] for x in p.relative_to(OUT).parts)
