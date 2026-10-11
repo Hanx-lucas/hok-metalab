@@ -16,8 +16,8 @@
   --border: light-dark(#d5ddd2, #394a3d);
   --border-strong: light-dark(#b9c5b5, #50604f);
   --accent: var(--chart-1);
-  --positive: var(--color-text-success, light-dark(#00a240, #40c977));
-  --negative: var(--color-text-error, light-dark(#e02e2a, #ff6764));
+  --positive: var(--chart-3);
+  --negative: var(--chart-2);
   --chart-1: light-dark(#8a692f, #dcc28e);
   --chart-2: light-dark(#a64135, #dd9582);
   --chart-3: light-dark(#37674f, #83b39b);

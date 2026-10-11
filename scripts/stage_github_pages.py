@@ -4,7 +4,7 @@ import hashlib,json,shutil,re
 ROOT=Path(__file__).resolve().parents[1]
 OUT=ROOT/'output/github-pages-repository'
 DOCS=['强度榜计算标准.md','GitHub公开部署.md','项目说明与面试指南.md','数据字典.md','研究报告.md','替代数据源核验.md','技能与开源参考.md','验收记录.md']
-CSV=['hero_metrics','coverage','quality_issues','sensitivity','backtest','backtest_exclusions','season_summary','season_leaders','strength_history','daily_current','daily_history','daily_coverage','daily_reconciliation','daily_summary','strength_rankings','strength_contexts','strength_lane_rankings']
+CSV=['hero_metrics','coverage','quality_issues','sensitivity','backtest','backtest_exclusions','season_summary','season_leaders','strength_history','daily_current','daily_history','daily_coverage','daily_reconciliation','daily_summary','strength_rankings','strength_contexts','strength_lane_rankings','strength_analysis_points','strength_analysis_history','strength_analysis_drivers']
 
 def copy(source,target):
     target=OUT/target
@@ -41,7 +41,7 @@ for folder in ['hoklab','tests']:
     for p in (ROOT/folder).glob('*.py'):copy(p,p.relative_to(ROOT))
 for name in ['run.py','requirements.txt','requirements-lock.txt']:
     copy(ROOT/name,name)
-for name in ['prepare_daily_sources.py','configure_camp.py','prepare_hero_art.py','stage_github_pages.py','build_web.py','serve_portfolio.ps1','strength_board_qa.cjs']:
+for name in ['prepare_daily_sources.py','configure_camp.py','prepare_hero_art.py','stage_github_pages.py','build_web.py','serve_portfolio.ps1','strength_board_qa.cjs','strength_analysis_qa.cjs']:
     copy(ROOT/'scripts'/name,Path('scripts')/name)
 for p in (ROOT/'data/raw').glob('*.json'):
     if p.name.startswith(('heroes.','leagues.','league_')):copy(p,p.relative_to(ROOT))
@@ -66,7 +66,7 @@ copy(ROOT/'output/qa/strength-board-desktop.png','assets/preview.png')
 
 ![作品集预览](assets/preview.png)
 
-作者：肖涵。基于公开真实数据的Python分析与交互作品集，提供综合强度、赛事强度、日常游戏强度三个入口。每个入口包含总榜Top10、五个分路Top5、全部英雄搜索、英雄详情与数据来源。
+作者：肖涵。基于公开真实数据的Python分析与交互作品集，提供综合强度、赛事强度、日常游戏强度三个入口。每个入口包含总榜Top10、五个分路Top5、全部英雄搜索、英雄详情与数据来源。强度解读区包含评分贡献瀑布图、场景/禁选散点图、四档分段热力图和历届赛事折线图，支持切换英雄与查看图表来源。
 
 ## 数据与评分
 

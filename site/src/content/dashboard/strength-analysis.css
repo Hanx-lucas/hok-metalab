@@ -1,0 +1,9 @@
+.strength-board .sb-analysis {min-width:0}
+.strength-board .sb-analysis-heading {display:flex;align-items:baseline;gap:15px;flex-wrap:wrap;margin:5px 0 17px}
+.strength-board .sb-analysis-heading h2 {font-size:21px;margin:0}
+.strength-board .sb-analysis-heading>span {font-size:11px;color:var(--secondary)}
+.strength-board .sb-chart-grid {display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:20px;margin-bottom:20px}
+.strength-board .sb-chart-note {font-size:11px;line-height:1.8;color:var(--secondary);margin:14px 0 0}
+@media(max-width:850px){.strength-board .sb-chart-grid {grid-template-columns:minmax(0,1fr);gap:18px}.strength-board .sb-analysis-heading {gap:8px}.strength-board .sb-chart-note {font-size:11px}}
+
+.strength-board .sb-analysis-selector {display:flex;margin-top:14px;flex-wrap:wrap}

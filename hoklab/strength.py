@@ -146,4 +146,6 @@ def build_strength_queries(snapshot):
         write_table(name,rows);q[name]={'rows':rows,'source':source}
         with sqlite3.connect(ROOT/'data/processed/hoklab.sqlite') as conn:
             pd.DataFrame(rows).to_sql(name,conn,index=False,if_exists='replace')
+    from hoklab.strength_visuals import build_strength_visual_queries
+    build_strength_visual_queries(snapshot)
     return {'contexts':len(contexts),'ranking_rows':len(rankings),'lane_rows':len(lane_rankings),'latest_event':latest_context['event']}

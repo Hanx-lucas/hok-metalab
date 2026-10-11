@@ -2,6 +2,7 @@ import React,{useState} from 'react';
 import {DataComponent,DataTable,Dropdown,Dialog,SortableRegion,SortableItem,useDataApp,useDashboardTabs} from '../../data-app-public.jsx';
 import './strength-board.css';
 import {HeroPortrait,LaneIcon} from './HeroIdentity.jsx';
+import {StrengthAnalysis} from './StrengthAnalysis.jsx';
 import zhaoyunArt from '../assets/hero-art/splash-107.webp';
 const LANES=['对抗路','打野','中路','发育路','游走'];
 const LABELS={overall:'综合强度',arena:'赛事强度',rank:'日常游戏强度'};
@@ -58,7 +59,7 @@ export function DashboardContent(){
   {dimension==='overall'&&<p className="sb-note"><b>{context.combined_count} 位双场景评分 · {context.daily_only_count} 位日常替代</b>。采用最新已结束赛事与当前日常榜单，时间范围不同，作为跨场景参考。</p>}
   {dimension==='daily'&&<p className="sb-note">日常数据来自苏苏助手公开整理，尚未与营地对账；来源未提供样本量。</p>}
   {dimension==='arena'&&<p className="sb-note">腾讯公开赛事 · {context.event_start}–{context.event_end||'尚未结束'} · {context.event_status} · 至少30场且三项指标有效才参与排名。</p>}
-  <SortableRegion id={`${prefix}-layout`} variant="freeform" authoredRevision={1} className="sb-sections">
+  <SortableRegion id={`${prefix}-layout`} variant="freeform" authoredRevision={2} className="sb-sections">
    <SortableItem id={`${prefix}-top10`} label="总榜 Top 10" kind="custom">
     <DataComponent id={`${prefix}-top10`} queryId="strength_rankings" title="总榜 Top 10" variant="card" kind="custom" displayRows={top10} sourceRows={rows} description="与下方总榜使用相同范围和未舍入分数。点击英雄查看指标与分数贡献。">
      <div className="sb-top10" data-reviewed-rows>{top10.map(r=><button key={r.hero_id} className={`sb-hero-tile ${r.rank===1?'sb-hero-tile--first':''}`} onClick={()=>showDetail(r)} aria-label={`查看${r.hero}的强度数据`}><span className="sb-rank">{String(r.rank).padStart(2,'0')}</span><div className="sb-tile-person"><HeroPortrait id={r.hero_id} name={r.hero}/><div><h3>{r.hero}</h3><span className="sb-role">{r.roles}</span></div></div><Score value={r.score}/>{dimension==='overall'?<small className={r.overallBasis==='daily_only'?'sb-basis sb-basis--daily':'sb-basis'}>{r.overallBasis==='daily_only'?`日常替代 · 100%日常`:`赛事 ${score(r.arenaScore)} · 日常 ${score(r.dailyScore)}`}</small>:<small>胜率 {pct(dimension==='arena'?r.posteriorRate:r.dailyWinRate)}{dimension==='arena'?'（平滑）':''}</small>}</button>)}</div>
@@ -70,6 +71,7 @@ export function DashboardContent(){
      <div className="sb-lanes" data-reviewed-rows>{LANES.map((l,i)=><section key={l} className="sb-lane"><h3><LaneIcon lane={l}/>{l}</h3><ol>{lanes.filter(r=>r.lane===l).map(r=><li key={r.hero_id}><button onClick={()=>showDetail(r)} aria-label={`查看${l}${r.hero}的强度数据`}><span className="sb-lane-rank">{r.lane_rank}</span><HeroPortrait id={r.hero_id} name={r.hero} size="mini"/><span className="sb-lane-name">{r.hero}</span><Score value={r.score}/></button></li>)}</ol>{!lanes.some(r=>r.lane===l)&&<p className="sb-empty">暂无有效评分</p>}</section>)}</div><p className="sb-footnote">沿用总榜分数 · 当前官方推荐分路 · 多分路英雄可重复出现</p>
     </DataComponent>
    </SortableItem>
+   <SortableItem id={`${prefix}-analysis`} label="强度解读" kind="custom"><StrengthAnalysis key={contextId} queries={queries} dimension={dimension} context={context} top10={top10} onHero={showDetail}/></SortableItem>
    <SortableItem id={`${prefix}-all`} label="全部英雄总榜" kind="table">
     <DataComponent id={`${prefix}-all`} queryId="strength_rankings" title="全部英雄总榜" variant="card" kind="table" displayRows={filtered} sourceRows={filtered} description="已评分英雄按分数排序，未评分条目列在最后；搜索和分路筛选不改变原始名次。点击任意英雄查看证据。">
      <DataTable columns={columns} rows={filtered} searchable={false} label={`${LABELS[tab]}全部英雄总榜`} rowKey="hero_id" selectedRowKey={selected} onRowSelect={showDetail} rowActionLabel={r=>`查看${r.hero}的强度详情`} toolbarControls={<><label className="sb-search"><span>搜索英雄</span><input type="search" placeholder="输入英雄名或ID，例如赵云" value={search} onChange={e=>setSearch(e.target.value)}/></label><Dropdown label="总榜分路" showLabel value={lane} choices={['全部分路',...LANES]} onChange={setLane}/><span className="sb-result-count">{filtered.length} 条结果</span></>}/>

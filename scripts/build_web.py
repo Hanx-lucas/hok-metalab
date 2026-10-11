@@ -84,7 +84,7 @@ def main():
     shutil.copy2(ROOT/"report-app/.data-app-offline/exports/index.html",portable/"reports/index.html")
     downloads(portable/"downloads")
     shutil.copytree(ROOT/"output/figures",portable/"figures",dirs_exist_ok=True)
-    (portable/"README.txt").write_text("HoK MetaLab 便携作品集\n\n三维榜单：综合强度、赛事强度、日常游戏强度。各含Top10、分路Top5、完整搜索总榜与英雄详情；综合双场景各50%，赛事缺少有效评分时采用100%日常强度，日常缺失仍留空。\n双击 index.html 即可离线探索；报告、PDF、CSV与项目说明均在文件夹内。\n数据是2026年10月11日构建时的真实赛事快照，不会自动刷新。\n请完整复制文件夹。需要联网公开部署时请使用项目 site/dist 目录。\n已补充苏苏助手公开日常样本（当前四档、四英雄历史），尚未官方对账；营地官方授权仍待核验，原手工记录单独标记。\n",encoding="utf-8")
+    (portable/"README.txt").write_text("HoK MetaLab 便携作品集\n\n三维榜单：综合强度、赛事强度、日常游戏强度。各含Top10、分路Top5、完整搜索总榜与英雄详情，以及评分贡献瀑布图、表现散点图、分段热力图和历届赛事折线图；综合双场景各50%，赛事缺少有效评分时采用100%日常强度，日常缺失仍留空。\n双击 index.html 即可离线探索；报告、PDF、CSV与项目说明均在文件夹内。\n数据是2026年10月11日构建时的真实赛事快照，不会自动刷新。\n请完整复制文件夹。需要联网公开部署时请使用项目 site/dist 目录。\n已补充苏苏助手公开日常样本（当前四档、四英雄历史），尚未官方对账；营地官方授权仍待核验，原手工记录单独标记。\n",encoding="utf-8")
     archive=ROOT/"output/HoK-MetaLab-作品集.zip"
     with zipfile.ZipFile(archive,"w",compression=zipfile.ZIP_DEFLATED) as z:
         for file in sorted(portable.rglob("*")):
