@@ -1,0 +1,9 @@
+{
+  "passed": true,
+  "input_fingerprint": "d7e688d59a9ef6a23860969875e3ba8a3f0d08b708d6ecfe9ee6602781b50ec5",
+  "python_tests": 50,
+  "failures": 0,
+  "errors": 0,
+  "validation_scope": "source contracts, numerical invariants, V1 regression, independent lane pools, 30/70 composite and labeled daily fallback, temporal isolation",
+  "predictive_superiority": "unproven; descriptive temporal associations do not establish optimal weights"
+}

@@ -12,6 +12,7 @@ from pathlib import Path
 
 ROOT=Path(__file__).resolve().parents[1]
 sys.path.insert(0,str(ROOT))
+if (ROOT/'.deps').exists():sys.path.insert(0,str(ROOT/'.deps'))
 from hoklab.daily import build_daily_queries, SEGMENTS, HEROES
 
 def preserve(key, body, url, captured_at):
@@ -42,7 +43,9 @@ def main():
             with urllib.request.urlopen(request,timeout=25) as response:body=response.read()
             preserve(key,body,url,datetime.now(timezone.utc).isoformat());time.sleep(2)
     else:
-        requests=json.loads((research/'susu-ui-requests.json').read_text(encoding='utf-8'))
+        # Published cache replay must not depend on private browser research artifacts.
+        cache_complete=all((ROOT/'data/raw/alternative'/(key+'.json')).exists() for key in targets)
+        requests=[] if cache_complete else json.loads((research/'susu-ui-requests.json').read_text(encoding='utf-8'))
         for key,url in targets.items():
             if (ROOT/'data/raw/alternative'/(key+'.json')).exists():continue
             if key=='susu_app_info':

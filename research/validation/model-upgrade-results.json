@@ -1,0 +1,233 @@
+{
+  "baseUrl": "http://127.0.0.1:4175/",
+  "checks": [
+    {
+      "label": "V2 gated default; 30/70 and labeled daily-only fallback share composite board",
+      "passed": true
+    },
+    {
+      "label": "V2 composite 全分段: Top10 / independent lanes / same-source scatter",
+      "passed": true
+    },
+    {
+      "label": "V2 composite 巅峰赛1350+: Top10 / independent lanes / same-source scatter",
+      "passed": true
+    },
+    {
+      "label": "V2 composite 顶端排位: Top10 / independent lanes / same-source scatter",
+      "passed": true
+    },
+    {
+      "label": "V2 composite 巅峰千强: Top10 / independent lanes / same-source scatter",
+      "passed": true
+    },
+    {
+      "label": "V2 daily 全分段: Top10 / lane Top5 / valid scatter",
+      "passed": true
+    },
+    {
+      "label": "V2 daily 巅峰赛1350+: Top10 / lane Top5 / valid scatter",
+      "passed": true
+    },
+    {
+      "label": "V2 daily 顶端排位: Top10 / lane Top5 / valid scatter",
+      "passed": true
+    },
+    {
+      "label": "V2 daily 巅峰千强: Top10 / lane Top5 / valid scatter",
+      "passed": true
+    },
+    {
+      "label": "V2 latest KPL: sample gate / Top10 / lanes",
+      "passed": true
+    },
+    {
+      "label": "V1 composite 全分段: Top10 / independent lanes / same-source scatter",
+      "passed": true
+    },
+    {
+      "label": "V1 composite 巅峰赛1350+: Top10 / independent lanes / same-source scatter",
+      "passed": true
+    },
+    {
+      "label": "V1 composite 顶端排位: Top10 / independent lanes / same-source scatter",
+      "passed": true
+    },
+    {
+      "label": "V1 composite 巅峰千强: Top10 / independent lanes / same-source scatter",
+      "passed": true
+    },
+    {
+      "label": "V1 daily 全分段: Top10 / lane Top5 / valid scatter",
+      "passed": true
+    },
+    {
+      "label": "V1 daily 巅峰赛1350+: Top10 / lane Top5 / valid scatter",
+      "passed": true
+    },
+    {
+      "label": "V1 daily 顶端排位: Top10 / lane Top5 / valid scatter",
+      "passed": true
+    },
+    {
+      "label": "V1 daily 巅峰千强: Top10 / lane Top5 / valid scatter",
+      "passed": true
+    },
+    {
+      "label": "V1 latest KPL: sample gate / Top10 / lanes",
+      "passed": true
+    },
+    {
+      "label": "V2 对抗路 board uses its own comparison pool",
+      "passed": true
+    },
+    {
+      "label": "V2 打野 board uses its own comparison pool",
+      "passed": true
+    },
+    {
+      "label": "V2 中路 board uses its own comparison pool",
+      "passed": true
+    },
+    {
+      "label": "V2 发育路 board uses its own comparison pool",
+      "passed": true
+    },
+    {
+      "label": "V2 游走 board uses its own comparison pool",
+      "passed": true
+    },
+    {
+      "label": "weight slider reorders full precision; no null resurrection; reset matches archive",
+      "passed": true
+    },
+    {
+      "label": "全分段 敖隐: original rates, P/Z/N, contributions and pool are inspectable",
+      "passed": true
+    },
+    {
+      "label": "全分段 赵云: original rates, P/Z/N, contributions and pool are inspectable",
+      "passed": true
+    },
+    {
+      "label": "全分段 公孙离: original rates, P/Z/N, contributions and pool are inspectable",
+      "passed": true
+    },
+    {
+      "label": "巅峰赛1350+ 敖隐: original rates, P/Z/N, contributions and pool are inspectable",
+      "passed": true
+    },
+    {
+      "label": "巅峰赛1350+ 赵云: original rates, P/Z/N, contributions and pool are inspectable",
+      "passed": true
+    },
+    {
+      "label": "巅峰赛1350+ 公孙离: original rates, P/Z/N, contributions and pool are inspectable",
+      "passed": true
+    },
+    {
+      "label": "顶端排位 敖隐: original rates, P/Z/N, contributions and pool are inspectable",
+      "passed": true
+    },
+    {
+      "label": "顶端排位 赵云: original rates, P/Z/N, contributions and pool are inspectable",
+      "passed": true
+    },
+    {
+      "label": "顶端排位 公孙离: original rates, P/Z/N, contributions and pool are inspectable",
+      "passed": true
+    },
+    {
+      "label": "巅峰千强 敖隐: original rates, P/Z/N, contributions and pool are inspectable",
+      "passed": true
+    },
+    {
+      "label": "巅峰千强 赵云: original rates, P/Z/N, contributions and pool are inspectable",
+      "passed": true
+    },
+    {
+      "label": "巅峰千强 公孙离: original rates, P/Z/N, contributions and pool are inspectable",
+      "passed": true
+    },
+    {
+      "label": "source inspector honors searched one-row source",
+      "passed": true
+    },
+    {
+      "label": "coverage category exposes missing WR without zero; all 133 source records accounted",
+      "passed": true
+    },
+    {
+      "label": "waterfall endpoint equals scored hero and four quadrants classify index 50",
+      "passed": true
+    },
+    {
+      "label": "BP-missing old event is honest empty V2, not WR-only fabricated score",
+      "passed": true
+    },
+    {
+      "label": "KPL hero evidence uses Beta W and raw W separately; no low-sample pool",
+      "passed": true
+    },
+    {
+      "label": "daily-only LiXin shares composite board but shows 100%D and missing T reason",
+      "passed": true
+    },
+    {
+      "label": "mobile 390px overall: page fits; three charts and slider usable",
+      "passed": true
+    },
+    {
+      "label": "mobile 390px arena: page fits; three charts and slider usable",
+      "passed": true
+    },
+    {
+      "label": "mobile 390px daily: page fits; three charts and slider usable",
+      "passed": true
+    },
+    {
+      "label": "mobile 320px overall: page fits; three charts and slider usable",
+      "passed": true
+    },
+    {
+      "label": "mobile 320px arena: page fits; three charts and slider usable",
+      "passed": true
+    },
+    {
+      "label": "mobile 320px daily: page fits; three charts and slider usable",
+      "passed": true
+    },
+    {
+      "label": "hero artwork and portraits load from reviewed local assets",
+      "passed": true
+    },
+    {
+      "label": "V2 documentation and all key evidence CSV downloads are served",
+      "passed": true
+    },
+    {
+      "label": "report distinguishes V2 verification from archived V1/PDF findings",
+      "passed": true
+    },
+    {
+      "label": "portable offline build renders same V2 default and three charts",
+      "passed": true
+    }
+  ],
+  "runtimeErrors": [],
+  "badResponses": [],
+  "firstReadyMs": 2675,
+  "totalElapsedMs": 37044,
+  "finalPackage": true,
+  "buildHashes": {
+    "site": {
+      "html": "e4b0b16033cd3ae5d03561a4500e318ea3314ed13e668d734408691c3f9e41e4",
+      "snapshot": "32dd4ac9125d9abcbf4eec6ec603ea968eefe1db68ae5d3b5a58abbaaeb79c5d"
+    },
+    "report-app": {
+      "html": "dc11fbbc31bedbb715f0cc0b059549d89918c8574efa4ca59a561dad173b36bf",
+      "snapshot": "e2032c69af40ceb416abbe6769ed4b73ca0f271926e985a38fe57b385d4046f5"
+    }
+  },
+  "inputFingerprint": "d7e688d59a9ef6a23860969875e3ba8a3f0d08b708d6ecfe9ee6602781b50ec5"
+}

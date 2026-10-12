@@ -1,5 +1,6 @@
 """Build the canonical Data apps, then package HTTP and portable offline copies."""
 from __future__ import annotations
+import hashlib
 import argparse
 import json
 import os
@@ -34,12 +35,21 @@ def sync_snapshots(build_status='complete'):
     if snapshot["queries"]["summary"]["rows"][0]["prior"] != 20:
         raise SystemExit("The authored report expects prior=20; revise report wording before changing its prior.")
     leaders=snapshot['queries']['summary']['rows'][0]['top_heroes'][:2]
-    report_title=f"{leaders[0]['hero']}与{leaders[1]['hero']}领跑夏季赛，强势英雄随赛季更替"
+    report_title="V2英雄强度模型，计算依据与历史验证"
     for folder, surface, title in [("site","dashboard","王者荣耀 · MetaLab"),
         ("report-app","report",report_title)]:
         dest = ROOT/folder/"src/data.json"
         existing = json.loads(dest.read_text(encoding="utf-8"))
-        reviewed = {**snapshot, "id":existing["id"], "surface":surface, "title":title, "buildStatus":build_status}
+        # Keep complete rows/fields for every query used by the surface; omit unused archives.
+        names = ({'summary','model_release','model_contexts','model_rankings','daily_observations',
+                  'coverage_audit','coverage_summary','daily_summary'} if surface == 'dashboard' else
+                 {'summary','hero_metrics','coverage','quality_issues','season_summary','season_leaders',
+                  'strength_history','backtest','camp','daily_summary','model_validation_summary',
+                  'model_representatives','model_comparison','lane_coverage','model_release'})
+        reviewed = {**snapshot, "id":existing["id"], "surface":surface, "title":title, "buildStatus":build_status,
+                    'queries':{k:v for k,v in snapshot['queries'].items() if k in names},
+                    'sourceSnapshotSha256':hashlib.sha256((ROOT/'data/reviewed_snapshot.json').read_bytes()).hexdigest()}
+        assert names <= set(reviewed['queries']), 'A required source query is absent'
         if "legacyPresentationTitle" in existing:
             reviewed["legacyPresentationTitle"] = existing["legacyPresentationTitle"]
         if surface == "report":
@@ -84,7 +94,7 @@ def main():
     shutil.copy2(ROOT/"report-app/.data-app-offline/exports/index.html",portable/"reports/index.html")
     downloads(portable/"downloads")
     shutil.copytree(ROOT/"output/figures",portable/"figures",dirs_exist_ok=True)
-    (portable/"README.txt").write_text("HoK MetaLab 便携作品集\n\n三维榜单：综合强度、赛事强度、日常游戏强度。各含Top10、分路Top5、完整搜索总榜与英雄详情，以及评分贡献瀑布图、表现散点图、分段热力图和历届赛事折线图；综合双场景各50%，赛事缺少有效评分时采用100%日常强度，日常缺失仍留空。\n双击 index.html 即可离线探索；报告、PDF、CSV与项目说明均在文件夹内。\n数据是2026年10月11日构建时的真实赛事快照，不会自动刷新。\n请完整复制文件夹。需要联网公开部署时请使用项目 site/dist 目录。\n已补充苏苏助手公开日常样本（当前四档、四英雄历史），尚未官方对账；营地官方授权仍待核验，原手工记录单独标记。\n",encoding="utf-8")
+    (portable/"README.txt").write_text("HoK MetaLab 便携作品集\n\n三维榜单：综合强度、赛事强度、日常游戏强度。各含Top10、分路Top5、完整搜索总榜与英雄详情，以及评分贡献瀑布图、表现散点图、分段热力图和历届赛事折线图；V2为通过功能验证的试验默认模型，V1保留对照。综合双有效30%T/70%D，缺有效赛事时100%D同榜并明确依据，日常缺失留空。\n双击 index.html 即可离线探索；报告、PDF、CSV与项目说明均在文件夹内。\n数据来自带日期的公开快照；构建时间不代表数据统计日期，不会自动刷新。\n请完整复制文件夹。需要联网公开部署时请使用项目 site/dist 目录。\n已补充苏苏助手公开日常样本（当前四档、四英雄历史），尚未官方对账；营地官方授权仍待核验，原手工记录单独标记。\n",encoding="utf-8")
     archive=ROOT/"output/HoK-MetaLab-作品集.zip"
     with zipfile.ZipFile(archive,"w",compression=zipfile.ZIP_DEFLATED) as z:
         for file in sorted(portable.rglob("*")):
