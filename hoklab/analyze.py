@@ -26,7 +26,7 @@ def load(name):
 
 def dump(path, obj):
     path.parent.mkdir(parents=True, exist_ok=True)
-    path.write_text(json.dumps(obj, ensure_ascii=False, indent=2, allow_nan=False), encoding="utf-8")
+    path.write_text(json.dumps(obj, ensure_ascii=False, indent=None if path.name=='reviewed_snapshot.json' else 2, allow_nan=False), encoding="utf-8")
 
 def clean(obj):
     if isinstance(obj, dict):

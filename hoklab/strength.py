@@ -148,4 +148,6 @@ def build_strength_queries(snapshot):
             pd.DataFrame(rows).to_sql(name,conn,index=False,if_exists='replace')
     from hoklab.strength_visuals import build_strength_visual_queries
     build_strength_visual_queries(snapshot)
+    from hoklab.strength_v2 import build_v2_queries
+    build_v2_queries(snapshot)
     return {'contexts':len(contexts),'ranking_rows':len(rankings),'lane_rows':len(lane_rankings),'latest_event':latest_context['event']}
