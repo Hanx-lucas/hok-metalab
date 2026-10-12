@@ -2,7 +2,7 @@
 
 [公开作品集](https://hanx-lucas.github.io/hok-metalab/) · [GitHub源码](https://github.com/Hanx-lucas/hok-metalab) · [网页报告](https://hanx-lucas.github.io/hok-metalab/reports/index.html)
 
-作者：Lucas。沿用原Python数据管线与React游戏主题的升级项目。新版本在`upgrade/v2-strength-audit`独立分支，合并前线上main保持原发布。
+作者：Lucas。沿用原Python数据管线与React游戏主题的升级项目。V2升级分支已通过PR #1合并到main并部署至GitHub Pages；当前线上使用新版。
 
 ## 评分与交互
 
@@ -52,6 +52,6 @@ python scripts/stage_github_pages.py
 
 ## 发布与归属
 
-main的/docs为现有GitHub Pages目录。新分支完成数据、模型、文档和网页验收后才可合并发布；不能仅手改显示JSON或上传HTML而遗漏snapshot及data-app-build.json。网站展示构建快照，不自动刷新。最终验收与限制见[验收记录](docs/downloads/验收记录.md)。
+main的/docs为GitHub Pages目录；V2已于2026-10-12上线，公开网址52项交互检查通过。后续升级仍需完成数据、模型、文档和网页验收后再合并发布；不能仅手改显示JSON或上传HTML而遗漏snapshot及data-app-build.json。网站展示构建快照，不自动刷新。最终验收与限制见[验收记录](docs/downloads/验收记录.md)。
 
 英雄头像与赵云原画版权归腾讯《王者荣耀》，用于非商业作品集，来源与hash保留美术清单。日常来源[苏苏助手](https://pvp.91m.top/ranking)，声明与历史API限制见来源审计。前端设计参考Anthropic frontend-design，文本与许可证保留research；各依赖归其作者，见[技能与开源参考](docs/downloads/技能与开源参考.md)。
